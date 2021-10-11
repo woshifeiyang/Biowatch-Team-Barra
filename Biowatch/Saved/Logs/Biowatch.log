@@ -888,3 +888,1197 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.11-20.48.26:484][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.10.11-20.48.26:516][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
 [2021.10.11-20.48.26:545][874]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.10.11-20.51.41:931][151]LogSlate: Window 'Map' being destroyed
+[2021.10.11-20.51.41:943][151]LogSlate: Window 'Map' being destroyed
+[2021.10.11-20.51.41:945][151]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-20.51.41:945][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-20.51.44:856][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Camera.Camera
+[2021.10.11-20.51.53:699][ 89]LogSlate: Window 'Camera' being destroyed
+[2021.10.11-20.51.53:713][ 89]LogSlate: Window 'Camera' being destroyed
+[2021.10.11-20.51.53:715][ 89]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-20.51.53:715][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-20.52.02:419][854]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-20.52.02:423][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-20.52.02:423][854]PIE: New page: PIE会话：Map_1（2021年10月11日 下午10:52:02）
+[2021.10.11-20.52.02:466][854]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-20.52.02:474][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007311s)
+[2021.10.11-20.52.02:474][854]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-20.52.02:475][854]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2021.10.11-20.52.02:475][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008172s)
+[2021.10.11-20.52.02:513][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.10.11-20.52.02:517][854]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.11-20.52.02:517][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-20.52.02:517][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-20.52.02:517][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-20.52.02:517][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-20.52.02:517][854]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-20.52.02:517][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-20.52.02:517][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-20.52.02:517][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-20.52.02:518][854]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-20.52.02:518][854]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-20.52.02:520][854]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-20.52.02:520][854]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-20.52.02:528][854]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-20.52.02:528][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-20.52.02:528][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-20.52.02:528][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-20.52.02:528][854]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-20.52.02:528][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-20.52.02:528][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-20.52.02:540][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-20.52.02:540][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-20.52.02:540][854]LogInit: FAudioDevice initialized.
+[2021.10.11-20.52.02:540][854]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map_1'.
+[2021.10.11-20.52.02:549][854]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-20.52.02:550][854]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.11-21.52.02
+[2021.10.11-20.52.02:551][854]LogWorld: Bringing up level for play took: 0.001183
+[2021.10.11-20.52.02:551][854]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.10.11-20.52.02:552][854]PIE: 登陆的服务器
+[2021.10.11-20.52.02:553][854]PIE: PIE总开始时间：0.131秒。
+[2021.10.11-20.52.20:958][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-20.52.20:958][ 55]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-20.52.20:958][ 55]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-20.52.20:958][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-20.52.20:962][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-20.52.20:969][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-20.52.20:987][ 55]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-20.52.20:987][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-20.52.20:988][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-20.52.21:001][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-20.52.21:015][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.10.11-20.52.21:038][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.10.11-20.52.27:602][534]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Map/Map_1.Map_1:PersistentLevel.Map_1
+[2021.10.11-20.52.38:091][545]BlueprintLog: New page: 编译Map_1
+[2021.10.11-20.52.38:120][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.11-20.52.38:774][609]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-20.52.38:778][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-20.52.38:778][609]PIE: New page: PIE会话：Map_1（2021年10月11日 下午10:52:38）
+[2021.10.11-20.52.38:817][609]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-20.52.38:825][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008174s)
+[2021.10.11-20.52.38:826][609]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-20.52.38:826][609]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2021.10.11-20.52.38:826][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.009048s)
+[2021.10.11-20.52.38:840][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.10.11-20.52.38:841][609]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.11-20.52.38:841][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-20.52.38:841][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-20.52.38:841][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-20.52.38:841][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-20.52.38:841][609]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-20.52.38:841][609]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-20.52.38:841][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-20.52.38:841][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-20.52.38:841][609]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-20.52.38:841][609]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-20.52.38:844][609]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-20.52.38:844][609]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-20.52.38:852][609]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-20.52.38:852][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-20.52.38:852][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-20.52.38:852][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-20.52.38:852][609]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-20.52.38:852][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-20.52.38:852][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-20.52.38:864][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-20.52.38:864][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-20.52.38:864][609]LogInit: FAudioDevice initialized.
+[2021.10.11-20.52.38:864][609]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map_1'.
+[2021.10.11-20.52.38:876][609]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-20.52.38:878][609]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.11-21.52.38
+[2021.10.11-20.52.38:878][609]LogWorld: Bringing up level for play took: 0.001288
+[2021.10.11-20.52.38:878][609]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.10.11-20.52.38:880][609]PIE: 登陆的服务器
+[2021.10.11-20.52.38:880][609]PIE: PIE总开始时间：0.103秒。
+[2021.10.11-20.52.41:163][879]Set new viewmode: Wireframe
+[2021.10.11-20.52.41:854][962]Set new viewmode: Wireframe
+[2021.10.11-20.52.42:863][ 83]Set new viewmode: Wireframe
+[2021.10.11-20.52.43:879][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-20.52.43:879][201]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-20.52.43:879][201]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-20.52.43:879][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-20.52.43:884][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-20.52.43:890][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-20.52.43:903][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-20.52.43:903][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-20.52.43:904][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-20.52.43:919][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.10.11-20.52.43:961][203]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.10.11-20.52.44:802][301]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-20.52.44:806][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-20.52.44:806][301]PIE: New page: PIE会话：Map_1（2021年10月11日 下午10:52:44）
+[2021.10.11-20.52.44:806][301]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-20.52.44:813][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006976s)
+[2021.10.11-20.52.44:813][301]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-20.52.44:814][301]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2021.10.11-20.52.44:814][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.007748s)
+[2021.10.11-20.52.44:828][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.10.11-20.52.44:828][301]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.10.11-20.52.44:828][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-20.52.44:828][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-20.52.44:828][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-20.52.44:828][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-20.52.44:828][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-20.52.44:828][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-20.52.44:828][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-20.52.44:828][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-20.52.44:829][301]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-20.52.44:829][301]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-20.52.44:831][301]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-20.52.44:831][301]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-20.52.44:839][301]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-20.52.44:839][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-20.52.44:839][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-20.52.44:839][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-20.52.44:839][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-20.52.44:839][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-20.52.44:839][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-20.52.44:851][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-20.52.44:851][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-20.52.44:851][301]LogInit: FAudioDevice initialized.
+[2021.10.11-20.52.44:851][301]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map_1'.
+[2021.10.11-20.52.44:855][301]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-20.52.44:856][301]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.11-21.52.44
+[2021.10.11-20.52.44:856][301]LogWorld: Bringing up level for play took: 0.001118
+[2021.10.11-20.52.44:856][301]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.10.11-20.52.44:858][301]PIE: 登陆的服务器
+[2021.10.11-20.52.44:858][301]PIE: PIE总开始时间：0.053秒。
+[2021.10.11-20.53.07:129][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-20.53.07:129][969]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-20.53.07:129][969]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-20.53.07:129][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-20.53.07:134][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-20.53.07:141][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-20.53.07:154][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-20.53.07:155][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-20.53.07:155][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-20.53.07:171][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.10.11-20.53.07:233][971]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.10.11-20.53.33:112][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.10.11-20.53.33:113][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.11-20.53.33:144][181]LogSavePackage: Moving 'E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto1812163AA4778273E6325DCB94788CECC.tmp' to 'E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto1.umap'
+[2021.10.11-20.53.33:145][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.047
+[2021.10.11-20.53.33:145][181]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2021.10.11-22.23.31:480][955]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.11-22.29.34:272][903]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.10.11-22.31.48:512][245]LogSlate: Window '项目设置' being destroyed
+[2021.10.11-22.31.48:516][245]LogSlate: Window '项目设置' being destroyed
+[2021.10.11-22.32.04:486][505]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Camera.Camera
+[2021.10.11-22.59.06:339][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.10.11-22.59.06:341][812]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.021
+[2021.10.11-22.59.06:341][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Camera] ([1] browsable assets)...
+[2021.10.11-22.59.06:341][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Camera]
+[2021.10.11-22.59.06:341][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Camera" FILE="E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/BluePrint/Camera_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.10.11-22.59.06:345][812]LogSavePackage: Moving 'E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Camera_Auto24881FA684E02A4BB747260A73741E152.tmp' to 'E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/BluePrint/Camera_Auto2.uasset'
+[2021.10.11-22.59.06:345][812]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.10.11-23.01.48:236][180]LogEditorViewport: Clicking on Actor (LMB): Camera_C (Camera1)
+[2021.10.11-23.02.24:297][472]LogEditorViewport: Clicking on Actor (LMB): Camera_C (Camera2)
+[2021.10.11-23.02.38:640][173]LogEditorViewport: Clicking on Actor (LMB): Camera_C (Camera3)
+[2021.10.11-23.05.12:368][940]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.10.11-23.06.15:640][ 23]LogSlate: Window '项目设置' being destroyed
+[2021.10.11-23.06.15:652][ 23]LogSlate: Window '项目设置' being destroyed
+[2021.10.11-23.06.18:311][306]BlueprintLog: New page: 编译Camera
+[2021.10.11-23.06.18:354][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.11-23.06.20:350][518]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.06.20:353][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.06.20:353][518]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:06:20）
+[2021.10.11-23.06.20:379][518]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.06.20:388][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008451s)
+[2021.10.11-23.06.20:388][518]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.06.20:389][518]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2021.10.11-23.06.20:389][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.009453s)
+[2021.10.11-23.06.20:405][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.10.11-23.06.20:405][518]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.10.11-23.06.20:406][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.06.20:406][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.06.20:406][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.06.20:406][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.06.20:406][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.06.20:406][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.06.20:406][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.06.20:406][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.06.20:406][518]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.06.20:406][518]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.06.20:409][518]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.06.20:409][518]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.06.20:417][518]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.06.20:418][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.06.20:418][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.06.20:418][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.06.20:418][518]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.06.20:418][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.06.20:418][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.06.20:430][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.06.20:430][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.06.20:430][518]LogInit: FAudioDevice initialized.
+[2021.10.11-23.06.20:430][518]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map_1'.
+[2021.10.11-23.06.20:438][518]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.06.20:439][518]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.06.20
+[2021.10.11-23.06.20:440][518]LogWorld: Bringing up level for play took: 0.001271
+[2021.10.11-23.06.20:440][518]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.10.11-23.06.20:441][518]PIE: 登陆的服务器
+[2021.10.11-23.06.20:442][518]PIE: PIE总开始时间：0.089秒。
+[2021.10.11-23.06.35:731][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.06.35:731][347]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.06.35:731][347]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.06.35:731][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.06.35:737][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.06.35:744][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.06.35:758][347]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.06.35:758][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.06.35:759][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.06.35:772][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.06.35:774][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.10.11-23.06.35:817][349]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.10.11-23.06.37:593][551]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.06.37:597][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.06.37:597][551]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:06:37）
+[2021.10.11-23.06.37:597][551]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.06.37:604][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007241s)
+[2021.10.11-23.06.37:605][551]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.06.37:605][551]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2021.10.11-23.06.37:605][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008046s)
+[2021.10.11-23.06.37:620][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.10.11-23.06.37:621][551]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.10.11-23.06.37:621][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.06.37:621][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.06.37:621][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.06.37:621][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.06.37:621][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.06.37:621][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.06.37:621][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.06.37:621][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.06.37:621][551]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.06.37:621][551]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.06.37:624][551]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.06.37:624][551]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.06.37:631][551]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.06.37:631][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.06.37:631][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.06.37:631][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.06.37:632][551]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.06.37:632][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.06.37:632][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.06.37:643][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.06.37:643][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.06.37:643][551]LogInit: FAudioDevice initialized.
+[2021.10.11-23.06.37:643][551]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map_1'.
+[2021.10.11-23.06.37:653][551]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.06.37:654][551]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.06.37
+[2021.10.11-23.06.37:654][551]LogWorld: Bringing up level for play took: 0.001145
+[2021.10.11-23.06.37:654][551]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.10.11-23.06.37:656][551]PIE: 登陆的服务器
+[2021.10.11-23.06.37:656][551]PIE: PIE总开始时间：0.06秒。
+[2021.10.11-23.06.59:811][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.06.59:811][205]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.06.59:811][205]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.06.59:812][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.06.59:818][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.06.59:825][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.06.59:839][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.06.59:839][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.06.59:840][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.06.59:853][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.06.59:855][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.10.11-23.06.59:902][207]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.10.11-23.07.18:008][841]BlueprintLog: New page: 编译Map_1
+[2021.10.11-23.07.18:040][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.10.11-23.07.21:503][158]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.07.21:507][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.07.21:507][158]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:07:21）
+[2021.10.11-23.07.21:507][158]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.07.21:514][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006890s)
+[2021.10.11-23.07.21:514][158]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.07.21:515][158]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2021.10.11-23.07.21:515][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.007688s)
+[2021.10.11-23.07.21:530][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.10.11-23.07.21:531][158]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.10.11-23.07.21:531][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.07.21:531][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.07.21:531][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.07.21:531][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.07.21:531][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.07.21:531][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.07.21:531][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.07.21:531][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.07.21:531][158]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.07.21:531][158]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.07.21:534][158]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.07.21:534][158]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.07.21:542][158]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.07.21:542][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.07.21:542][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.07.21:542][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.07.21:542][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.07.21:542][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.07.21:542][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.07.21:554][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.07.21:554][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.07.21:554][158]LogInit: FAudioDevice initialized.
+[2021.10.11-23.07.21:554][158]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map_1'.
+[2021.10.11-23.07.21:559][158]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.07.21:560][158]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.07.21
+[2021.10.11-23.07.21:560][158]LogWorld: Bringing up level for play took: 0.001122
+[2021.10.11-23.07.21:561][158]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.10.11-23.07.21:562][158]PIE: 登陆的服务器
+[2021.10.11-23.07.21:563][158]PIE: PIE总开始时间：0.056秒。
+[2021.10.11-23.08.01:583][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.08.01:583][947]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.08.01:584][947]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.08.01:584][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.08.01:591][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.08.01:598][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.08.01:612][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.08.01:612][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.08.01:613][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.08.01:629][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.10.11-23.08.01:651][948]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.10.11-23.10.24:420][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.10.11-23.10.24:422][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.11-23.10.24:452][349]LogSavePackage: Moving 'E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto32948334F456D40D6D735098D649EB1E2.tmp' to 'E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto3.umap'
+[2021.10.11-23.10.24:453][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.050
+[2021.10.11-23.10.24:453][349]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2021.10.11-23.10.24:453][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Camera] ([1] browsable assets)...
+[2021.10.11-23.10.24:453][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Camera]
+[2021.10.11-23.10.24:453][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Camera" FILE="E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/BluePrint/Camera_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.10.11-23.10.24:458][349]LogSavePackage: Moving 'E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Camera_Auto35F89DAEA47D9358C155FCA9B12EE4B72.tmp' to 'E:/Github/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/BluePrint/Camera_Auto3.uasset'
+[2021.10.11-23.10.24:458][349]LogFileHelpers: Auto-saving content packages took 0.005
+[2021.10.11-23.11.58:089][725]BlueprintLog: New page: 编译Camera
+[2021.10.11-23.11.58:128][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.10.11-23.12.02:006][116]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.12.02:009][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.12.02:009][116]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:12:02）
+[2021.10.11-23.12.02:009][116]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.12.02:016][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006980s)
+[2021.10.11-23.12.02:017][116]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.12.02:017][116]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2021.10.11-23.12.02:017][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.007850s)
+[2021.10.11-23.12.02:033][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.10.11-23.12.02:034][116]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.10.11-23.12.02:034][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.12.02:034][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.12.02:034][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.12.02:034][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.12.02:034][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.12.02:034][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.12.02:034][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.12.02:034][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.12.02:035][116]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.12.02:035][116]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.12.02:037][116]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.12.02:037][116]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.12.02:045][116]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.12.02:046][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.12.02:046][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.12.02:046][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.12.02:046][116]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.12.02:046][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.12.02:046][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.12.02:058][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.12.02:058][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.12.02:058][116]LogInit: FAudioDevice initialized.
+[2021.10.11-23.12.02:058][116]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map_1'.
+[2021.10.11-23.12.02:064][116]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.12.02:065][116]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.12.02
+[2021.10.11-23.12.02:066][116]LogWorld: Bringing up level for play took: 0.001195
+[2021.10.11-23.12.02:066][116]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.10.11-23.12.02:067][116]PIE: 登陆的服务器
+[2021.10.11-23.12.02:068][116]PIE: PIE总开始时间：0.059秒。
+[2021.10.11-23.12.55:790][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.12.55:790][556]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.12.55:790][556]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.12.55:790][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.12.55:802][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.12.55:808][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.12.55:823][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.12.55:823][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.12.55:824][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.12.55:836][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.12.55:838][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.10.11-23.12.55:893][558]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.10.11-23.13.22:051][898]BlueprintLog: New page: 编译Camera
+[2021.10.11-23.13.22:094][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.10.11-23.13.23:881][ 53]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.13.23:885][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.13.23:885][ 53]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:13:23）
+[2021.10.11-23.13.23:885][ 53]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.13.23:893][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008542s)
+[2021.10.11-23.13.23:894][ 53]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.13.23:894][ 53]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2021.10.11-23.13.23:894][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.009370s)
+[2021.10.11-23.13.23:910][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.11-23.13.23:911][ 53]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.10.11-23.13.23:911][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.13.23:911][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.13.23:911][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.13.23:911][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.13.23:911][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.13.23:911][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.13.23:911][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.13.23:911][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.13.23:911][ 53]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.13.23:911][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.13.23:914][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.13.23:914][ 53]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.13.23:922][ 53]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.13.23:922][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.13.23:922][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.13.23:922][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.13.23:922][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.13.23:922][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.13.23:922][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.13.23:934][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.13.23:934][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.13.23:934][ 53]LogInit: FAudioDevice initialized.
+[2021.10.11-23.13.23:934][ 53]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map_1'.
+[2021.10.11-23.13.23:943][ 53]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.13.23:944][ 53]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.13.23
+[2021.10.11-23.13.23:945][ 53]LogWorld: Bringing up level for play took: 0.001172
+[2021.10.11-23.13.23:945][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.10.11-23.13.23:946][ 53]PIE: 登陆的服务器
+[2021.10.11-23.13.23:947][ 53]PIE: PIE总开始时间：0.062秒。
+[2021.10.11-23.14.13:621][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.14.13:621][  9]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.14.13:621][  9]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.14.13:622][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.14.13:633][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.14.13:640][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.14.13:655][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.14.13:655][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.14.13:656][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.14.13:669][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.14.13:672][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.11-23.14.13:714][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.10.11-23.14.42:944][879]BlueprintLog: New page: 编译Camera
+[2021.10.11-23.14.42:986][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.10.11-23.14.45:058][106]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.14.45:061][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.14.45:061][106]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:14:45）
+[2021.10.11-23.14.45:101][106]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.14.45:109][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007081s)
+[2021.10.11-23.14.45:109][106]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.14.45:110][106]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2021.10.11-23.14.45:110][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008093s)
+[2021.10.11-23.14.45:126][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.11-23.14.45:126][106]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.10.11-23.14.45:126][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.14.45:126][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.14.45:126][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.14.45:126][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.14.45:126][106]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.14.45:126][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.14.45:126][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.14.45:126][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.14.45:127][106]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.14.45:127][106]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.14.45:129][106]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.14.45:129][106]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.14.45:137][106]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.14.45:137][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.14.45:137][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.14.45:137][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.14.45:137][106]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.14.45:137][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.14.45:137][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.14.45:150][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.14.45:150][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.14.45:150][106]LogInit: FAudioDevice initialized.
+[2021.10.11-23.14.45:150][106]LogAudio: Display: Audio Device (ID: 11) registered with world 'Map_1'.
+[2021.10.11-23.14.45:159][106]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.14.45:161][106]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.14.45
+[2021.10.11-23.14.45:161][106]LogWorld: Bringing up level for play took: 0.001134
+[2021.10.11-23.14.45:161][106]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.10.11-23.14.45:163][106]PIE: 登陆的服务器
+[2021.10.11-23.14.45:163][106]PIE: PIE总开始时间：0.103秒。
+[2021.10.11-23.15.14:463][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.15.14:463][614]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.15.14:463][614]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.15.14:463][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.15.14:474][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.15.14:481][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.15.14:495][614]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.15.14:495][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.15.14:496][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.15.14:508][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.15.14:511][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.10.11-23.15.14:532][615]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.10.11-23.15.26:013][716]BlueprintLog: New page: 编译Camera
+[2021.10.11-23.15.26:055][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.10.11-23.15.27:654][874]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.15.27:658][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.15.27:658][874]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:15:27）
+[2021.10.11-23.15.27:683][874]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.15.27:690][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007105s)
+[2021.10.11-23.15.27:691][874]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.15.27:691][874]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2021.10.11-23.15.27:691][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008128s)
+[2021.10.11-23.15.27:707][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.11-23.15.27:707][874]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.10.11-23.15.27:708][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.15.27:708][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.15.27:708][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.15.27:708][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.15.27:708][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.15.27:708][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.15.27:708][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.15.27:708][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.15.27:708][874]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.15.27:708][874]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.15.27:710][874]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.15.27:710][874]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.15.27:718][874]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.15.27:718][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.15.27:718][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.15.27:718][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.15.27:718][874]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.15.27:718][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.15.27:718][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.15.27:729][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.15.27:729][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.15.27:729][874]LogInit: FAudioDevice initialized.
+[2021.10.11-23.15.27:729][874]LogAudio: Display: Audio Device (ID: 12) registered with world 'Map_1'.
+[2021.10.11-23.15.27:739][874]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.15.27:740][874]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.15.27
+[2021.10.11-23.15.27:740][874]LogWorld: Bringing up level for play took: 0.001204
+[2021.10.11-23.15.27:741][874]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.10.11-23.15.27:742][874]PIE: 登陆的服务器
+[2021.10.11-23.15.27:743][874]PIE: PIE总开始时间：0.086秒。
+[2021.10.11-23.15.35:774][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.15.35:774][831]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.15.35:774][831]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.15.35:774][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.15.35:780][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.15.35:786][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.15.35:800][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.15.35:800][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.15.35:801][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.15.35:814][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.15.35:816][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.10.11-23.15.35:837][832]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.10.11-23.15.50:001][246]BlueprintLog: New page: 编译Camera
+[2021.10.11-23.15.50:042][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.10.11-23.15.51:583][405]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.15.51:587][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.15.51:587][405]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:15:51）
+[2021.10.11-23.15.51:623][405]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.15.51:630][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007044s)
+[2021.10.11-23.15.51:631][405]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.15.51:631][405]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2021.10.11-23.15.51:631][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008024s)
+[2021.10.11-23.15.51:647][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.10.11-23.15.51:647][405]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.10.11-23.15.51:647][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.15.51:647][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.15.51:647][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.15.51:647][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.15.51:647][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.15.51:647][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.15.51:647][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.15.51:647][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.15.51:648][405]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.15.51:648][405]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.15.51:650][405]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.15.51:650][405]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.15.51:658][405]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.15.51:658][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.15.51:658][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.15.51:658][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.15.51:658][405]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.15.51:658][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.15.51:658][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.15.51:659][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.15.51:659][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.15.51:659][405]LogInit: FAudioDevice initialized.
+[2021.10.11-23.15.51:659][405]LogAudio: Display: Audio Device (ID: 13) registered with world 'Map_1'.
+[2021.10.11-23.15.51:674][405]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.15.51:676][405]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.15.51
+[2021.10.11-23.15.51:676][405]LogWorld: Bringing up level for play took: 0.001183
+[2021.10.11-23.15.51:676][405]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.10.11-23.15.51:678][405]PIE: 登陆的服务器
+[2021.10.11-23.15.51:678][405]PIE: PIE总开始时间：0.091秒。
+[2021.10.11-23.16.06:904][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.16.06:904][227]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.16.06:904][227]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.16.06:904][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.16.06:915][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.16.06:922][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.16.06:936][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.16.06:936][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.16.06:937][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.16.06:950][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.16.06:953][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.10.11-23.16.06:981][228]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.10.11-23.16.12:761][900]LogEditorViewport: Clicking on Actor (LMB): Camera_C (Camera1)
+[2021.10.11-23.16.30:166][968]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.16.30:169][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.16.30:169][968]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:16:30）
+[2021.10.11-23.16.30:214][968]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.16.30:222][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007709s)
+[2021.10.11-23.16.30:222][968]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.16.30:223][968]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2021.10.11-23.16.30:223][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008612s)
+[2021.10.11-23.16.30:239][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.10.11-23.16.30:241][968]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.10.11-23.16.30:241][968]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.16.30:241][968]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.16.30:241][968]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.16.30:241][968]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.16.30:241][968]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.16.30:241][968]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.16.30:241][968]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.16.30:241][968]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.16.30:242][968]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.16.30:242][968]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.16.30:244][968]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.16.30:244][968]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.16.30:252][968]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.16.30:252][968]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.16.30:252][968]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.16.30:252][968]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.16.30:252][968]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.16.30:252][968]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.16.30:252][968]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.16.30:265][968]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.16.30:266][968]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.16.30:266][968]LogInit: FAudioDevice initialized.
+[2021.10.11-23.16.30:266][968]LogAudio: Display: Audio Device (ID: 14) registered with world 'Map_1'.
+[2021.10.11-23.16.30:272][968]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.16.30:273][968]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.16.30
+[2021.10.11-23.16.30:273][968]LogWorld: Bringing up level for play took: 0.001140
+[2021.10.11-23.16.30:274][968]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.10.11-23.16.30:275][968]PIE: 登陆的服务器
+[2021.10.11-23.16.30:276][968]PIE: PIE总开始时间：0.106秒。
+[2021.10.11-23.17.15:626][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.17.15:626][402]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.17.15:626][402]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.17.15:626][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.17.15:631][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.17.15:638][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.17.15:653][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.17.15:653][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.17.15:654][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.17.15:667][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.17.15:669][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.10.11-23.17.15:691][403]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.10.11-23.17.47:835][556]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.10.11-23.17.54:704][278]LogSlate: Window '项目设置' being destroyed
+[2021.10.11-23.17.54:716][278]LogSlate: Window '项目设置' being destroyed
+[2021.10.11-23.17.57:256][555]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.17.57:260][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.17.57:260][555]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:17:57）
+[2021.10.11-23.17.57:296][555]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.17.57:303][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007390s)
+[2021.10.11-23.17.57:304][555]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.17.57:304][555]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2021.10.11-23.17.57:304][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008363s)
+[2021.10.11-23.17.57:320][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.10.11-23.17.57:322][555]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.10.11-23.17.57:322][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.17.57:322][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.17.57:322][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.17.57:322][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.17.57:322][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.17.57:322][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.17.57:322][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.17.57:322][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.17.57:322][555]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.17.57:322][555]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.17.57:325][555]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.17.57:325][555]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.17.57:332][555]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.17.57:333][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.17.57:333][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.17.57:333][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.17.57:333][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.17.57:333][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.17.57:333][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.17.57:345][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.17.57:345][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.17.57:345][555]LogInit: FAudioDevice initialized.
+[2021.10.11-23.17.57:345][555]LogAudio: Display: Audio Device (ID: 15) registered with world 'Map_1'.
+[2021.10.11-23.17.57:350][555]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.17.57:352][555]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.17.57
+[2021.10.11-23.17.57:352][555]LogWorld: Bringing up level for play took: 0.001182
+[2021.10.11-23.17.57:353][555]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.10.11-23.17.57:354][555]PIE: 登陆的服务器
+[2021.10.11-23.17.57:355][555]PIE: PIE总开始时间：0.096秒。
+[2021.10.11-23.18.21:518][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.18.21:518][445]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.18.21:518][445]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.18.21:518][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.18.21:525][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.18.21:532][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.18.21:546][445]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.18.21:546][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.18.21:547][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.18.21:560][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.18.21:564][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.10.11-23.18.21:585][446]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.10.11-23.18.23:082][623]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.18.23:086][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.18.23:086][623]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:18:23）
+[2021.10.11-23.18.23:106][623]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.18.23:114][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007444s)
+[2021.10.11-23.18.23:114][623]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.18.23:115][623]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2021.10.11-23.18.23:115][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008392s)
+[2021.10.11-23.18.23:130][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.10.11-23.18.23:131][623]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.10.11-23.18.23:131][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.18.23:131][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.18.23:131][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.18.23:131][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.18.23:131][623]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.18.23:131][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.18.23:131][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.18.23:131][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.18.23:132][623]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.18.23:132][623]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.18.23:134][623]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.18.23:134][623]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.18.23:143][623]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.18.23:144][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.18.23:144][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.18.23:144][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.18.23:144][623]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.18.23:144][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.18.23:144][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.18.23:155][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.18.23:155][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.18.23:155][623]LogInit: FAudioDevice initialized.
+[2021.10.11-23.18.23:155][623]LogAudio: Display: Audio Device (ID: 16) registered with world 'Map_1'.
+[2021.10.11-23.18.23:163][623]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.18.23:164][623]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.18.23
+[2021.10.11-23.18.23:164][623]LogWorld: Bringing up level for play took: 0.001161
+[2021.10.11-23.18.23:164][623]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.10.11-23.18.23:166][623]PIE: 登陆的服务器
+[2021.10.11-23.18.23:166][623]PIE: PIE总开始时间：0.082秒。
+[2021.10.11-23.18.40:748][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.18.40:748][726]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.18.40:748][726]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.18.40:748][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.18.40:757][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.18.40:763][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.18.40:777][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.18.40:778][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.18.40:778][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.18.40:794][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.10.11-23.18.40:848][728]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.10.11-23.19.07:566][412]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.10.11-23.20.31:494][438]BlueprintLog: New page: 编译Camera
+[2021.10.11-23.20.31:538][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.10.11-23.20.33:388][638]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.20.33:392][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.20.33:392][638]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:20:33）
+[2021.10.11-23.20.33:420][638]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.20.33:428][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007375s)
+[2021.10.11-23.20.33:428][638]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.20.33:428][638]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2021.10.11-23.20.33:428][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008259s)
+[2021.10.11-23.20.33:446][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.10.11-23.20.33:446][638]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.10.11-23.20.33:446][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.20.33:446][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.20.33:446][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.20.33:446][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.20.33:446][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.20.33:446][638]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.20.33:446][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.20.33:446][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.20.33:447][638]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.20.33:447][638]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.20.33:450][638]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.20.33:450][638]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.20.33:459][638]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.20.33:459][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.20.33:459][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.20.33:459][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.20.33:459][638]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.20.33:459][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.20.33:459][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.20.33:471][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.20.33:471][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.20.33:471][638]LogInit: FAudioDevice initialized.
+[2021.10.11-23.20.33:471][638]LogAudio: Display: Audio Device (ID: 17) registered with world 'Map_1'.
+[2021.10.11-23.20.33:478][638]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.20.33:479][638]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.20.33
+[2021.10.11-23.20.33:480][638]LogWorld: Bringing up level for play took: 0.001140
+[2021.10.11-23.20.33:480][638]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.10.11-23.20.33:481][638]PIE: 登陆的服务器
+[2021.10.11-23.20.33:482][638]PIE: PIE总开始时间：0.09秒。
+[2021.10.11-23.20.42:931][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.20.42:931][765]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.20.42:932][765]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.20.42:932][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.20.42:941][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.20.42:948][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.20.42:962][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.20.42:962][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.20.42:963][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.20.42:976][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.20.42:979][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.10.11-23.20.42:999][766]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.10.11-23.21.00:335][471]BlueprintLog: New page: 编译Camera
+[2021.10.11-23.21.00:371][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.10.11-23.21.01:996][655]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.21.01:999][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.21.01:999][655]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:21:01）
+[2021.10.11-23.21.02:030][655]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.21.02:038][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007669s)
+[2021.10.11-23.21.02:039][655]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.21.02:039][655]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2021.10.11-23.21.02:039][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008556s)
+[2021.10.11-23.21.02:054][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.10.11-23.21.02:055][655]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.10.11-23.21.02:055][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.21.02:055][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.21.02:055][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.21.02:055][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.21.02:055][655]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.21.02:055][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.21.02:055][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.21.02:055][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.21.02:055][655]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.21.02:055][655]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.21.02:058][655]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.21.02:058][655]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.21.02:066][655]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.21.02:066][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.21.02:066][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.21.02:066][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.21.02:066][655]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.21.02:066][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.21.02:066][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.21.02:078][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.21.02:078][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.21.02:078][655]LogInit: FAudioDevice initialized.
+[2021.10.11-23.21.02:078][655]LogAudio: Display: Audio Device (ID: 18) registered with world 'Map_1'.
+[2021.10.11-23.21.02:085][655]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.21.02:086][655]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.21.02
+[2021.10.11-23.21.02:086][655]LogWorld: Bringing up level for play took: 0.001147
+[2021.10.11-23.21.02:087][655]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.10.11-23.21.02:088][655]PIE: 登陆的服务器
+[2021.10.11-23.21.02:089][655]PIE: PIE总开始时间：0.09秒。
+[2021.10.11-23.21.53:192][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.21.53:192][781]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.21.53:192][781]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.21.53:193][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.21.53:206][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.21.53:212][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.21.53:226][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.21.53:226][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.21.53:227][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.21.53:241][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.21.53:243][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.10.11-23.21.53:265][782]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.10.11-23.21.56:679][169]LogEditorViewport: Clicking on Actor (LMB): Camera_C (Camera3)
+[2021.10.11-23.22.13:899][212]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.22.13:903][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.22.13:903][212]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:22:13）
+[2021.10.11-23.22.13:903][212]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.22.13:910][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007025s)
+[2021.10.11-23.22.13:910][212]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.22.13:911][212]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2021.10.11-23.22.13:911][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.007892s)
+[2021.10.11-23.22.13:926][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.10.11-23.22.13:927][212]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.10.11-23.22.13:927][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.22.13:927][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.22.13:927][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.22.13:927][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.22.13:927][212]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.22.13:927][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.22.13:927][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.22.13:927][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.22.13:928][212]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.22.13:928][212]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.22.13:930][212]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.22.13:930][212]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.22.13:938][212]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.22.13:938][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.22.13:938][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.22.13:938][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.22.13:938][212]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.22.13:938][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.22.13:938][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.22.13:950][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.22.13:950][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.22.13:950][212]LogInit: FAudioDevice initialized.
+[2021.10.11-23.22.13:950][212]LogAudio: Display: Audio Device (ID: 19) registered with world 'Map_1'.
+[2021.10.11-23.22.13:960][212]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.22.13:961][212]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.22.13
+[2021.10.11-23.22.13:961][212]LogWorld: Bringing up level for play took: 0.001141
+[2021.10.11-23.22.13:961][212]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.10.11-23.22.13:963][212]PIE: 登陆的服务器
+[2021.10.11-23.22.13:963][212]PIE: PIE总开始时间：0.061秒。
+[2021.10.11-23.22.54:634][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.22.54:634][994]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.22.54:634][994]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.22.54:634][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.22.54:643][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.22.54:650][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.22.54:664][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.22.54:664][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.22.54:665][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.22.54:678][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.22.54:680][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.10.11-23.22.54:703][995]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.10.11-23.23.00:336][588]LogEditorViewport: Clicking on Actor (LMB): Camera_C (Camera3)
+[2021.10.11-23.23.09:772][703]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.23.09:775][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.23.09:775][703]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:23:09）
+[2021.10.11-23.23.09:775][703]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.23.09:782][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006857s)
+[2021.10.11-23.23.09:783][703]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.23.09:783][703]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2021.10.11-23.23.09:783][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.007643s)
+[2021.10.11-23.23.09:800][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.10.11-23.23.09:801][703]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.10.11-23.23.09:801][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.23.09:801][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.23.09:801][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.23.09:801][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.23.09:801][703]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.23.09:801][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.23.09:801][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.23.09:801][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.23.09:801][703]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.23.09:801][703]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.23.09:804][703]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.23.09:804][703]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.23.09:812][703]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.23.09:812][703]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.23.09:812][703]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.23.09:812][703]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.23.09:812][703]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.23.09:812][703]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.23.09:812][703]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.23.09:824][703]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.23.09:824][703]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.23.09:824][703]LogInit: FAudioDevice initialized.
+[2021.10.11-23.23.09:824][703]LogAudio: Display: Audio Device (ID: 20) registered with world 'Map_1'.
+[2021.10.11-23.23.09:829][703]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.23.09:830][703]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.23.09
+[2021.10.11-23.23.09:830][703]LogWorld: Bringing up level for play took: 0.001120
+[2021.10.11-23.23.09:830][703]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.10.11-23.23.09:832][703]PIE: 登陆的服务器
+[2021.10.11-23.23.09:832][703]PIE: PIE总开始时间：0.057秒。
+[2021.10.11-23.23.23:204][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.23.23:205][302]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.23.23:205][302]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.23.23:205][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.23.23:213][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.23.23:220][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.23.23:233][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.23.23:234][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.23.23:234][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.23.23:247][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.23.23:249][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.10.11-23.23.23:295][304]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.10.11-23.23.38:781][ 77]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.23.38:784][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.23.38:785][ 77]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:23:38）
+[2021.10.11-23.23.38:834][ 77]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.23.38:841][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007210s)
+[2021.10.11-23.23.38:842][ 77]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.23.38:842][ 77]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2021.10.11-23.23.38:842][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008137s)
+[2021.10.11-23.23.38:857][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.10.11-23.23.38:858][ 77]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.10.11-23.23.38:858][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.23.38:858][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.23.38:858][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.23.38:858][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.23.38:858][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.23.38:859][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.23.38:859][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.23.38:859][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.23.38:859][ 77]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.23.38:859][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.23.38:861][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.23.38:861][ 77]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.23.38:869][ 77]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.23.38:869][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.23.38:869][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.23.38:869][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.23.38:869][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.23.38:869][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.23.38:870][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.23.38:881][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.23.38:881][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.23.38:881][ 77]LogInit: FAudioDevice initialized.
+[2021.10.11-23.23.38:881][ 77]LogAudio: Display: Audio Device (ID: 21) registered with world 'Map_1'.
+[2021.10.11-23.23.38:887][ 77]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.23.38:888][ 77]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.23.38
+[2021.10.11-23.23.38:889][ 77]LogWorld: Bringing up level for play took: 0.001150
+[2021.10.11-23.23.38:889][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.10.11-23.23.38:890][ 77]PIE: 登陆的服务器
+[2021.10.11-23.23.38:891][ 77]PIE: PIE总开始时间：0.107秒。
+[2021.10.11-23.24.07:466][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.24.07:466][501]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.24.07:466][501]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.24.07:466][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.24.07:472][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.24.07:479][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.24.07:493][501]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.24.07:493][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.24.07:494][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.24.07:507][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.24.07:510][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.10.11-23.24.07:554][503]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.10.11-23.24.16:077][317]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.24.16:080][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.24.16:080][317]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:24:16）
+[2021.10.11-23.24.16:125][317]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.24.16:132][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007135s)
+[2021.10.11-23.24.16:133][317]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.24.16:133][317]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2021.10.11-23.24.16:133][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008091s)
+[2021.10.11-23.24.16:148][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.10.11-23.24.16:149][317]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.10.11-23.24.16:149][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.24.16:149][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.24.16:149][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.24.16:149][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.24.16:149][317]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.24.16:149][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.24.16:149][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.24.16:149][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.24.16:149][317]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.24.16:149][317]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.24.16:152][317]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.24.16:152][317]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.24.16:159][317]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.24.16:160][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.24.16:160][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.24.16:160][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.24.16:160][317]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.24.16:160][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.24.16:160][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.24.16:161][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.24.16:161][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.24.16:161][317]LogInit: FAudioDevice initialized.
+[2021.10.11-23.24.16:161][317]LogAudio: Display: Audio Device (ID: 22) registered with world 'Map_1'.
+[2021.10.11-23.24.16:176][317]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.24.16:177][317]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.24.16
+[2021.10.11-23.24.16:177][317]LogWorld: Bringing up level for play took: 0.001152
+[2021.10.11-23.24.16:177][317]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.10.11-23.24.16:179][317]PIE: 登陆的服务器
+[2021.10.11-23.24.16:179][317]PIE: PIE总开始时间：0.099秒。
+[2021.10.11-23.24.29:176][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.24.29:176][870]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.24.29:177][870]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.24.29:177][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.24.29:182][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.24.29:189][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.24.29:202][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.24.29:203][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.24.29:204][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.24.29:219][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.10.11-23.24.29:263][872]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.10.11-23.25.21:826][422]BlueprintLog: New page: 编译Camera
+[2021.10.11-23.25.21:869][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.10.11-23.25.23:653][613]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.25.23:657][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.25.23:657][613]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:25:23）
+[2021.10.11-23.25.23:657][613]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.25.23:665][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007723s)
+[2021.10.11-23.25.23:666][613]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.25.23:666][613]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2021.10.11-23.25.23:666][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008526s)
+[2021.10.11-23.25.23:682][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.10.11-23.25.23:682][613]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.10.11-23.25.23:682][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.25.23:682][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.25.23:682][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.25.23:682][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.25.23:682][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.25.23:682][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.25.23:682][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.25.23:682][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.25.23:682][613]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.25.23:683][613]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.25.23:685][613]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.25.23:685][613]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.25.23:693][613]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.25.23:693][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.25.23:693][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.25.23:693][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.25.23:693][613]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.25.23:693][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.25.23:693][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.25.23:704][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.25.23:704][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.25.23:704][613]LogInit: FAudioDevice initialized.
+[2021.10.11-23.25.23:704][613]LogAudio: Display: Audio Device (ID: 23) registered with world 'Map_1'.
+[2021.10.11-23.25.23:709][613]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.25.23:710][613]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.25.23
+[2021.10.11-23.25.23:710][613]LogWorld: Bringing up level for play took: 0.001159
+[2021.10.11-23.25.23:710][613]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.10.11-23.25.23:712][613]PIE: 登陆的服务器
+[2021.10.11-23.25.23:712][613]PIE: PIE总开始时间：0.055秒。
+[2021.10.11-23.26.09:099][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.26.09:099][ 52]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.26.09:099][ 52]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.26.09:099][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.26.09:110][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.26.09:117][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.26.09:131][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.26.09:131][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.26.09:132][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.26.09:145][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.26.09:147][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.10.11-23.26.09:168][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.10.11-23.26.12:061][379]LogEditorViewport: Clicking on Actor (LMB): Camera_C (Camera1)
+[2021.10.11-23.26.23:243][695]LogEditorViewport: Clicking on Actor (LMB): Camera_C (Camera2)
+[2021.10.11-23.26.25:312][939]LogTemp: Repeating last play command: 选中的视口
+[2021.10.11-23.26.25:316][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-23.26.25:316][939]PIE: New page: PIE会话：Map_1（2021年10月12日 上午1:26:25）
+[2021.10.11-23.26.25:338][939]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.26.25:345][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007253s)
+[2021.10.11-23.26.25:346][939]LogAIModule: Creating AISystem for world Map_1
+[2021.10.11-23.26.25:346][939]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2021.10.11-23.26.25:346][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.008072s)
+[2021.10.11-23.26.25:362][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.10.11-23.26.25:363][939]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.10.11-23.26.25:363][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.11-23.26.25:363][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.11-23.26.25:363][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.11-23.26.25:363][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.11-23.26.25:363][939]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.11-23.26.25:363][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.11-23.26.25:363][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.11-23.26.25:363][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.11-23.26.25:364][939]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.11-23.26.25:364][939]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.11-23.26.25:366][939]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.11-23.26.25:366][939]LogAudioMixer: Display: 1: FrontRight
+[2021.10.11-23.26.25:373][939]LogAudioMixer: Display: Using Audio Device VG27WQ (NVIDIA High Definition Audio)
+[2021.10.11-23.26.25:374][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.11-23.26.25:374][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.11-23.26.25:374][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.11-23.26.25:374][939]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.11-23.26.25:374][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.11-23.26.25:374][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.11-23.26.25:385][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.11-23.26.25:385][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.11-23.26.25:385][939]LogInit: FAudioDevice initialized.
+[2021.10.11-23.26.25:385][939]LogAudio: Display: Audio Device (ID: 24) registered with world 'Map_1'.
+[2021.10.11-23.26.25:392][939]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-23.26.25:393][939]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.12-00.26.25
+[2021.10.11-23.26.25:393][939]LogWorld: Bringing up level for play took: 0.001119
+[2021.10.11-23.26.25:393][939]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.10.11-23.26.25:395][939]PIE: 登陆的服务器
+[2021.10.11-23.26.25:395][939]PIE: PIE总开始时间：0.08秒。
+[2021.10.11-23.26.53:689][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.26.53:689][329]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.11-23.26.53:689][329]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.11-23.26.53:689][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.26.53:699][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-23.26.53:706][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.11-23.26.53:720][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.11-23.26.53:720][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.26.53:721][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.11-23.26.53:735][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-23.26.53:737][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.10.11-23.26.53:758][330]LogPlayLevel: Display: Destroying online subsystem :Context_30

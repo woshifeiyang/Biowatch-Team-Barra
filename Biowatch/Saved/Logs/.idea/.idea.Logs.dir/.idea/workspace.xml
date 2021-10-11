@@ -31,6 +31,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633710837671</updated>
       <workItem from="1633710839541" duration="24000" />
+      <workItem from="1633954414231" duration="335000" />
     </task>
     <servers />
   </component>
@@ -38,7 +39,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

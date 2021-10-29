@@ -4321,3 +4321,1481 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.29-11.06.14:488][715]MaterialEditorStats: Texture samplers: 4/16
 [2021.10.29-11.06.14:488][715]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
 [2021.10.29-11.06.14:488][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.29-11.07.07:628][311]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2021.10.29-11.07.07:763][311]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Map_1.Map_1
+[2021.10.29-11.07.07:763][311]Cmd: MAP LOAD FILE="M:/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.29-11.07.07:763][311]LightingResults: New page: Lighting Build
+[2021.10.29-11.07.07:763][311]LoadErrors: New page: Loading map: Map_1.umap
+[2021.10.29-11.07.07:764][311]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/Map/VFX_testing.VFX_testing:PersistentLevel.BP_PipeStraight2_8.tie)
+[2021.10.29-11.07.07:765][311]LogWorld: UWorld::CleanupWorld for VFX_testing, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.07.07:765][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.07.07:765][311]MapCheck: New page: Map Check
+[2021.10.29-11.07.07:765][311]LightingResults: New page: Lighting Build
+[2021.10.29-11.07.07:813][311]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.29-11.07.07:824][311]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2021.10.29-11.07.07:825][311]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_1'.
+[2021.10.29-11.07.07:866][311]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.29-11.07.07:866][311]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.07.07:928][311]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2021.10.29-11.07.07:950][311]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.29-11.07.07:951][311]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.364ms to complete.
+[2021.10.29-11.07.07:951][311]LogFileHelpers: Loading map 'Map_1' took 0.188
+[2021.10.29-11.07.25:830][596]Cmd: TRANSACTION UNDO
+[2021.10.29-11.07.25:830][596]LogEditorTransaction: Undo Scale Actors
+[2021.10.29-11.07.25:832][596]LogMaterial: Display: Missing cached shader map for material M_Bolt3, compiling. 
+[2021.10.29-11.07.25:838][596]LogMaterial: Display: Missing cached shader map for material M_Bolt2, compiling. 
+[2021.10.29-11.07.26:224][596]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.10.29-11.07.26:224][596]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.10.29-11.07.26:224][596]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.10.29-11.07.26:224][596]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.10.29-11.07.26:224][596]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.10.29-11.07.26:224][596]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.10.29-11.07.26:224][596]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.10.29-11.07.26:224][596]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.10.29-11.07.26:232][596]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.10.29-11.07.26:597][598]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2021.10.29-11.07.26:673][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2021.10.29-11.07.26:697][601]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.10.29-11.07.26:759][602]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.10.29-11.07.26:759][602]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.10.29-11.07.26:759][602]77542_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2021.10.29-11.07.26:785][603]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2021.10.29-11.07.26:908][608]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.10.29-11.07.27:013][612]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.10.29-11.07.27:061][614]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.10.29-11.07.27:185][619]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.10.29-11.07.27:231][621]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.10.29-11.07.27:353][626]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.10.29-11.07.27:353][626]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.10.29-11.07.27:353][626]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.10.29-11.07.27:357][626]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2021.10.29-11.07.27:357][626]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2021.10.29-11.07.27:357][626]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.29-11.07.27:357][626]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.29-11.07.27:357][626]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.29-11.07.27:389][627]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.10.29-11.07.27:508][632]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.10.29-11.07.27:639][637]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.10.29-11.07.27:639][637]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.10.29-11.07.27:664][638]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.10.29-11.07.27:786][643]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.10.29-11.07.27:866][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_s4)
+[2021.10.29-11.07.27:893][646]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.10.29-11.07.27:951][647]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.10.29-11.07.27:951][647]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.10.29-11.07.27:951][647]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.10.29-11.07.27:962][647]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.10.29-11.07.27:962][647]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2021.10.29-11.07.27:962][647]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2021.10.29-11.07.27:962][647]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.29-11.07.27:962][647]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.29-11.07.27:962][647]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.29-11.07.28:022][649]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.10.29-11.07.28:225][657]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.10.29-11.07.28:225][657]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.10.29-11.07.28:700][680]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2021.10.29-11.07.28:700][680]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2021.10.29-11.07.28:700][680]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.29-11.07.28:700][680]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.29-11.07.28:700][680]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.29-11.07.28:743][682]140457_NE_electroBarrier_MessageLog: System successfully compiled.
+[2021.10.29-11.07.28:989][696]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.07.29:012][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.07.29:012][696]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:07:29)
+[2021.10.29-11.07.29:015][696]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.29-11.07.29:017][696]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.29-11.07.29:017][696]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.07.29:039][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022409s)
+[2021.10.29-11.07.29:040][696]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.07.29:040][696]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2021.10.29-11.07.29:040][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.023547s)
+[2021.10.29-11.07.29:103][696]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2021.10.29-11.07.29:107][696]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.29-11.07.29:107][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.07.29:107][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.07.29:107][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.07.29:107][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.07.29:107][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.07.29:107][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.07.29:107][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.07.29:107][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.07.29:108][696]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.07.29:108][696]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.07.29:123][696]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.07.29:123][696]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.07.29:138][696]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.07.29:138][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.07.29:138][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.07.29:138][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.07.29:138][696]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.07.29:138][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.07.29:138][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.07.29:150][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.07.29:150][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.07.29:150][696]LogInit: FAudioDevice initialized.
+[2021.10.29-11.07.29:150][696]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_1'.
+[2021.10.29-11.07.29:200][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.07.29:200][696]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.07.29:207][696]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.07.29
+[2021.10.29-11.07.29:211][696]LogWorld: Bringing up level for play took: 0.009663
+[2021.10.29-11.07.29:211][696]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.10.29-11.07.29:216][696]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.10.29-11.07.29:219][696]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.07.29:222][696]PIE: Server logged in
+[2021.10.29-11.07.29:224][696]PIE: Play in editor total start time 0.219 seconds.
+[2021.10.29-11.07.29:586][698]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2021.10.29-11.07.29:750][702]LogBlueprintUserMessages: [Camera_Tracker_2] Office
+[2021.10.29-11.07.30:003][717]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.07.31:008][786]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.07.32:009][828]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.07.33:014][878]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.07.34:019][922]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.07.35:033][978]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.07.36:046][ 46]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.07.37:061][107]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.07.38:068][164]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.07.39:080][232]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.07.40:081][299]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.07.40:771][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.07.40:771][342]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.07.40:771][342]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.07.40:786][342]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.07.40:787][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.07.40:794][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.07.40:805][342]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.07.40:826][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.07.40:876][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.29-11.07.40:879][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.07.40:880][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.07.40:951][342]LogUObjectHash: Compacting FUObjectHashTables data took   9.57ms
+[2021.10.29-11.07.41:006][343]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.10.29-11.07.42:096][417]LogEditorViewport: Clicking on Actor (LMB): BP_ElectricFence_C (BP_ElectricFence)
+[2021.10.29-11.08.07:414][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_s8)
+[2021.10.29-11.08.43:812][934]BlueprintLog: New page: Compile BP_ElectricFence
+[2021.10.29-11.08.43:941][934]LogUObjectHash: Compacting FUObjectHashTables data took   9.01ms
+[2021.10.29-11.08.46:203][145]LogEditorViewport: Clicking on Actor (LMB): BP_ElectricFence_C (BP_ElectricFence)
+[2021.10.29-11.09.03:168][584]BlueprintLog: New page: Compile BP_ElectricFence
+[2021.10.29-11.09.03:273][584]LogUObjectHash: Compacting FUObjectHashTables data took   8.52ms
+[2021.10.29-11.09.05:339][750]LogEditorViewport: Clicking on Actor (LMB): BP_ElectricFence_C (BP_ElectricFence)
+[2021.10.29-11.09.20:546][ 65]BlueprintLog: New page: Compile BP_ElectricFence
+[2021.10.29-11.09.20:659][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2021.10.29-11.09.28:685][764]BlueprintLog: New page: Compile BP_ElectricFence
+[2021.10.29-11.09.28:796][764]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2021.10.29-11.09.30:845][928]LogEditorViewport: Clicking on Actor (LMB): BP_ElectricFence_C (BP_ElectricFence)
+[2021.10.29-11.09.38:911][578]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.09.38:933][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.09.38:933][578]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:09:38)
+[2021.10.29-11.09.38:933][578]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.09.38:955][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021280s)
+[2021.10.29-11.09.38:955][578]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.09.38:956][578]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2021.10.29-11.09.38:956][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.022313s)
+[2021.10.29-11.09.39:013][578]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2021.10.29-11.09.39:019][578]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.29-11.09.39:019][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.09.39:019][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.09.39:019][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.09.39:019][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.09.39:019][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.09.39:019][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.09.39:019][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.09.39:019][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.09.39:020][578]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.09.39:020][578]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.09.39:031][578]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.09.39:031][578]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.09.39:043][578]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.09.39:044][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.09.39:044][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.09.39:044][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.09.39:044][578]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.09.39:044][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.09.39:044][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.09.39:055][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.09.39:056][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.09.39:056][578]LogInit: FAudioDevice initialized.
+[2021.10.29-11.09.39:056][578]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map_1'.
+[2021.10.29-11.09.39:099][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.09.39:100][578]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.09.39:106][578]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.09.39
+[2021.10.29-11.09.39:108][578]LogWorld: Bringing up level for play took: 0.007550
+[2021.10.29-11.09.39:108][578]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.10.29-11.09.39:112][578]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.09.39:114][578]PIE: Server logged in
+[2021.10.29-11.09.39:116][578]PIE: Play in editor total start time 0.189 seconds.
+[2021.10.29-11.09.39:922][640]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.09.40:928][682]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.09.41:936][756]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.09.42:950][834]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.09.43:951][889]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.09.44:958][942]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.09.45:959][ 36]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.09.46:963][ 98]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.09.47:996][160]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.09.48:997][216]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.09.49:997][267]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.09.51:016][321]LogBlueprintUserMessages: [CreatureCharacter_2] 87.0
+[2021.10.29-11.09.52:020][405]LogBlueprintUserMessages: [CreatureCharacter_2] 86.0
+[2021.10.29-11.09.53:022][460]LogBlueprintUserMessages: [CreatureCharacter_2] 85.0
+[2021.10.29-11.09.54:035][508]LogBlueprintUserMessages: [CreatureCharacter_2] 84.0
+[2021.10.29-11.09.55:040][562]LogBlueprintUserMessages: [CreatureCharacter_2] 83.0
+[2021.10.29-11.09.56:044][621]LogBlueprintUserMessages: [CreatureCharacter_2] 82.0
+[2021.10.29-11.09.57:055][715]LogBlueprintUserMessages: [CreatureCharacter_2] 81.0
+[2021.10.29-11.09.58:058][789]LogBlueprintUserMessages: [CreatureCharacter_2] 80.0
+[2021.10.29-11.09.59:068][882]LogBlueprintUserMessages: [CreatureCharacter_2] 79.0
+[2021.10.29-11.10.00:070][974]LogBlueprintUserMessages: [CreatureCharacter_2] 78.0
+[2021.10.29-11.10.01:078][ 67]LogBlueprintUserMessages: [CreatureCharacter_2] 77.0
+[2021.10.29-11.10.02:085][159]LogBlueprintUserMessages: [CreatureCharacter_2] 76.0
+[2021.10.29-11.10.03:094][252]LogBlueprintUserMessages: [CreatureCharacter_2] 75.0
+[2021.10.29-11.10.04:096][344]LogBlueprintUserMessages: [CreatureCharacter_2] 74.0
+[2021.10.29-11.10.05:097][437]LogBlueprintUserMessages: [CreatureCharacter_2] 73.0
+[2021.10.29-11.10.06:099][530]LogBlueprintUserMessages: [CreatureCharacter_2] 72.0
+[2021.10.29-11.10.07:100][623]LogBlueprintUserMessages: [CreatureCharacter_2] 71.0
+[2021.10.29-11.10.08:100][716]LogBlueprintUserMessages: [CreatureCharacter_2] 70.0
+[2021.10.29-11.10.09:110][809]LogBlueprintUserMessages: [CreatureCharacter_2] 69.0
+[2021.10.29-11.10.10:117][903]LogBlueprintUserMessages: [CreatureCharacter_2] 68.0
+[2021.10.29-11.10.11:119][996]LogBlueprintUserMessages: [CreatureCharacter_2] 67.0
+[2021.10.29-11.10.12:128][ 86]LogBlueprintUserMessages: [CreatureCharacter_2] 66.0
+[2021.10.29-11.10.13:132][175]LogBlueprintUserMessages: [CreatureCharacter_2] 65.0
+[2021.10.29-11.10.13:292][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.10.13:292][186]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.10.13:292][186]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.10.13:311][186]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.10.13:312][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.10.13:321][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.10.13:327][186]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.10.13:346][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.10.13:395][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.10.13:396][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.10.13:429][186]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2021.10.29-11.10.13:502][187]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.10.29-11.10.30:433][433]140457_NE_electroBarrier_MessageLog: System successfully compiled.
+[2021.10.29-11.10.33:776][687]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_bolt
+[2021.10.29-11.10.33:801][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/NE_bolt" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_bolt.uasset" SILENT=true
+[2021.10.29-11.10.36:582][687]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/NE_bolt253C5C3D4A6C2D2BB43B8CA9640CF1B2.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_bolt.uasset'
+[2021.10.29-11.10.36:645][687]AssetCheck: New page: Asset Save: NE_bolt
+[2021.10.29-11.10.36:645][687]LogContentValidation: Display: Validating NiagaraEmitter /Game/StarterContent/Particles/NE_bolt.NE_bolt
+[2021.10.29-11.10.37:652][743]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.10.37:691][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.10.37:691][743]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:10:37)
+[2021.10.29-11.10.37:691][743]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.10.37:716][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024976s)
+[2021.10.29-11.10.37:717][743]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.10.37:717][743]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2021.10.29-11.10.37:717][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.026062s)
+[2021.10.29-11.10.37:785][743]LogUObjectHash: Compacting FUObjectHashTables data took  12.22ms
+[2021.10.29-11.10.37:792][743]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.29-11.10.37:792][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.10.37:792][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.10.37:792][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.10.37:792][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.10.37:792][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.10.37:792][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.10.37:792][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.10.37:792][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.10.37:793][743]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.10.37:793][743]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.10.37:804][743]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.10.37:804][743]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.10.37:816][743]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.10.37:816][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.10.37:816][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.10.37:816][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.10.37:817][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.10.37:817][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.10.37:817][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.10.37:828][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.10.37:828][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.10.37:828][743]LogInit: FAudioDevice initialized.
+[2021.10.29-11.10.37:828][743]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map_1'.
+[2021.10.29-11.10.37:899][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.10.37:900][743]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.10.37:907][743]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.10.37
+[2021.10.29-11.10.37:909][743]LogWorld: Bringing up level for play took: 0.007626
+[2021.10.29-11.10.37:909][743]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.10.29-11.10.37:913][743]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.10.37:915][743]PIE: Server logged in
+[2021.10.29-11.10.37:917][743]PIE: Play in editor total start time 0.233 seconds.
+[2021.10.29-11.10.38:663][794]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.10.39:671][869]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.10.40:677][944]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.10.41:690][ 21]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.10.42:697][ 96]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.10.43:708][171]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.10.44:709][232]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.10.45:722][277]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.10.46:730][352]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.10.47:742][410]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.10.48:746][479]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.10.49:752][554]LogBlueprintUserMessages: [CreatureCharacter_2] 87.0
+[2021.10.29-11.10.50:761][630]LogBlueprintUserMessages: [CreatureCharacter_2] 86.0
+[2021.10.29-11.10.51:772][706]LogBlueprintUserMessages: [CreatureCharacter_2] 85.0
+[2021.10.29-11.10.52:209][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.10.52:209][734]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.10.52:209][734]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.10.52:231][734]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.10.52:232][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.10.52:241][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.10.52:246][734]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.10.52:266][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.10.52:316][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.10.52:317][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.10.52:348][734]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2021.10.29-11.10.52:445][735]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.10.29-11.11.02:596][488]140457_NE_electroBarrier_MessageLog: System successfully compiled.
+[2021.10.29-11.11.05:518][717]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.11.05:542][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.11.05:543][717]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:11:05)
+[2021.10.29-11.11.05:543][717]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.11.05:568][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024989s)
+[2021.10.29-11.11.05:568][717]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.11.05:569][717]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2021.10.29-11.11.05:569][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.026000s)
+[2021.10.29-11.11.05:635][717]LogUObjectHash: Compacting FUObjectHashTables data took  12.93ms
+[2021.10.29-11.11.05:641][717]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.10.29-11.11.05:641][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.11.05:641][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.11.05:641][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.11.05:641][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.11.05:641][717]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.11.05:641][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.11.05:641][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.11.05:641][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.11.05:641][717]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.11.05:641][717]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.11.05:652][717]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.11.05:652][717]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.11.05:666][717]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.11.05:666][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.11.05:666][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.11.05:666][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.11.05:666][717]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.11.05:666][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.11.05:666][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.11.05:678][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.11.05:678][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.11.05:678][717]LogInit: FAudioDevice initialized.
+[2021.10.29-11.11.05:678][717]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map_1'.
+[2021.10.29-11.11.05:732][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.11.05:733][717]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.11.05:739][717]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.11.05
+[2021.10.29-11.11.05:741][717]LogWorld: Bringing up level for play took: 0.007619
+[2021.10.29-11.11.05:741][717]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.10.29-11.11.05:744][717]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.11.05:747][717]PIE: Server logged in
+[2021.10.29-11.11.05:749][717]PIE: Play in editor total start time 0.213 seconds.
+[2021.10.29-11.11.06:525][769]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.11.07:540][837]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.11.08:550][890]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.11.09:553][964]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.11.10:559][  5]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.11.11:568][ 80]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.11.12:579][132]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.11.13:600][189]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.11.14:614][243]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.11.15:619][301]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.11.16:661][374]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.11.17:083][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.11.17:083][404]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.11.17:083][404]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.11.17:103][404]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.11.17:104][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.11.17:113][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.11.17:118][404]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.11.17:138][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.11.17:188][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.11.17:189][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.11.17:222][404]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2021.10.29-11.11.17:289][405]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.10.29-11.11.18:978][531]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.11.19:013][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.11.19:013][531]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:11:19)
+[2021.10.29-11.11.19:013][531]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.11.19:042][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029096s)
+[2021.10.29-11.11.19:043][531]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.11.19:043][531]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2021.10.29-11.11.19:043][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.030215s)
+[2021.10.29-11.11.19:098][531]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2021.10.29-11.11.19:100][531]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.10.29-11.11.19:100][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.11.19:100][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.11.19:100][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.11.19:100][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.11.19:101][531]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.11.19:101][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.11.19:101][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.11.19:101][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.11.19:101][531]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.11.19:101][531]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.11.19:114][531]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.11.19:114][531]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.11.19:128][531]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.11.19:129][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.11.19:129][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.11.19:129][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.11.19:129][531]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.11.19:129][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.11.19:129][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.11.19:129][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.11.19:129][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.11.19:130][531]LogInit: FAudioDevice initialized.
+[2021.10.29-11.11.19:130][531]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map_1'.
+[2021.10.29-11.11.19:166][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.11.19:166][531]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.11.19:173][531]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.11.19
+[2021.10.29-11.11.19:175][531]LogWorld: Bringing up level for play took: 0.007763
+[2021.10.29-11.11.19:175][531]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.10.29-11.11.19:178][531]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.11.19:181][531]PIE: Server logged in
+[2021.10.29-11.11.19:183][531]PIE: Play in editor total start time 0.177 seconds.
+[2021.10.29-11.11.19:984][579]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.11.20:996][659]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.11.22:006][739]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.11.23:017][819]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.11.24:024][897]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.11.25:029][977]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.11.26:030][ 57]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.11.27:036][137]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.11.28:036][217]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.11.29:043][296]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.11.30:045][375]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.11.30:965][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.11.30:965][442]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.11.30:965][442]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.11.30:982][442]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.11.30:983][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.11.30:992][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.11.30:997][442]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.11.31:017][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.11.31:066][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.11.31:067][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.11.31:098][442]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2021.10.29-11.11.31:151][443]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.10.29-11.11.34:136][667]LogNiagaraEditor: Saving and Compiling NiagaraEmitter NE_bolt
+[2021.10.29-11.11.34:150][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/NE_bolt" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_bolt.uasset" SILENT=true
+[2021.10.29-11.11.35:441][667]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/NE_bolt652ABF624CE014A4F398E380BA31EB37.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_bolt.uasset'
+[2021.10.29-11.11.35:505][667]AssetCheck: New page: Asset Save: NE_bolt
+[2021.10.29-11.11.35:505][667]LogContentValidation: Display: Validating NiagaraEmitter /Game/StarterContent/Particles/NE_bolt.NE_bolt
+[2021.10.29-11.11.36:841][768]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.11.36:863][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.11.36:863][768]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:11:36)
+[2021.10.29-11.11.36:863][768]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.11.36:885][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021933s)
+[2021.10.29-11.11.36:886][768]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.11.36:886][768]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2021.10.29-11.11.36:887][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.023111s)
+[2021.10.29-11.11.36:942][768]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2021.10.29-11.11.36:946][768]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.10.29-11.11.36:946][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.11.36:946][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.11.36:946][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.11.36:946][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.11.36:946][768]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.11.36:946][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.11.36:946][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.11.36:946][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.11.36:946][768]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.11.36:946][768]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.11.36:958][768]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.11.36:958][768]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.11.36:970][768]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.11.36:970][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.11.36:970][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.11.36:970][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.11.36:970][768]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.11.36:970][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.11.36:970][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.11.36:971][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.11.36:971][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.11.36:971][768]LogInit: FAudioDevice initialized.
+[2021.10.29-11.11.36:971][768]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map_1'.
+[2021.10.29-11.11.37:016][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.11.37:016][768]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.11.37:022][768]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.11.37
+[2021.10.29-11.11.37:024][768]LogWorld: Bringing up level for play took: 0.006989
+[2021.10.29-11.11.37:024][768]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.10.29-11.11.37:027][768]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.11.37:030][768]PIE: Server logged in
+[2021.10.29-11.11.37:032][768]PIE: Play in editor total start time 0.175 seconds.
+[2021.10.29-11.11.37:851][829]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.11.38:862][909]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.11.39:872][990]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.11.40:874][ 69]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.11.41:883][149]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.11.42:894][226]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.11.43:906][304]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.11.44:911][382]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.11.45:921][462]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.11.46:927][542]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.11.47:929][621]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.11.48:932][700]LogBlueprintUserMessages: [CreatureCharacter_2] 87.0
+[2021.10.29-11.11.49:937][780]LogBlueprintUserMessages: [CreatureCharacter_2] 86.0
+[2021.10.29-11.11.50:944][860]LogBlueprintUserMessages: [CreatureCharacter_2] 85.0
+[2021.10.29-11.11.51:946][939]LogBlueprintUserMessages: [CreatureCharacter_2] 84.0
+[2021.10.29-11.11.52:947][ 18]LogBlueprintUserMessages: [CreatureCharacter_2] 83.0
+[2021.10.29-11.11.53:563][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.11.53:563][ 63]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.11.53:564][ 63]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.11.53:579][ 63]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.11.53:580][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.11.53:590][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.11.53:595][ 63]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.11.53:615][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.11.53:662][ 63]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.29-11.11.53:664][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.11.53:665][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.11.53:697][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2021.10.29-11.11.53:755][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.10.29-11.12.21:702][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/NE_electroBarrier" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_electroBarrier.uasset" SILENT=true
+[2021.10.29-11.12.42:899][ 79]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/NE_electroBarrier7290A20D4E99E96FF62A7D86F9859C99.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_electroBarrier.uasset'
+[2021.10.29-11.12.43:016][ 79]AssetCheck: New page: Asset Save: NE_electroBarrier
+[2021.10.29-11.12.43:016][ 79]LogContentValidation: Display: Validating NiagaraSystem /Game/StarterContent/Particles/NE_electroBarrier.NE_electroBarrier
+[2021.10.29-11.12.47:004][358]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.12.47:059][358]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.29-11.12.47:060][358]LogPlayLevel: [PlayLevel] Compiling BP_ElectricFence before play...
+[2021.10.29-11.12.47:176][358]LogUObjectHash: Compacting FUObjectHashTables data took   8.76ms
+[2021.10.29-11.12.47:186][358]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (1 blueprints)
+[2021.10.29-11.12.47:186][358]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:12:47)
+[2021.10.29-11.12.47:186][358]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.12.47:213][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026986s)
+[2021.10.29-11.12.47:214][358]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.12.47:214][358]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2021.10.29-11.12.47:214][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.028072s)
+[2021.10.29-11.12.47:271][358]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2021.10.29-11.12.47:271][358]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.10.29-11.12.47:271][358]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.12.47:271][358]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.12.47:271][358]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.12.47:271][358]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.12.47:271][358]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.12.47:271][358]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.12.47:271][358]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.12.47:271][358]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.12.47:271][358]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.12.47:271][358]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.12.47:283][358]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.12.47:283][358]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.12.47:295][358]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.12.47:295][358]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.12.47:295][358]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.12.47:295][358]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.12.47:295][358]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.12.47:296][358]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.12.47:296][358]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.12.47:306][358]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.12.47:306][358]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.12.47:306][358]LogInit: FAudioDevice initialized.
+[2021.10.29-11.12.47:306][358]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map_1'.
+[2021.10.29-11.12.47:363][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.12.47:364][358]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.12.47:375][358]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.12.47
+[2021.10.29-11.12.47:377][358]LogWorld: Bringing up level for play took: 0.012449
+[2021.10.29-11.12.47:378][358]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.10.29-11.12.47:381][358]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.12.47:384][358]PIE: Server logged in
+[2021.10.29-11.12.47:386][358]PIE: Play in editor total start time 0.333 seconds.
+[2021.10.29-11.12.48:083][399]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.12.49:090][472]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.12.50:102][544]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.12.51:112][617]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.12.52:114][689]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.12.53:127][762]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.12.54:141][835]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.12.55:148][907]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.12.56:150][979]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.12.57:153][ 51]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.12.58:154][123]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.12.59:157][195]LogBlueprintUserMessages: [CreatureCharacter_2] 87.0
+[2021.10.29-11.13.00:168][267]LogBlueprintUserMessages: [CreatureCharacter_2] 86.0
+[2021.10.29-11.13.01:177][339]LogBlueprintUserMessages: [CreatureCharacter_2] 85.0
+[2021.10.29-11.13.02:185][411]LogBlueprintUserMessages: [CreatureCharacter_2] 84.0
+[2021.10.29-11.13.03:194][483]LogBlueprintUserMessages: [CreatureCharacter_2] 83.0
+[2021.10.29-11.13.04:202][555]LogBlueprintUserMessages: [CreatureCharacter_2] 82.0
+[2021.10.29-11.13.05:214][627]LogBlueprintUserMessages: [CreatureCharacter_2] 81.0
+[2021.10.29-11.13.05:304][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.13.05:305][629]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.13.05:305][629]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.13.05:326][629]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.13.05:327][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.13.05:333][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.13.05:338][629]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.13.05:357][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.13.05:407][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.13.05:408][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.13.05:438][629]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2021.10.29-11.13.05:545][630]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.10.29-11.13.20:154][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/NE_electroBarrier" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_electroBarrier.uasset" SILENT=true
+[2021.10.29-11.13.38:019][588]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/NE_electroBarrierCEE88022447C61060D2AFD8E114A38B1.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_electroBarrier.uasset'
+[2021.10.29-11.13.38:147][588]AssetCheck: New page: Asset Save: NE_electroBarrier
+[2021.10.29-11.13.38:147][588]LogContentValidation: Display: Validating NiagaraSystem /Game/StarterContent/Particles/NE_electroBarrier.NE_electroBarrier
+[2021.10.29-11.13.39:455][668]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.13.39:538][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.13.39:538][668]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:13:39)
+[2021.10.29-11.13.39:538][668]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.13.39:574][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035856s)
+[2021.10.29-11.13.39:575][668]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.13.39:575][668]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2021.10.29-11.13.39:575][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.037069s)
+[2021.10.29-11.13.39:633][668]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2021.10.29-11.13.39:639][668]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.10.29-11.13.39:639][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.13.39:639][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.13.39:639][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.13.39:639][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.13.39:639][668]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.13.39:639][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.13.39:639][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.13.39:639][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.13.39:639][668]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.13.39:639][668]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.13.39:651][668]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.13.39:651][668]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.13.39:663][668]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.13.39:663][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.13.39:663][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.13.39:663][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.13.39:663][668]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.13.39:663][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.13.39:663][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.13.39:675][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.13.39:675][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.13.39:675][668]LogInit: FAudioDevice initialized.
+[2021.10.29-11.13.39:675][668]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map_1'.
+[2021.10.29-11.13.39:734][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.13.39:735][668]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.13.39:741][668]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.13.39
+[2021.10.29-11.13.39:743][668]LogWorld: Bringing up level for play took: 0.007828
+[2021.10.29-11.13.39:743][668]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.10.29-11.13.39:747][668]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.13.39:750][668]PIE: Server logged in
+[2021.10.29-11.13.39:752][668]PIE: Play in editor total start time 0.22 seconds.
+[2021.10.29-11.13.40:463][712]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.13.41:470][780]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.13.42:472][846]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.13.43:478][908]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.13.44:506][965]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.13.45:514][ 13]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.13.46:529][ 78]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.13.47:544][126]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.13.48:554][186]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.13.49:568][254]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.13.50:573][321]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.13.51:588][389]LogBlueprintUserMessages: [CreatureCharacter_2] 87.0
+[2021.10.29-11.13.52:591][443]LogBlueprintUserMessages: [CreatureCharacter_2] 86.0
+[2021.10.29-11.13.53:684][515]LogBlueprintUserMessages: [CreatureCharacter_2] 85.0
+[2021.10.29-11.13.54:712][581]LogBlueprintUserMessages: [CreatureCharacter_2] 84.0
+[2021.10.29-11.13.57:941][854]LogBlueprintUserMessages: [CreatureCharacter_2] 83.0
+[2021.10.29-11.13.58:942][925]LogBlueprintUserMessages: [CreatureCharacter_2] 82.0
+[2021.10.29-11.13.59:951][998]LogBlueprintUserMessages: [CreatureCharacter_2] 81.0
+[2021.10.29-11.14.01:042][ 78]LogBlueprintUserMessages: [CreatureCharacter_2] 80.0
+[2021.10.29-11.14.02:566][200]LogBlueprintUserMessages: [CreatureCharacter_2] 79.0
+[2021.10.29-11.14.03:325][254]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.29-11.14.03:671][272]LogBlueprintUserMessages: [CreatureCharacter_2] 78.0
+[2021.10.29-11.14.04:741][344]LogBlueprintUserMessages: [CreatureCharacter_2] 77.0
+[2021.10.29-11.14.05:835][414]LogBlueprintUserMessages: [CreatureCharacter_2] 76.0
+[2021.10.29-11.14.07:126][514]LogBlueprintUserMessages: [CreatureCharacter_2] 75.0
+[2021.10.29-11.14.07:418][536]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.29-11.14.08:325][594]LogBlueprintUserMessages: [CreatureCharacter_2] 74.0
+[2021.10.29-11.14.09:331][666]LogBlueprintUserMessages: [CreatureCharacter_2] 73.0
+[2021.10.29-11.14.10:345][728]LogBlueprintUserMessages: [CreatureCharacter_2] 72.0
+[2021.10.29-11.14.11:630][828]LogBlueprintUserMessages: [CreatureCharacter_2] 71.0
+[2021.10.29-11.14.12:638][902]LogBlueprintUserMessages: [CreatureCharacter_2] 70.0
+[2021.10.29-11.14.12:988][927]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.29-11.14.13:734][969]LogBlueprintUserMessages: [CreatureCharacter_2] 69.0
+[2021.10.29-11.14.14:741][ 43]LogBlueprintUserMessages: [CreatureCharacter_2] 68.0
+[2021.10.29-11.14.15:833][124]LogBlueprintUserMessages: [CreatureCharacter_2] 67.0
+[2021.10.29-11.14.16:263][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/NE_electroBarrier" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_electroBarrier.uasset" SILENT=true
+[2021.10.29-11.14.30:208][151]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/NE_electroBarrier25DDA1244993A038DAB3E293A9829365.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_electroBarrier.uasset'
+[2021.10.29-11.14.30:332][151]AssetCheck: New page: Asset Save: NE_electroBarrier
+[2021.10.29-11.14.30:332][151]LogContentValidation: Display: Validating NiagaraSystem /Game/StarterContent/Particles/NE_electroBarrier.NE_electroBarrier
+[2021.10.29-11.14.30:639][157]LogBlueprintUserMessages: [CreatureCharacter_2] 66.0
+[2021.10.29-11.14.31:648][232]LogBlueprintUserMessages: [CreatureCharacter_2] 65.0
+[2021.10.29-11.14.32:660][309]LogBlueprintUserMessages: [CreatureCharacter_2] 64.0
+[2021.10.29-11.14.33:665][386]LogBlueprintUserMessages: [CreatureCharacter_2] 63.0
+[2021.10.29-11.14.34:667][462]LogBlueprintUserMessages: [CreatureCharacter_2] 62.0
+[2021.10.29-11.14.35:667][538]LogBlueprintUserMessages: [CreatureCharacter_2] 61.0
+[2021.10.29-11.14.36:673][615]LogBlueprintUserMessages: [CreatureCharacter_2] 60.0
+[2021.10.29-11.14.37:678][692]LogBlueprintUserMessages: [CreatureCharacter_2] 59.0
+[2021.10.29-11.14.38:683][768]LogBlueprintUserMessages: [CreatureCharacter_2] 58.0
+[2021.10.29-11.14.39:690][845]LogBlueprintUserMessages: [CreatureCharacter_2] 57.0
+[2021.10.29-11.14.40:701][917]LogBlueprintUserMessages: [CreatureCharacter_2] 56.0
+[2021.10.29-11.14.41:705][942]LogBlueprintUserMessages: [CreatureCharacter_2] 55.0
+[2021.10.29-11.14.42:708][ 10]LogBlueprintUserMessages: [CreatureCharacter_2] 54.0
+[2021.10.29-11.14.44:368][ 92]LogBlueprintUserMessages: [CreatureCharacter_2] 53.0
+[2021.10.29-11.14.45:381][164]LogBlueprintUserMessages: [CreatureCharacter_2] 52.0
+[2021.10.29-11.14.46:438][169]LogBlueprintUserMessages: [CreatureCharacter_2] 51.0
+[2021.10.29-11.14.46:670][170]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.14.46:753][170]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.14.46:754][170]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.14.46:755][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.14.46:760][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.14.46:765][170]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.14.46:785][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.14.46:833][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.29-11.14.46:834][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.14.46:835][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.14.46:867][170]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.10.29-11.14.47:086][171]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.10.29-11.14.53:755][569]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.14.53:777][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.14.53:777][569]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:14:53)
+[2021.10.29-11.14.53:777][569]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.14.53:798][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021611s)
+[2021.10.29-11.14.53:799][569]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.14.53:799][569]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2021.10.29-11.14.53:799][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.022642s)
+[2021.10.29-11.14.53:856][569]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2021.10.29-11.14.53:860][569]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.10.29-11.14.53:860][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.14.53:861][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.14.53:861][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.14.53:861][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.14.53:861][569]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.14.53:861][569]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.14.53:861][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.14.53:861][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.14.53:861][569]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.14.53:861][569]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.14.53:873][569]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.14.53:873][569]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.14.53:885][569]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.14.53:885][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.14.53:885][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.14.53:885][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.14.53:885][569]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.14.53:885][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.14.53:885][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.14.53:897][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.14.53:897][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.14.53:897][569]LogInit: FAudioDevice initialized.
+[2021.10.29-11.14.53:897][569]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map_1'.
+[2021.10.29-11.14.53:965][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.14.53:966][569]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.14.53:981][569]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.14.53
+[2021.10.29-11.14.53:983][569]LogWorld: Bringing up level for play took: 0.014297
+[2021.10.29-11.14.53:983][569]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.10.29-11.14.53:986][569]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.14.53:989][569]PIE: Server logged in
+[2021.10.29-11.14.53:991][569]PIE: Play in editor total start time 0.221 seconds.
+[2021.10.29-11.14.54:767][616]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.14.55:802][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.14.55:802][679]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.14.55:802][679]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.14.55:821][679]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.14.55:822][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.14.55:826][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.14.55:831][679]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.14.55:852][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.14.55:903][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.14.55:904][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.14.55:935][679]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2021.10.29-11.14.55:986][680]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.10.29-11.15.00:587][992]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.15.00:609][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.15.00:609][992]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:15:00)
+[2021.10.29-11.15.00:609][992]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.15.00:631][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021347s)
+[2021.10.29-11.15.00:631][992]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.15.00:632][992]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2021.10.29-11.15.00:632][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.022386s)
+[2021.10.29-11.15.00:687][992]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2021.10.29-11.15.00:691][992]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.10.29-11.15.00:691][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.15.00:691][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.15.00:691][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.15.00:691][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.15.00:691][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.15.00:691][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.15.00:691][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.15.00:691][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.15.00:691][992]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.15.00:691][992]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.15.00:702][992]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.15.00:703][992]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.15.00:714][992]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.15.00:714][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.15.00:714][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.15.00:714][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.15.00:714][992]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.15.00:714][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.15.00:714][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.15.00:726][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.15.00:726][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.15.00:726][992]LogInit: FAudioDevice initialized.
+[2021.10.29-11.15.00:726][992]LogAudio: Display: Audio Device (ID: 11) registered with world 'Map_1'.
+[2021.10.29-11.15.00:783][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.15.00:783][992]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.15.00:790][992]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.15.00
+[2021.10.29-11.15.00:792][992]LogWorld: Bringing up level for play took: 0.007966
+[2021.10.29-11.15.00:792][992]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.10.29-11.15.00:795][992]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.15.00:798][992]PIE: Server logged in
+[2021.10.29-11.15.00:801][992]PIE: Play in editor total start time 0.199 seconds.
+[2021.10.29-11.15.01:593][ 36]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.15.02:598][104]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.15.03:603][172]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.15.04:603][240]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.15.05:612][308]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.15.06:613][376]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.15.07:630][441]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.15.08:641][503]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.15.09:656][567]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.15.10:664][631]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.15.11:667][698]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.15.12:669][766]LogBlueprintUserMessages: [CreatureCharacter_2] 87.0
+[2021.10.29-11.15.13:675][834]LogBlueprintUserMessages: [CreatureCharacter_2] 86.0
+[2021.10.29-11.15.14:682][902]LogBlueprintUserMessages: [CreatureCharacter_2] 85.0
+[2021.10.29-11.15.15:683][969]LogBlueprintUserMessages: [CreatureCharacter_2] 84.0
+[2021.10.29-11.15.16:686][ 37]LogBlueprintUserMessages: [CreatureCharacter_2] 83.0
+[2021.10.29-11.15.17:688][105]LogBlueprintUserMessages: [CreatureCharacter_2] 82.0
+[2021.10.29-11.15.18:690][173]LogBlueprintUserMessages: [CreatureCharacter_2] 81.0
+[2021.10.29-11.15.19:695][241]LogBlueprintUserMessages: [CreatureCharacter_2] 80.0
+[2021.10.29-11.15.20:707][309]LogBlueprintUserMessages: [CreatureCharacter_2] 79.0
+[2021.10.29-11.15.21:712][377]LogBlueprintUserMessages: [CreatureCharacter_2] 78.0
+[2021.10.29-11.15.22:715][445]LogBlueprintUserMessages: [CreatureCharacter_2] 77.0
+[2021.10.29-11.15.23:718][513]LogBlueprintUserMessages: [CreatureCharacter_2] 76.0
+[2021.10.29-11.15.24:721][581]LogBlueprintUserMessages: [CreatureCharacter_2] 75.0
+[2021.10.29-11.15.25:724][647]LogBlueprintUserMessages: [CreatureCharacter_2] 74.0
+[2021.10.29-11.15.26:737][716]LogBlueprintUserMessages: [CreatureCharacter_2] 73.0
+[2021.10.29-11.15.27:746][785]LogBlueprintUserMessages: [CreatureCharacter_2] 72.0
+[2021.10.29-11.15.28:749][853]LogBlueprintUserMessages: [CreatureCharacter_2] 71.0
+[2021.10.29-11.15.29:762][922]LogBlueprintUserMessages: [CreatureCharacter_2] 70.0
+[2021.10.29-11.15.30:774][990]LogBlueprintUserMessages: [CreatureCharacter_2] 69.0
+[2021.10.29-11.15.31:788][ 59]LogBlueprintUserMessages: [CreatureCharacter_2] 68.0
+[2021.10.29-11.15.32:789][127]LogBlueprintUserMessages: [CreatureCharacter_2] 67.0
+[2021.10.29-11.15.33:794][195]LogBlueprintUserMessages: [CreatureCharacter_2] 66.0
+[2021.10.29-11.15.34:797][263]LogBlueprintUserMessages: [CreatureCharacter_2] 65.0
+[2021.10.29-11.15.35:802][331]LogBlueprintUserMessages: [CreatureCharacter_2] 64.0
+[2021.10.29-11.15.36:806][399]LogBlueprintUserMessages: [CreatureCharacter_2] 63.0
+[2021.10.29-11.15.37:810][467]LogBlueprintUserMessages: [CreatureCharacter_2] 62.0
+[2021.10.29-11.15.38:825][536]LogBlueprintUserMessages: [CreatureCharacter_2] 61.0
+[2021.10.29-11.15.39:839][605]LogBlueprintUserMessages: [CreatureCharacter_2] 60.0
+[2021.10.29-11.15.40:847][673]LogBlueprintUserMessages: [CreatureCharacter_2] 59.0
+[2021.10.29-11.15.41:860][742]LogBlueprintUserMessages: [CreatureCharacter_2] 58.0
+[2021.10.29-11.15.42:867][810]LogBlueprintUserMessages: [CreatureCharacter_2] 57.0
+[2021.10.29-11.15.43:875][878]LogBlueprintUserMessages: [CreatureCharacter_2] 56.0
+[2021.10.29-11.15.44:879][946]LogBlueprintUserMessages: [CreatureCharacter_2] 55.0
+[2021.10.29-11.15.45:887][ 14]LogBlueprintUserMessages: [CreatureCharacter_2] 54.0
+[2021.10.29-11.15.46:901][ 83]LogBlueprintUserMessages: [CreatureCharacter_2] 53.0
+[2021.10.29-11.15.47:901][151]LogBlueprintUserMessages: [CreatureCharacter_2] 52.0
+[2021.10.29-11.15.48:908][219]LogBlueprintUserMessages: [CreatureCharacter_2] 51.0
+[2021.10.29-11.15.49:911][287]LogBlueprintUserMessages: [CreatureCharacter_2] 50.0
+[2021.10.29-11.15.50:923][356]LogBlueprintUserMessages: [CreatureCharacter_2] 49.0
+[2021.10.29-11.15.51:924][424]LogBlueprintUserMessages: [CreatureCharacter_2] 48.0
+[2021.10.29-11.15.52:924][492]LogBlueprintUserMessages: [CreatureCharacter_2] 47.0
+[2021.10.29-11.15.53:925][560]LogBlueprintUserMessages: [CreatureCharacter_2] 46.0
+[2021.10.29-11.15.54:933][628]LogBlueprintUserMessages: [CreatureCharacter_2] 45.0
+[2021.10.29-11.15.55:936][696]LogBlueprintUserMessages: [CreatureCharacter_2] 44.0
+[2021.10.29-11.15.56:936][764]LogBlueprintUserMessages: [CreatureCharacter_2] 43.0
+[2021.10.29-11.15.57:944][833]LogBlueprintUserMessages: [CreatureCharacter_2] 42.0
+[2021.10.29-11.15.58:955][902]LogBlueprintUserMessages: [CreatureCharacter_2] 41.0
+[2021.10.29-11.15.59:970][971]LogBlueprintUserMessages: [CreatureCharacter_2] 40.0
+[2021.10.29-11.16.00:973][ 38]LogBlueprintUserMessages: [CreatureCharacter_2] 39.0
+[2021.10.29-11.16.01:983][102]LogBlueprintUserMessages: [CreatureCharacter_2] 38.0
+[2021.10.29-11.16.02:995][171]LogBlueprintUserMessages: [CreatureCharacter_2] 37.0
+[2021.10.29-11.16.03:999][239]LogBlueprintUserMessages: [CreatureCharacter_2] 36.0
+[2021.10.29-11.16.05:012][307]LogBlueprintUserMessages: [CreatureCharacter_2] 35.0
+[2021.10.29-11.16.06:025][375]LogBlueprintUserMessages: [CreatureCharacter_2] 34.0
+[2021.10.29-11.16.07:042][429]LogBlueprintUserMessages: [CreatureCharacter_2] 33.0
+[2021.10.29-11.16.08:050][478]LogBlueprintUserMessages: [CreatureCharacter_2] 32.0
+[2021.10.29-11.16.09:056][534]LogBlueprintUserMessages: [CreatureCharacter_2] 31.0
+[2021.10.29-11.16.10:063][601]LogBlueprintUserMessages: [CreatureCharacter_2] 30.0
+[2021.10.29-11.16.11:064][668]LogBlueprintUserMessages: [CreatureCharacter_2] 29.0
+[2021.10.29-11.16.12:072][736]LogBlueprintUserMessages: [CreatureCharacter_2] 28.0
+[2021.10.29-11.16.13:083][805]LogBlueprintUserMessages: [CreatureCharacter_2] 27.0
+[2021.10.29-11.16.14:088][873]LogBlueprintUserMessages: [CreatureCharacter_2] 26.0
+[2021.10.29-11.16.15:101][942]LogBlueprintUserMessages: [CreatureCharacter_2] 25.0
+[2021.10.29-11.16.16:111][ 10]LogBlueprintUserMessages: [CreatureCharacter_2] 24.0
+[2021.10.29-11.16.17:125][ 79]LogBlueprintUserMessages: [CreatureCharacter_2] 23.0
+[2021.10.29-11.16.18:129][147]LogBlueprintUserMessages: [CreatureCharacter_2] 22.0
+[2021.10.29-11.16.19:131][214]LogBlueprintUserMessages: [CreatureCharacter_2] 21.0
+[2021.10.29-11.16.19:481][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.16.19:481][235]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.16.19:482][235]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.16.19:501][235]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.16.19:502][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.16.19:511][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.16.19:516][235]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.16.19:537][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.16.19:585][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.29-11.16.19:585][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.16.19:586][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.16.19:620][235]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2021.10.29-11.16.19:824][236]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.10.29-11.16.54:889][636]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.16.54:913][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.16.54:913][636]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:16:54)
+[2021.10.29-11.16.54:913][636]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.16.54:936][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023134s)
+[2021.10.29-11.16.54:937][636]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.16.54:937][636]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2021.10.29-11.16.54:937][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.024214s)
+[2021.10.29-11.16.54:993][636]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2021.10.29-11.16.55:002][636]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.10.29-11.16.55:002][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.16.55:002][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.16.55:002][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.16.55:002][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.16.55:002][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.16.55:002][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.16.55:002][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.16.55:002][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.16.55:002][636]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.16.55:002][636]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.16.55:013][636]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.16.55:014][636]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.16.55:026][636]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.16.55:026][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.16.55:026][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.16.55:026][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.16.55:027][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.16.55:027][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.16.55:027][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.16.55:038][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.16.55:038][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.16.55:038][636]LogInit: FAudioDevice initialized.
+[2021.10.29-11.16.55:038][636]LogAudio: Display: Audio Device (ID: 12) registered with world 'Map_1'.
+[2021.10.29-11.16.55:083][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.16.55:084][636]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.16.55:090][636]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.16.55
+[2021.10.29-11.16.55:092][636]LogWorld: Bringing up level for play took: 0.007786
+[2021.10.29-11.16.55:093][636]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.10.29-11.16.55:096][636]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.16.55:099][636]PIE: Server logged in
+[2021.10.29-11.16.55:101][636]PIE: Play in editor total start time 0.194 seconds.
+[2021.10.29-11.16.55:900][689]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.16.56:903][761]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.16.57:915][834]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.16.58:925][907]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.16.59:931][980]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.17.00:942][ 52]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.17.01:953][125]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.17.02:964][198]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.17.03:966][270]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.17.04:969][342]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.17.05:970][414]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.17.06:982][487]LogBlueprintUserMessages: [CreatureCharacter_2] 87.0
+[2021.10.29-11.17.07:997][560]LogBlueprintUserMessages: [CreatureCharacter_2] 86.0
+[2021.10.29-11.17.09:010][633]LogBlueprintUserMessages: [CreatureCharacter_2] 85.0
+[2021.10.29-11.17.10:014][705]LogBlueprintUserMessages: [CreatureCharacter_2] 84.0
+[2021.10.29-11.17.11:023][777]LogBlueprintUserMessages: [CreatureCharacter_2] 83.0
+[2021.10.29-11.17.12:037][850]LogBlueprintUserMessages: [CreatureCharacter_2] 82.0
+[2021.10.29-11.17.13:040][922]LogBlueprintUserMessages: [CreatureCharacter_2] 81.0
+[2021.10.29-11.17.14:049][995]LogBlueprintUserMessages: [CreatureCharacter_2] 80.0
+[2021.10.29-11.17.15:059][ 68]LogBlueprintUserMessages: [CreatureCharacter_2] 79.0
+[2021.10.29-11.17.16:059][140]LogBlueprintUserMessages: [CreatureCharacter_2] 78.0
+[2021.10.29-11.17.17:070][213]LogBlueprintUserMessages: [CreatureCharacter_2] 77.0
+[2021.10.29-11.17.18:081][286]LogBlueprintUserMessages: [CreatureCharacter_2] 76.0
+[2021.10.29-11.17.19:085][343]LogBlueprintUserMessages: [CreatureCharacter_2] 75.0
+[2021.10.29-11.17.20:090][393]LogBlueprintUserMessages: [CreatureCharacter_2] 74.0
+[2021.10.29-11.17.21:103][453]LogBlueprintUserMessages: [CreatureCharacter_2] 73.0
+[2021.10.29-11.17.22:110][514]LogBlueprintUserMessages: [CreatureCharacter_2] 72.0
+[2021.10.29-11.17.23:118][578]LogBlueprintUserMessages: [CreatureCharacter_2] 71.0
+[2021.10.29-11.17.24:124][651]LogBlueprintUserMessages: [CreatureCharacter_2] 70.0
+[2021.10.29-11.17.25:129][723]LogBlueprintUserMessages: [CreatureCharacter_2] 69.0
+[2021.10.29-11.17.26:130][793]LogBlueprintUserMessages: [CreatureCharacter_2] 68.0
+[2021.10.29-11.17.27:143][866]LogBlueprintUserMessages: [CreatureCharacter_2] 67.0
+[2021.10.29-11.17.28:156][939]LogBlueprintUserMessages: [CreatureCharacter_2] 66.0
+[2021.10.29-11.17.29:166][ 12]LogBlueprintUserMessages: [CreatureCharacter_2] 65.0
+[2021.10.29-11.17.30:170][ 85]LogBlueprintUserMessages: [CreatureCharacter_2] 64.0
+[2021.10.29-11.17.31:182][158]LogBlueprintUserMessages: [CreatureCharacter_2] 63.0
+[2021.10.29-11.17.32:186][230]LogBlueprintUserMessages: [CreatureCharacter_2] 62.0
+[2021.10.29-11.17.32:815][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.17.32:815][272]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.17.32:815][272]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.17.32:834][272]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.17.32:835][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.17.32:845][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.17.32:849][272]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.17.32:871][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.17.32:920][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.17.32:921][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.17.32:954][272]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2021.10.29-11.17.33:009][273]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.10.29-11.17.35:852][474]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.17.35:875][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.17.35:875][474]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:17:35)
+[2021.10.29-11.17.35:875][474]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.17.35:896][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021318s)
+[2021.10.29-11.17.35:897][474]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.17.35:897][474]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2021.10.29-11.17.35:897][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.022351s)
+[2021.10.29-11.17.35:953][474]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2021.10.29-11.17.35:956][474]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.10.29-11.17.35:956][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.17.35:956][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.17.35:956][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.17.35:956][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.17.35:956][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.17.35:956][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.17.35:956][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.17.35:956][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.17.35:956][474]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.17.35:956][474]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.17.35:968][474]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.17.35:968][474]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.17.35:980][474]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.17.35:981][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.17.35:981][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.17.35:981][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.17.35:981][474]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.17.35:981][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.17.35:981][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.17.35:993][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.17.35:993][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.17.35:993][474]LogInit: FAudioDevice initialized.
+[2021.10.29-11.17.35:993][474]LogAudio: Display: Audio Device (ID: 13) registered with world 'Map_1'.
+[2021.10.29-11.17.36:050][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.17.36:051][474]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.17.36:057][474]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.17.36
+[2021.10.29-11.17.36:060][474]LogWorld: Bringing up level for play took: 0.008274
+[2021.10.29-11.17.36:060][474]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.10.29-11.17.36:063][474]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.17.36:066][474]PIE: Server logged in
+[2021.10.29-11.17.36:069][474]PIE: Play in editor total start time 0.201 seconds.
+[2021.10.29-11.17.36:854][522]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.17.37:855][594]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.17.38:865][666]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.17.39:963][698]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.17.40:970][701]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.17.41:976][704]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.17.42:982][707]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.17.43:982][710]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.17.44:988][713]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.17.45:986][750]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.17.47:105][784]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.17.48:109][787]LogBlueprintUserMessages: [CreatureCharacter_2] 87.0
+[2021.10.29-11.17.49:120][790]LogBlueprintUserMessages: [CreatureCharacter_2] 86.0
+[2021.10.29-11.17.50:129][793]LogBlueprintUserMessages: [CreatureCharacter_2] 85.0
+[2021.10.29-11.17.51:138][796]LogBlueprintUserMessages: [CreatureCharacter_2] 84.0
+[2021.10.29-11.17.52:145][799]LogBlueprintUserMessages: [CreatureCharacter_2] 83.0
+[2021.10.29-11.17.53:148][802]LogBlueprintUserMessages: [CreatureCharacter_2] 82.0
+[2021.10.29-11.17.54:152][805]LogBlueprintUserMessages: [CreatureCharacter_2] 81.0
+[2021.10.29-11.17.55:154][808]LogBlueprintUserMessages: [CreatureCharacter_2] 80.0
+[2021.10.29-11.17.56:160][811]LogBlueprintUserMessages: [CreatureCharacter_2] 79.0
+[2021.10.29-11.17.57:158][814]LogBlueprintUserMessages: [CreatureCharacter_2] 78.0
+[2021.10.29-11.17.58:161][817]LogBlueprintUserMessages: [CreatureCharacter_2] 77.0
+[2021.10.29-11.17.59:152][857]LogBlueprintUserMessages: [CreatureCharacter_2] 76.0
+[2021.10.29-11.18.00:159][927]LogBlueprintUserMessages: [CreatureCharacter_2] 75.0
+[2021.10.29-11.18.01:216][977]LogBlueprintUserMessages: [CreatureCharacter_2] 74.0
+[2021.10.29-11.18.02:217][980]LogBlueprintUserMessages: [CreatureCharacter_2] 73.0
+[2021.10.29-11.18.03:229][983]LogBlueprintUserMessages: [CreatureCharacter_2] 72.0
+[2021.10.29-11.18.04:238][986]LogBlueprintUserMessages: [CreatureCharacter_2] 71.0
+[2021.10.29-11.18.05:246][989]LogBlueprintUserMessages: [CreatureCharacter_2] 70.0
+[2021.10.29-11.18.06:246][992]LogBlueprintUserMessages: [CreatureCharacter_2] 69.0
+[2021.10.29-11.18.07:249][995]LogBlueprintUserMessages: [CreatureCharacter_2] 68.0
+[2021.10.29-11.18.08:261][998]LogBlueprintUserMessages: [CreatureCharacter_2] 67.0
+[2021.10.29-11.18.09:263][  1]LogBlueprintUserMessages: [CreatureCharacter_2] 66.0
+[2021.10.29-11.18.10:268][  4]LogBlueprintUserMessages: [CreatureCharacter_2] 65.0
+[2021.10.29-11.18.11:265][  7]LogBlueprintUserMessages: [CreatureCharacter_2] 64.0
+[2021.10.29-11.18.12:277][ 10]LogBlueprintUserMessages: [CreatureCharacter_2] 63.0
+[2021.10.29-11.18.13:290][ 13]LogBlueprintUserMessages: [CreatureCharacter_2] 62.0
+[2021.10.29-11.18.14:302][ 16]LogBlueprintUserMessages: [CreatureCharacter_2] 61.0
+[2021.10.29-11.18.15:309][ 19]LogBlueprintUserMessages: [CreatureCharacter_2] 60.0
+[2021.10.29-11.18.16:314][ 22]LogBlueprintUserMessages: [CreatureCharacter_2] 59.0
+[2021.10.29-11.18.17:328][ 25]LogBlueprintUserMessages: [CreatureCharacter_2] 58.0
+[2021.10.29-11.18.18:330][ 28]LogBlueprintUserMessages: [CreatureCharacter_2] 57.0
+[2021.10.29-11.18.19:338][ 31]LogBlueprintUserMessages: [CreatureCharacter_2] 56.0
+[2021.10.29-11.18.20:339][ 34]LogBlueprintUserMessages: [CreatureCharacter_2] 55.0
+[2021.10.29-11.18.21:342][ 37]LogBlueprintUserMessages: [CreatureCharacter_2] 54.0
+[2021.10.29-11.18.22:352][ 40]LogBlueprintUserMessages: [CreatureCharacter_2] 53.0
+[2021.10.29-11.18.23:356][ 43]LogBlueprintUserMessages: [CreatureCharacter_2] 52.0
+[2021.10.29-11.18.24:359][ 46]LogBlueprintUserMessages: [CreatureCharacter_2] 51.0
+[2021.10.29-11.18.25:367][ 49]LogBlueprintUserMessages: [CreatureCharacter_2] 50.0
+[2021.10.29-11.18.26:375][ 52]LogBlueprintUserMessages: [CreatureCharacter_2] 49.0
+[2021.10.29-11.18.27:383][ 55]LogBlueprintUserMessages: [CreatureCharacter_2] 48.0
+[2021.10.29-11.18.28:395][ 58]LogBlueprintUserMessages: [CreatureCharacter_2] 47.0
+[2021.10.29-11.18.29:398][ 61]LogBlueprintUserMessages: [CreatureCharacter_2] 46.0
+[2021.10.29-11.18.30:408][ 64]LogBlueprintUserMessages: [CreatureCharacter_2] 45.0
+[2021.10.29-11.18.31:405][ 67]LogBlueprintUserMessages: [CreatureCharacter_2] 44.0
+[2021.10.29-11.18.32:414][ 70]LogBlueprintUserMessages: [CreatureCharacter_2] 43.0
+[2021.10.29-11.18.33:419][ 73]LogBlueprintUserMessages: [CreatureCharacter_2] 42.0
+[2021.10.29-11.18.34:416][ 76]LogBlueprintUserMessages: [CreatureCharacter_2] 41.0
+[2021.10.29-11.18.35:429][ 79]LogBlueprintUserMessages: [CreatureCharacter_2] 40.0
+[2021.10.29-11.18.36:429][ 82]LogBlueprintUserMessages: [CreatureCharacter_2] 39.0
+[2021.10.29-11.18.37:425][121]LogBlueprintUserMessages: [CreatureCharacter_2] 38.0
+[2021.10.29-11.18.38:723][145]LogBlueprintUserMessages: [CreatureCharacter_2] 37.0
+[2021.10.29-11.18.39:727][148]LogBlueprintUserMessages: [CreatureCharacter_2] 36.0
+[2021.10.29-11.18.40:732][151]LogBlueprintUserMessages: [CreatureCharacter_2] 35.0
+[2021.10.29-11.18.41:748][154]LogBlueprintUserMessages: [CreatureCharacter_2] 34.0
+[2021.10.29-11.18.42:762][157]LogBlueprintUserMessages: [CreatureCharacter_2] 33.0
+[2021.10.29-11.18.43:762][160]LogBlueprintUserMessages: [CreatureCharacter_2] 32.0
+[2021.10.29-11.18.44:762][163]LogBlueprintUserMessages: [CreatureCharacter_2] 31.0
+[2021.10.29-11.18.45:762][166]LogBlueprintUserMessages: [CreatureCharacter_2] 30.0
+[2021.10.29-11.18.46:774][169]LogBlueprintUserMessages: [CreatureCharacter_2] 29.0
+[2021.10.29-11.18.47:778][172]LogBlueprintUserMessages: [CreatureCharacter_2] 28.0
+[2021.10.29-11.18.48:783][175]LogBlueprintUserMessages: [CreatureCharacter_2] 27.0
+[2021.10.29-11.18.49:789][178]LogBlueprintUserMessages: [CreatureCharacter_2] 26.0
+[2021.10.29-11.18.50:791][181]LogBlueprintUserMessages: [CreatureCharacter_2] 25.0
+[2021.10.29-11.18.51:800][184]LogBlueprintUserMessages: [CreatureCharacter_2] 24.0
+[2021.10.29-11.18.52:799][187]LogBlueprintUserMessages: [CreatureCharacter_2] 23.0
+[2021.10.29-11.18.53:804][190]LogBlueprintUserMessages: [CreatureCharacter_2] 22.0
+[2021.10.29-11.18.54:812][193]LogBlueprintUserMessages: [CreatureCharacter_2] 21.0
+[2021.10.29-11.18.55:814][196]LogBlueprintUserMessages: [CreatureCharacter_2] 20.0
+[2021.10.29-11.18.56:138][197]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.18.56:158][197]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.18.56:159][197]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.18.56:160][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.18.56:167][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.18.56:172][197]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.18.56:193][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.18.56:245][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.18.56:246][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.18.56:279][197]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2021.10.29-11.18.56:476][198]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.10.29-11.20.19:037][701]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.20.19:059][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.20.19:059][701]PIE: New page: PIE session: Map_1 (29 Oct 2021, 13:20:19)
+[2021.10.29-11.20.19:059][701]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.20.19:081][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022306s)
+[2021.10.29-11.20.19:082][701]LogAIModule: Creating AISystem for world Map_1
+[2021.10.29-11.20.19:082][701]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2021.10.29-11.20.19:082][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.023371s)
+[2021.10.29-11.20.19:139][701]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.10.29-11.20.19:143][701]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.10.29-11.20.19:143][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.20.19:143][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.20.19:143][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.20.19:143][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.20.19:143][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.20.19:143][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.20.19:143][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.20.19:143][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.20.19:144][701]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.20.19:144][701]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.20.19:158][701]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.20.19:158][701]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.20.19:171][701]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.20.19:171][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.20.19:171][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.20.19:171][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.20.19:171][701]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.20.19:171][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.20.19:171][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.20.19:183][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.20.19:183][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.20.19:183][701]LogInit: FAudioDevice initialized.
+[2021.10.29-11.20.19:183][701]LogAudio: Display: Audio Device (ID: 14) registered with world 'Map_1'.
+[2021.10.29-11.20.19:218][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.20.19:218][701]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.20.19:223][701]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.10.29-12.20.19
+[2021.10.29-11.20.19:225][701]LogWorld: Bringing up level for play took: 0.007263
+[2021.10.29-11.20.19:225][701]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.10.29-11.20.19:229][701]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.20.19:232][701]PIE: Server logged in
+[2021.10.29-11.20.19:234][701]PIE: Play in editor total start time 0.182 seconds.
+[2021.10.29-11.20.20:049][751]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.20.21:053][823]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.20.22:065][896]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.20.23:066][967]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.20.24:080][ 39]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.20.25:090][111]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.20.26:098][184]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.20.27:098][255]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.20.28:106][325]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.20.29:116][397]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.20.30:130][468]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.20.31:130][539]LogBlueprintUserMessages: [CreatureCharacter_2] 87.0
+[2021.10.29-11.20.32:139][611]LogBlueprintUserMessages: [CreatureCharacter_2] 86.0
+[2021.10.29-11.20.33:231][619]LogBlueprintUserMessages: [CreatureCharacter_2] 85.0
+[2021.10.29-11.20.34:369][632]LogBlueprintUserMessages: [CreatureCharacter_2] 84.0
+[2021.10.29-11.20.35:370][635]LogBlueprintUserMessages: [CreatureCharacter_2] 83.0
+[2021.10.29-11.20.36:375][638]LogBlueprintUserMessages: [CreatureCharacter_2] 82.0
+[2021.10.29-11.20.37:378][665]LogBlueprintUserMessages: [CreatureCharacter_2] 81.0
+[2021.10.29-11.20.38:453][696]LogBlueprintUserMessages: [CreatureCharacter_2] 80.0
+[2021.10.29-11.20.39:463][699]LogBlueprintUserMessages: [CreatureCharacter_2] 79.0
+[2021.10.29-11.20.40:461][702]LogBlueprintUserMessages: [CreatureCharacter_2] 78.0
+[2021.10.29-11.20.41:466][705]LogBlueprintUserMessages: [CreatureCharacter_2] 77.0
+[2021.10.29-11.20.42:467][708]LogBlueprintUserMessages: [CreatureCharacter_2] 76.0
+[2021.10.29-11.20.43:467][711]LogBlueprintUserMessages: [CreatureCharacter_2] 75.0
+[2021.10.29-11.20.44:467][714]LogBlueprintUserMessages: [CreatureCharacter_2] 74.0
+[2021.10.29-11.20.45:486][767]LogBlueprintUserMessages: [CreatureCharacter_2] 73.0
+[2021.10.29-11.20.46:498][820]LogBlueprintUserMessages: [CreatureCharacter_2] 72.0
+[2021.10.29-11.20.47:502][890]LogBlueprintUserMessages: [CreatureCharacter_2] 71.0
+[2021.10.29-11.20.48:722][908]LogBlueprintUserMessages: [CreatureCharacter_2] 70.0
+[2021.10.29-11.20.49:728][911]LogBlueprintUserMessages: [CreatureCharacter_2] 69.0
+[2021.10.29-11.20.50:739][914]LogBlueprintUserMessages: [CreatureCharacter_2] 68.0
+[2021.10.29-11.20.51:742][917]LogBlueprintUserMessages: [CreatureCharacter_2] 67.0
+[2021.10.29-11.20.52:757][920]LogBlueprintUserMessages: [CreatureCharacter_2] 66.0
+[2021.10.29-11.20.53:759][923]LogBlueprintUserMessages: [CreatureCharacter_2] 65.0
+[2021.10.29-11.20.54:759][926]LogBlueprintUserMessages: [CreatureCharacter_2] 64.0
+[2021.10.29-11.20.55:771][929]LogBlueprintUserMessages: [CreatureCharacter_2] 63.0
+[2021.10.29-11.20.56:777][932]LogBlueprintUserMessages: [CreatureCharacter_2] 62.0
+[2021.10.29-11.20.57:784][935]LogBlueprintUserMessages: [CreatureCharacter_2] 61.0
+[2021.10.29-11.20.58:789][938]LogBlueprintUserMessages: [CreatureCharacter_2] 60.0
+[2021.10.29-11.20.59:791][941]LogBlueprintUserMessages: [CreatureCharacter_2] 59.0
+[2021.10.29-11.21.00:793][944]LogBlueprintUserMessages: [CreatureCharacter_2] 58.0
+[2021.10.29-11.21.01:793][947]LogBlueprintUserMessages: [CreatureCharacter_2] 57.0
+[2021.10.29-11.21.02:798][950]LogBlueprintUserMessages: [CreatureCharacter_2] 56.0
+[2021.10.29-11.21.03:799][953]LogBlueprintUserMessages: [CreatureCharacter_2] 55.0
+[2021.10.29-11.21.04:800][956]LogBlueprintUserMessages: [CreatureCharacter_2] 54.0
+[2021.10.29-11.21.05:813][959]LogBlueprintUserMessages: [CreatureCharacter_2] 53.0
+[2021.10.29-11.21.06:860][962]LogBlueprintUserMessages: [CreatureCharacter_2] 52.0
+[2021.10.29-11.21.07:813][965]LogBlueprintUserMessages: [CreatureCharacter_2] 51.0
+[2021.10.29-11.21.08:824][968]LogBlueprintUserMessages: [CreatureCharacter_2] 50.0
+[2021.10.29-11.21.09:830][971]LogBlueprintUserMessages: [CreatureCharacter_2] 49.0
+[2021.10.29-11.21.10:848][974]LogBlueprintUserMessages: [CreatureCharacter_2] 48.0
+[2021.10.29-11.21.11:846][977]LogBlueprintUserMessages: [CreatureCharacter_2] 47.0
+[2021.10.29-11.21.12:844][980]LogBlueprintUserMessages: [CreatureCharacter_2] 46.0
+[2021.10.29-11.21.13:848][983]LogBlueprintUserMessages: [CreatureCharacter_2] 45.0
+[2021.10.29-11.21.14:851][986]LogBlueprintUserMessages: [CreatureCharacter_2] 44.0
+[2021.10.29-11.21.15:857][989]LogBlueprintUserMessages: [CreatureCharacter_2] 43.0
+[2021.10.29-11.21.16:865][992]LogBlueprintUserMessages: [CreatureCharacter_2] 42.0
+[2021.10.29-11.21.17:865][995]LogBlueprintUserMessages: [CreatureCharacter_2] 41.0
+[2021.10.29-11.21.18:865][998]LogBlueprintUserMessages: [CreatureCharacter_2] 40.0
+[2021.10.29-11.21.19:871][  1]LogBlueprintUserMessages: [CreatureCharacter_2] 39.0
+[2021.10.29-11.21.20:887][  4]LogBlueprintUserMessages: [CreatureCharacter_2] 38.0
+[2021.10.29-11.21.21:887][  7]LogBlueprintUserMessages: [CreatureCharacter_2] 37.0
+[2021.10.29-11.21.22:898][ 10]LogBlueprintUserMessages: [CreatureCharacter_2] 36.0
+[2021.10.29-11.21.23:903][ 13]LogBlueprintUserMessages: [CreatureCharacter_2] 35.0
+[2021.10.29-11.21.24:920][ 16]LogBlueprintUserMessages: [CreatureCharacter_2] 34.0
+[2021.10.29-11.21.25:911][ 19]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.21.25:930][ 19]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.10.29-11.21.25:930][ 19]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.21.25:931][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.21.25:936][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.21.25:941][ 19]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.21.25:963][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.21.26:013][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.21.26:014][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.21.26:047][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2021.10.29-11.21.26:263][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.10.29-11.26.06:495][104]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.10.29-11.26.09:055][294]LogEditorViewport: Clicking on Actor (LMB): BP_ElectricFence_C (BP_ElectricFence)
+[2021.10.29-11.26.09:820][348]Cmd: DELETE
+[2021.10.29-11.26.09:820][348]Cmd: ACTOR DELETE
+[2021.10.29-11.26.10:042][348]LogEditorActor: Deleted Actor: BP_ElectricFence_C
+[2021.10.29-11.26.10:099][348]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2021.10.29-11.26.10:105][348]LogEditorActor: Deleted 1 Actors (0.284 secs)
+[2021.10.29-11.26.13:957][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.10.29-11.26.15:315][655]LogSlate: Window 'Save Content' being destroyed
+[2021.10.29-11.26.16:418][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.10.29-11.26.21:101][737]LogSlate: Window 'Save Content' being destroyed
+[2021.10.29-11.26.21:171][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_ElectricFence" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/BluePrint/BP_ElectricFence.uasset" SILENT=true
+[2021.10.29-11.26.21:289][737]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/BP_ElectricFence637C9BEF45FC7A451AA1CA86E77E3FC5.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/BluePrint/BP_ElectricFence.uasset'
+[2021.10.29-11.26.21:306][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/NE_electroBarrier" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_electroBarrier.uasset" SILENT=true
+[2021.10.29-11.26.44:826][737]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/NE_electroBarrier4B4FB6DF4B38B530822F56B73462C3EF.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/StarterContent/Particles/NE_electroBarrier.uasset'
+[2021.10.29-11.26.45:139][737]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/VFX_testing.VFX_testing
+[2021.10.29-11.26.45:141][737]Cmd: MAP LOAD FILE="M:/Biowatch-Team-Barra/Biowatch/Content/Map/VFX_testing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.29-11.26.45:141][737]LightingResults: New page: Lighting Build
+[2021.10.29-11.26.45:142][737]LoadErrors: New page: Loading map: VFX_testing.umap
+[2021.10.29-11.26.45:157][737]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.26.45:157][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.26.45:157][737]MapCheck: New page: Map Check
+[2021.10.29-11.26.45:157][737]LightingResults: New page: Lighting Build
+[2021.10.29-11.26.45:207][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.29-11.26.45:218][737]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2021.10.29-11.26.45:219][737]LogAudio: Display: Audio Device (ID: 1) registered with world 'VFX_testing'.
+[2021.10.29-11.26.45:231][737]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.29-11.26.45:231][737]LogAIModule: Creating AISystem for world VFX_testing
+[2021.10.29-11.26.45:291][737]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2021.10.29-11.26.45:322][737]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.29-11.26.45:323][737]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.357ms to complete.
+[2021.10.29-11.26.45:323][737]LogFileHelpers: Loading map 'VFX_testing' took 0.183
+[2021.10.29-11.26.45:369][737]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.29-11.26.45:369][737]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/BP_ElectricFence.BP_ElectricFence
+[2021.10.29-11.26.45:369][737]LogContentValidation: Display: Validating NiagaraSystem /Game/StarterContent/Particles/NE_electroBarrier.NE_electroBarrier
+[2021.10.29-11.29.53:909][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.10.29-11.29.59:726][709]LogEditorViewport: Clicking on Actor (LMB): BP_ElectricFence_C (BP_laserWire)
+[2021.10.29-11.30.06:096][158]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.10.29-11.30.06:120][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.29-11.30.06:120][158]PIE: New page: PIE session: VFX_testing (29 Oct 2021, 13:30:06)
+[2021.10.29-11.30.06:120][158]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_VFX_testing
+[2021.10.29-11.30.06:126][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005590s)
+[2021.10.29-11.30.06:126][158]LogAIModule: Creating AISystem for world VFX_testing
+[2021.10.29-11.30.06:127][158]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2021.10.29-11.30.06:127][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/VFX_testing.VFX_testing to /Game/Map/UEDPIE_0_VFX_testing.VFX_testing (0.006656s)
+[2021.10.29-11.30.06:184][158]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2021.10.29-11.30.06:190][158]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.10.29-11.30.06:190][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.29-11.30.06:190][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.29-11.30.06:191][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.29-11.30.06:191][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.29-11.30.06:191][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.29-11.30.06:191][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.29-11.30.06:191][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.29-11.30.06:191][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.29-11.30.06:191][158]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.29-11.30.06:191][158]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.29-11.30.06:206][158]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.29-11.30.06:206][158]LogAudioMixer: Display: 1: FrontRight
+[2021.10.29-11.30.06:220][158]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.10.29-11.30.06:220][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.29-11.30.06:220][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.29-11.30.06:220][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.29-11.30.06:220][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.29-11.30.06:220][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.29-11.30.06:220][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.29-11.30.06:232][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.29-11.30.06:232][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.29-11.30.06:232][158]LogInit: FAudioDevice initialized.
+[2021.10.29-11.30.06:232][158]LogAudio: Display: Audio Device (ID: 15) registered with world 'VFX_testing'.
+[2021.10.29-11.30.06:287][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.30.06:287][158]LogLoad: Game class is 'GameModeBase'
+[2021.10.29-11.30.06:289][158]LogWorld: Bringing World /Game/Map/UEDPIE_0_VFX_testing.VFX_testing up for play (max tick rate 0) at 2021.10.29-12.30.06
+[2021.10.29-11.30.06:291][158]LogWorld: Bringing up level for play took: 0.002924
+[2021.10.29-11.30.06:291][158]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.10.29-11.30.06:295][158]LogBlueprintUserMessages: [CreatureCharacter_2] 99.0
+[2021.10.29-11.30.06:298][158]PIE: Server logged in
+[2021.10.29-11.30.06:300][158]PIE: Play in editor total start time 0.187 seconds.
+[2021.10.29-11.30.07:101][216]LogBlueprintUserMessages: [CreatureCharacter_2] 98.0
+[2021.10.29-11.30.07:461][242]LogBlueprintUserMessages: [Camera_Tracker_2] 1
+[2021.10.29-11.30.08:121][280]LogBlueprintUserMessages: [CreatureCharacter_2] 97.0
+[2021.10.29-11.30.08:727][318]LogBlueprintUserMessages: [Camera_Tracker_2] 0
+[2021.10.29-11.30.09:122][347]LogBlueprintUserMessages: [CreatureCharacter_2] 96.0
+[2021.10.29-11.30.10:127][417]LogBlueprintUserMessages: [CreatureCharacter_2] 95.0
+[2021.10.29-11.30.11:130][486]LogBlueprintUserMessages: [CreatureCharacter_2] 94.0
+[2021.10.29-11.30.11:612][519]LogBlueprintUserMessages: [Camera_Tracker_2] 1
+[2021.10.29-11.30.12:138][548]LogBlueprintUserMessages: [CreatureCharacter_2] 93.0
+[2021.10.29-11.30.13:153][605]LogBlueprintUserMessages: [CreatureCharacter_2] 92.0
+[2021.10.29-11.30.14:160][659]LogBlueprintUserMessages: [CreatureCharacter_2] 91.0
+[2021.10.29-11.30.15:170][713]LogBlueprintUserMessages: [CreatureCharacter_2] 90.0
+[2021.10.29-11.30.16:186][766]LogBlueprintUserMessages: [CreatureCharacter_2] 89.0
+[2021.10.29-11.30.17:196][820]LogBlueprintUserMessages: [CreatureCharacter_2] 88.0
+[2021.10.29-11.30.18:204][873]LogBlueprintUserMessages: [CreatureCharacter_2] 87.0
+[2021.10.29-11.30.19:162][924]LogBlueprintUserMessages: [Camera_Tracker_2] 2
+[2021.10.29-11.30.19:218][927]LogBlueprintUserMessages: [CreatureCharacter_2] 86.0
+[2021.10.29-11.30.20:222][985]LogBlueprintUserMessages: [CreatureCharacter_2] 85.0
+[2021.10.29-11.30.20:256][987]LogBlueprintUserMessages: [Camera_Tracker_2] 3
+[2021.10.29-11.30.21:227][ 52]LogBlueprintUserMessages: [CreatureCharacter_2] 84.0
+[2021.10.29-11.30.21:851][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.29-11.30.21:851][ 90]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_VFX_testing
+[2021.10.29-11.30.21:851][ 90]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.29-11.30.21:864][ 90]LogWorld: UWorld::CleanupWorld for VFX_testing, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.30.21:864][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.30.21:870][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.29-11.30.21:875][ 90]LogNiagaraEditor: onPieEnd
+[2021.10.29-11.30.21:895][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.30.21:944][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.30.21:945][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.29-11.30.21:975][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2021.10.29-11.30.22:030][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.10.29-11.30.28:428][339]LogSlate: Window 'Message' being destroyed
+[2021.10.29-11.30.28:433][339]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Particles/M_Bolt2.M_Bolt2
+(Selecting 'No' will cause all changes to be lost!)
+[2021.10.29-11.30.29:753][339]LogMaterial: Display: Missing cached shader map for material M_Bolt2, compiling. 
+[2021.10.29-11.30.29:781][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.10.29-11.30.29:781][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.10.29-11.30.29:781][339]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.10.29-11.30.29:781][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.10.29-11.30.29:781][339]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.10.29-11.30.29:781][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.10.29-11.30.29:781][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.10.29-11.30.29:781][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.10.29-11.30.29:786][339]LogMaterial: Display: Missing cached shader map for material M_Bolt2, compiling. 
+[2021.10.29-11.30.29:852][339]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2021.10.29-11.30.29:859][339]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.10.29-11.30.30:971][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.10.29-11.30.30:974][339]TextureStreamingBuild: Display: Compiling optional shaders took 1.119 seconds.
+[2021.10.29-11.30.31:047][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.29-11.30.31:062][339]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.29-11.30.31:165][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.10.29-11.30.31:165][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.10.29-11.30.31:474][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.10.29-11.30.31:609][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.10.29-11.30.31:609][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.10.29-11.30.31:711][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.10.29-11.30.38:002][339]LogSlate: Window 'Message' being destroyed
+[2021.10.29-11.30.38:007][339]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Particles/M_Bolt3.M_Bolt3
+(Selecting 'No' will cause all changes to be lost!)
+[2021.10.29-11.30.38:674][339]LogMaterial: Display: Missing cached shader map for material M_Bolt3, compiling. 
+[2021.10.29-11.30.38:714][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.10.29-11.30.38:714][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.10.29-11.30.38:714][339]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.10.29-11.30.38:714][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.10.29-11.30.38:714][339]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.10.29-11.30.38:715][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.10.29-11.30.38:715][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.10.29-11.30.38:715][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.10.29-11.30.38:720][339]LogMaterial: Display: Missing cached shader map for material M_Bolt3, compiling. 
+[2021.10.29-11.30.38:784][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.10.29-11.30.38:788][339]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.29-11.30.39:351][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.10.29-11.30.39:351][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2021.10.29-11.30.39:351][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.10.29-11.30.39:351][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2021.10.29-11.30.39:351][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.10.29-11.30.39:351][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.10.29-11.30.39:351][339]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.10.29-11.30.39:351][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.10.29-11.30.39:418][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.10.29-11.30.39:418][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.10.29-11.30.39:421][339]TextureStreamingBuild: Display: Compiling optional shaders took 0.637 seconds.
+[2021.10.29-11.30.39:422][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.10.29-11.30.39:479][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.10.29-11.30.39:479][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.10.29-11.30.39:544][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.10.29-11.30.39:598][339]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.10.29-11.30.39:801][339]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.10.29-11.30.39:970][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.10.29-11.30.39:970][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.10.29-11.30.40:072][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.29-11.30.41:456][339]LogSlate: Window 'Message' being destroyed
+[2021.10.29-11.30.41:461][339]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Particles/M_Bolt1.M_Bolt1
+(Selecting 'No' will cause all changes to be lost!)
+[2021.10.29-11.30.42:134][339]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.10.29-11.30.42:165][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.10.29-11.30.42:165][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.10.29-11.30.42:165][339]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.10.29-11.30.42:165][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.10.29-11.30.42:165][339]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.10.29-11.30.42:165][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.10.29-11.30.42:165][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.10.29-11.30.42:165][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.10.29-11.30.42:169][339]LogMaterial: Display: Missing cached shader map for material M_Bolt1, compiling. 
+[2021.10.29-11.30.42:232][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.10.29-11.30.42:237][339]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.29-11.30.42:800][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.10.29-11.30.42:800][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.10.29-11.30.42:800][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.10.29-11.30.42:800][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2021.10.29-11.30.42:800][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.10.29-11.30.42:800][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.10.29-11.30.42:800][339]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.10.29-11.30.42:800][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.10.29-11.30.42:900][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.10.29-11.30.42:900][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.10.29-11.30.42:900][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.10.29-11.30.42:900][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.10.29-11.30.42:903][339]TextureStreamingBuild: Display: Compiling optional shaders took 0.669 seconds.
+[2021.10.29-11.30.42:969][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.10.29-11.30.42:995][339]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.10.29-11.30.42:995][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.10.29-11.30.43:146][339]LogSlate: Window 'BP_ElectricFence' being destroyed
+[2021.10.29-11.30.43:148][339]LogSlate: Window 'BP_ElectricFence' being destroyed
+[2021.10.29-11.30.43:202][339]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.30.43:202][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.30.43:275][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.10.29-11.30.43:295][339]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.30.43:295][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.30.43:361][339]LogNiagaraEditor: Warning: Cleanup System view model 00000218336AAB10
+[2021.10.29-11.30.43:383][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.10.29-11.30.43:383][339]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.30.43:383][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.30.43:418][339]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.10.29-11.30.43:425][339]LogNiagaraEditor: Warning: Cleanup System view model 00000218336AAB10
+[2021.10.29-11.30.43:425][339]LogNiagaraEditor: Warning: Deleting System view model 00000218336AAB10
+[2021.10.29-11.30.43:428][339]LogNiagaraEditor: Warning: Cleanup System view model 00000218867BC110
+[2021.10.29-11.30.43:457][339]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.30.43:458][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.30.43:512][339]LogNiagaraEditor: Warning: Cleanup System view model 00000218867BC110
+[2021.10.29-11.30.43:512][339]LogNiagaraEditor: Warning: Deleting System view model 00000218867BC110
+[2021.10.29-11.30.43:550][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.10.29-11.30.43:550][339]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.30.43:550][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.30.43:612][339]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.10.29-11.30.43:613][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.29-11.30.44:116][339]LogUObjectHash: Compacting FUObjectHashTables data took   9.65ms

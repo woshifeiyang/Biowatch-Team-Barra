@@ -882,3 +882,208 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.10-15.00.13:314][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Skirting/Skirting_Green_BaseColor_Mat]
 [2021.11.10-15.00.13:351][536]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Skirting_Green_BaseColor_Mat_Aut0F4E25A74A2F243FBBB9EDA6EE1CD149.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Skirting/Skirting_Green_BaseColor_Mat_Auto1.uasset'
 [2021.11.10-15.00.13:416][536]LogFileHelpers: Auto-saving content packages took 0.159
+[2021.11.10-15.01.24:403][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting19)
+[2021.11.10-15.01.42:471][214]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 \\StuHomeEven\HomeDrive0$\1700450\Desktop\Mossy_Tiles_Dark_BaseColor.jpg)
+[2021.11.10-15.01.42:475][214]LogTexture: Display: Building textures: Mossy_Tiles_Dark_BaseColor (AutoDXT, 512X512)
+[2021.11.10-15.01.48:211][412]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.01.48:225][412]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.11.10-15.01.48:225][412]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.11.10-15.01.48:225][412]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.11.10-15.01.48:225][412]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-15.01.48:225][412]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.11.10-15.01.48:225][412]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.11.10-15.01.56:698][105]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Environment_Assets/Mossy_Tiles_Dark_BaseColor_Mat.Mossy_Tiles_Dark_BaseColor_Mat
+[2021.11.10-15.01.56:699][105]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.01.57:080][105]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.01.57:086][105]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.01.57:098][105]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.10-15.01.57:104][105]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.10-15.01.57:105][105]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.10-15.01.57:105][105]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.10-15.01.57:105][105]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-15.01.57:105][105]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-15.01.57:105][105]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-15.01.57:105][105]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.10-15.01.57:105][105]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-15.01.57:145][105]LogSlate: Took 0.001221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.10-15.01.57:705][122]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.10-15.01.57:705][122]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.10-15.01.57:804][126]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.10-15.01.57:923][132]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.11.10-15.01.57:968][134]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.11.10-15.01.58:559][164]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.10-15.01.58:559][164]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.10-15.01.58:559][164]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-15.01.58:559][164]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.10-15.01.58:559][164]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.10-15.01.58:560][164]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-15.01.58:568][164]LogSlate: Took 0.000666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.10-15.02.17:679][494]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.02.17:684][494]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.10-15.02.17:689][494]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.11.10-15.02.17:690][494]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.11.10-15.02.17:690][494]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.10-15.02.17:690][494]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.10-15.02.17:690][494]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.10-15.02.17:690][494]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.10-15.02.17:690][494]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.10-15.02.17:690][494]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.11.10-15.02.17:693][494]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.10-15.02.17:696][494]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.10-15.02.18:286][513]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.11.10-15.02.18:286][513]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.10-15.02.18:503][521]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.11.10-15.02.18:504][521]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.11.10-15.02.18:567][523]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.11.10-15.02.18:567][523]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.11.10-15.02.18:589][524]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.11.10-15.02.18:611][525]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.11.10-15.02.18:882][537]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.10-15.02.20:148][661]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.02.20:153][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.10-15.02.20:162][661]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.10-15.02.20:162][661]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.10-15.02.20:162][661]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.10-15.02.20:162][661]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-15.02.20:162][661]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-15.02.20:162][661]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-15.02.20:162][661]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.10-15.02.20:162][661]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-15.02.20:165][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.10-15.02.20:168][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.10-15.02.20:172][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.10-15.02.20:755][684]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.11.10-15.02.20:755][684]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.11.10-15.02.20:904][691]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.10-15.02.20:926][692]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.10-15.02.20:967][694]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.10-15.02.21:037][697]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.11.10-15.02.21:037][697]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.10-15.02.21:059][698]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.10-15.02.21:244][707]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.10-15.02.21:244][707]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.10-15.02.21:436][718]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.11.10-15.02.21:471][720]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.10-15.02.21:487][721]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.11.10-15.02.22:038][776]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.10-15.02.22:038][776]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.10-15.02.22:038][776]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-15.02.22:038][776]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.10-15.02.22:038][776]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.10-15.02.22:038][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-15.02.24:086][973]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.02.24:098][973]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.10-15.02.24:098][973]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.10-15.02.24:098][973]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.10-15.02.24:098][973]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-15.02.24:098][973]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-15.02.24:098][973]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-15.02.24:099][973]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.10-15.02.24:099][973]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-15.02.24:100][973]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.10-15.02.24:734][999]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.10-15.02.24:734][999]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-15.02.24:895][  6]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.10-15.02.24:940][  8]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-15.02.25:014][ 11]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.11.10-15.02.26:712][203]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.02.26:722][203]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.10-15.02.26:726][203]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.10-15.02.26:726][203]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.10-15.02.26:726][203]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.10-15.02.26:726][203]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-15.02.26:726][203]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-15.02.26:726][203]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-15.02.26:726][203]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.10-15.02.26:726][203]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-15.02.27:335][230]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.10-15.02.27:335][230]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-15.02.27:547][239]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.11.10-15.02.27:572][240]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.10-15.02.27:572][240]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.11.10-15.02.28:971][385]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.02.28:980][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.10-15.02.28:985][385]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.11.10-15.02.29:000][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.11.10-15.02.29:000][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.10-15.02.29:000][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.10-15.02.29:000][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.10-15.02.29:000][386]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.10-15.02.29:000][386]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.10-15.02.29:000][386]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.11.10-15.02.29:590][410]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.10-15.02.29:590][410]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-15.02.29:770][418]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.10-15.02.29:819][420]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.10-15.02.29:842][421]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.11.10-15.02.30:068][432]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.11.10-15.02.30:068][432]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.11.10-15.02.30:068][432]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-15.02.30:068][432]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.10-15.02.30:068][432]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.10-15.02.30:068][432]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-15.02.31:712][603]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.02.31:723][603]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.10-15.02.31:728][603]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.11.10-15.02.31:728][603]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.11.10-15.02.31:728][603]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.10-15.02.31:728][603]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.10-15.02.31:728][603]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.10-15.02.31:728][603]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.10-15.02.31:728][603]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.10-15.02.31:728][603]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.11.10-15.02.32:316][625]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.10-15.02.32:339][626]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.10-15.02.32:493][633]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.10-15.02.32:568][635]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.11.10-15.02.32:568][635]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.11.10-15.02.32:812][649]LogMaterialEditor: Applying material Mossy_Tiles_Dark_BaseColor_Mat
+[2021.11.10-15.02.33:468][649]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.02.33:494][649]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.10-15.02.33:494][649]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.10-15.02.33:494][649]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.10-15.02.33:494][649]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-15.02.33:494][649]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-15.02.33:494][649]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-15.02.33:494][649]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.10-15.02.33:494][649]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-15.02.33:501][649]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-15.02.33:534][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.11.10-15.02.33:540][649]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.10-15.02.34:104][649]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.11.10-15.02.34:104][649]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.11.10-15.02.34:104][649]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.11.10-15.02.34:104][649]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.11.10-15.02.34:336][649]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.10-15.02.34:336][649]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.11.10-15.02.34:336][649]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.11.10-15.02.34:336][649]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-15.02.34:336][649]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-15.02.34:336][649]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.11.10-15.02.34:336][649]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.10-15.02.34:342][649]TextureStreamingBuild: Display: Compiling optional shaders took 0.807 seconds.
+[2021.11.10-15.02.34:352][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.10-15.02.34:886][670]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.11.10-15.02.35:315][694]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.10-15.02.35:315][694]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.10-15.02.35:315][694]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-15.02.35:315][694]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.10-15.02.35:315][694]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-15.02.35:315][694]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-15.03.05:520][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.11.10-15.03.07:270][ 65]LogSlate: Window 'Save Content' being destroyed
+[2021.11.10-15.03.07:317][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.10-15.03.07:323][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.10-15.03.17:432][ 65]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Map_1CA695483492C47DB7363A595D634076E.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap'
+[2021.11.10-15.03.17:509][ 65]LogFileHelpers: Saving map 'Map_1' took 10.193
+[2021.11.10-15.03.17:516][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment_Assets/Mossy_Tiles_Dark_BaseColor" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Mossy_Tiles_Dark_BaseColor.uasset" SILENT=true
+[2021.11.10-15.03.17:560][ 65]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Mossy_Tiles_Dark_BaseColorD37B2B7143C44DBD348724B573DC7E8E.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Mossy_Tiles_Dark_BaseColor.uasset'
+[2021.11.10-15.03.17:621][ 65]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Mossy_Tiles_Dark_BaseColor_Mat7FA79F6149B7CE491AB633886C25EDFB.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Mossy_Tiles_Dark_BaseColor_Mat.uasset'
+[2021.11.10-15.03.17:655][ 65]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Skirting_Green_BaseColor7FA00A99424A61A2F324B4BB607A322A.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Skirting/Skirting_Green_BaseColor.uasset'
+[2021.11.10-15.03.17:753][ 65]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Skirting_Green_BaseColor_MatB3C6EF0541B0628CD17B088B9624DCD6.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Skirting/Skirting_Green_BaseColor_Mat.uasset'
+[2021.11.10-15.03.17:809][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-15.03.17:809][ 65]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Skirting/Skirting_Green_BaseColor_Mat.Skirting_Green_BaseColor_Mat
+[2021.11.10-15.03.17:810][ 65]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Mossy_Tiles_Dark_BaseColor_Mat.Mossy_Tiles_Dark_BaseColor_Mat
+[2021.11.10-15.03.17:810][ 65]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Skirting/Skirting_Green_BaseColor.Skirting_Green_BaseColor
+[2021.11.10-15.03.17:810][ 65]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Mossy_Tiles_Dark_BaseColor.Mossy_Tiles_Dark_BaseColor
+[2021.11.10-15.03.17:810][ 65]LogContentValidation: Display: Validating World /Game/Map/Map_1.Map_1

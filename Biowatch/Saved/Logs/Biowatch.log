@@ -3377,3 +3377,479 @@ Purging the undo buffer...
 [2021.11.10-16.21.37:475][155]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Mossy_Tiles_Material3x1.Mossy_Tiles_Material3x1
 [2021.11.10-16.21.37:475][155]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Ceramic_Tile_Checker1.M_Ceramic_Tile_Checker1
 [2021.11.10-16.21.37:475][155]LogContentValidation: Display: Validating World /Game/Map/Map_1.Map_1
+[2021.11.10-16.22.36:539][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2021.11.10-16.31.26:922][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.11.10-16.31.26:934][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.10-16.31.35:076][288]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto557D2DA544E4BC989B8DD44A3B4CA4714.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto5.umap'
+[2021.11.10-16.31.35:093][288]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 8.181
+[2021.11.10-16.31.35:093][288]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 8.181
+[2021.11.10-16.35.27:669][326]LogActorFactory: Actor Factory created Vent
+[2021.11.10-16.35.28:406][396]LogActorFactory: Actor Factory created Vent
+[2021.11.10-16.37.10:414][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vent4)
+[2021.11.10-16.37.55:613][530]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane27)
+[2021.11.10-16.37.56:661][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vent8)
+[2021.11.10-16.37.57:649][703]Cmd: TRANSACTION UNDO
+[2021.11.10-16.37.57:650][703]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.10-16.37.57:661][703]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-16.37.57:668][703]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Material3x1, compiling. 
+[2021.11.10-16.37.57:673][703]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.10-16.37.57:673][703]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.10-16.37.57:673][703]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.10-16.37.57:673][703]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-16.37.57:673][703]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-16.37.57:673][703]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-16.37.57:673][703]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.10-16.37.57:673][703]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-16.37.57:674][703]LogMaterial: Display: Missing cached shader map for material Lab_wall_4x1_Material, compiling. 
+[2021.11.10-16.37.57:681][703]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_2x1_Material, compiling. 
+[2021.11.10-16.37.58:201][713]Cmd: TRANSACTION UNDO
+[2021.11.10-16.37.58:201][713]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.11.10-16.37.58:222][713]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-16.37.58:233][713]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Material3x1, compiling. 
+[2021.11.10-16.37.58:244][713]LogMaterial: Display: Missing cached shader map for material Lab_wall_4x1_Material, compiling. 
+[2021.11.10-16.37.58:254][713]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_2x1_Material, compiling. 
+[2021.11.10-16.37.58:637][725]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2021.11.10-16.37.58:771][731]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2021.11.10-16.37.58:836][734]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 38
+[2021.11.10-16.37.58:967][740]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2021.11.10-16.37.58:990][741]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2021.11.10-16.37.59:055][744]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2021.11.10-16.37.59:122][747]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2021.11.10-16.37.59:183][750]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 33
+[2021.11.10-16.37.59:392][759]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 32
+[2021.11.10-16.37.59:463][762]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2021.11.10-16.37.59:487][763]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 30
+[2021.11.10-16.37.59:626][769]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2021.11.10-16.37.59:777][775]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.11.10-16.37.59:835][777]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2021.11.10-16.37.59:929][781]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.11.10-16.37.59:954][782]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2021.11.10-16.37.59:954][782]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.11.10-16.37.59:989][783]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.10-16.37.59:989][783]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.10-16.37.59:989][783]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.37.59:989][783]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.37.59:989][783]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.37.59:989][783]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.38.00:276][795]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.11.10-16.38.00:329][797]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.11.10-16.38.00:352][798]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.11.10-16.38.00:419][801]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.11.10-16.38.00:537][805]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.11.10-16.38.00:711][812]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.11.10-16.38.00:761][814]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.11.10-16.38.00:784][815]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.11.10-16.38.00:902][820]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.11.10-16.38.01:090][828]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.11.10-16.38.01:140][830]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.10-16.38.01:179][831]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.38.01:179][831]MaterialEditorStats: Base pass shader with Surface Lightmap: 160 instructions
+[2021.11.10-16.38.01:179][831]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.38.01:179][831]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.38.01:179][831]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.38.01:179][831]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.38.01:179][831]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.38.01:301][836]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.11.10-16.38.01:302][836]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.11.10-16.38.01:370][839]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.10-16.38.01:459][843]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.11.10-16.38.01:690][853]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.11.10-16.38.01:715][854]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.11.10-16.38.01:715][854]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.11.10-16.38.01:916][863]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.11.10-16.38.01:942][864]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.11.10-16.38.02:081][870]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.11.10-16.38.02:106][871]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.11.10-16.38.02:140][872]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.38.02:140][872]MaterialEditorStats: Base pass shader with Surface Lightmap: 160 instructions
+[2021.11.10-16.38.02:141][872]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.38.02:141][872]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.38.02:141][872]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.38.02:141][872]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.38.02:141][872]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.38.02:225][876]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.10-16.38.02:808][906]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.38.02:808][906]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.38.02:808][906]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.38.02:808][906]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.38.02:808][906]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.38.02:808][906]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.40.02:899][955]Cmd: DELETE
+[2021.11.10-16.40.02:899][955]Cmd: ACTOR DELETE
+[2021.11.10-16.40.02:907][955]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-16.40.02:915][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.11.10-16.40.02:920][955]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.11.10-16.40.39:181][714]Cmd: DELETE
+[2021.11.10-16.40.39:181][714]Cmd: ACTOR DELETE
+[2021.11.10-16.40.39:190][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-16.40.39:191][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-16.40.39:191][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-16.40.39:191][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-16.40.39:197][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.11.10-16.40.39:201][714]LogEditorActor: Deleted 4 Actors (0.021 secs)
+[2021.11.10-16.41.23:928][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe47)
+[2021.11.10-16.41.45:051][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe47)
+[2021.11.10-16.41.50:177][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe40)
+[2021.11.10-16.42.36:563][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting2)
+[2021.11.10-16.42.42:124][983]Cmd: TRANSACTION UNDO
+[2021.11.10-16.42.42:124][983]LogEditorTransaction: Undo Rotate Actors
+[2021.11.10-16.42.42:126][983]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-16.42.42:133][983]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Material3x1, compiling. 
+[2021.11.10-16.42.42:140][983]LogMaterial: Display: Missing cached shader map for material Lab_wall_4x1_Material, compiling. 
+[2021.11.10-16.42.42:145][983]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.11.10-16.42.42:145][983]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.11.10-16.42.42:145][983]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.11.10-16.42.42:145][983]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.11.10-16.42.42:145][983]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.11.10-16.42.42:145][983]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.11.10-16.42.42:145][983]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.11.10-16.42.42:145][983]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.11.10-16.42.42:147][983]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_2x1_Material, compiling. 
+[2021.11.10-16.42.43:067][ 13]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.11.10-16.42.43:239][ 21]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2021.11.10-16.42.43:313][ 24]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 30
+[2021.11.10-16.42.43:398][ 28]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2021.11.10-16.42.43:487][ 32]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.11.10-16.42.43:595][ 37]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.11.10-16.42.43:618][ 38]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.11.10-16.42.43:712][ 42]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2021.11.10-16.42.43:738][ 43]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.11.10-16.42.43:774][ 44]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.10-16.42.43:774][ 44]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.10-16.42.43:774][ 44]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.42.43:774][ 44]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.42.43:774][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.42.43:774][ 44]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.42.44:032][ 54]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.11.10-16.42.44:032][ 54]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.11.10-16.42.44:167][ 60]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.11.10-16.42.44:167][ 60]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.11.10-16.42.44:317][ 67]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.11.10-16.42.44:458][ 73]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.11.10-16.42.44:502][ 75]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.11.10-16.42.44:568][ 78]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.11.10-16.42.44:731][ 85]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.11.10-16.42.44:875][ 91]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.11.10-16.42.44:875][ 91]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.11.10-16.42.44:881][ 91]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.42.44:881][ 91]MaterialEditorStats: Base pass shader with Surface Lightmap: 160 instructions
+[2021.11.10-16.42.44:881][ 91]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.42.44:881][ 91]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.42.44:881][ 91]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.42.44:881][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.42.44:881][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.42.45:066][ 99]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.11.10-16.42.45:066][ 99]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.11.10-16.42.45:148][102]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.10-16.42.45:160][102]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.10-16.42.45:396][113]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.11.10-16.42.45:522][118]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.10-16.42.45:522][118]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.11.10-16.42.45:728][127]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.11.10-16.42.45:752][128]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.11.10-16.42.45:914][135]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.11.10-16.42.45:939][136]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.11.10-16.42.45:980][137]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.42.45:980][137]MaterialEditorStats: Base pass shader with Surface Lightmap: 160 instructions
+[2021.11.10-16.42.45:980][137]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.42.45:980][137]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.42.45:980][137]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.42.45:980][137]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.42.45:980][137]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.42.46:093][142]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.11.10-16.42.46:705][173]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.42.46:705][173]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.42.46:705][173]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.42.46:705][173]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.42.46:705][173]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.42.46:705][173]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.42.48:009][260]Cmd: TRANSACTION UNDO
+[2021.11.10-16.42.48:009][260]LogEditorTransaction: Undo Rotate Actors
+[2021.11.10-16.42.48:012][260]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-16.42.48:019][260]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Material3x1, compiling. 
+[2021.11.10-16.42.48:025][260]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.10-16.42.48:025][260]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.10-16.42.48:025][260]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.10-16.42.48:025][260]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-16.42.48:025][260]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-16.42.48:025][260]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-16.42.48:025][260]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.10-16.42.48:025][260]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-16.42.48:026][260]LogMaterial: Display: Missing cached shader map for material Lab_wall_4x1_Material, compiling. 
+[2021.11.10-16.42.48:033][260]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_2x1_Material, compiling. 
+[2021.11.10-16.42.48:516][268]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.11.10-16.42.48:522][268]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2021.11.10-16.42.48:703][273]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.11.10-16.42.48:746][275]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2021.11.10-16.42.48:829][279]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2021.11.10-16.42.48:850][280]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.11.10-16.42.48:850][280]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.11.10-16.42.48:868][281]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.11.10-16.42.49:089][292]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.11.10-16.42.49:094][292]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.10-16.42.49:094][292]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.10-16.42.49:094][292]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.42.49:094][292]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.42.49:094][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.42.49:094][292]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.42.49:454][306]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.11.10-16.42.49:454][306]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.11.10-16.42.49:460][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting2)
+[2021.11.10-16.42.49:530][308]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.11.10-16.42.49:630][313]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.11.10-16.42.49:630][313]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.11.10-16.42.49:706][316]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.11.10-16.42.49:746][317]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.11.10-16.42.49:746][317]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.11.10-16.42.50:067][328]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.11.10-16.42.50:181][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.11.10-16.42.50:226][335]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.11.10-16.42.50:263][336]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.42.50:263][336]MaterialEditorStats: Base pass shader with Surface Lightmap: 160 instructions
+[2021.11.10-16.42.50:263][336]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.42.50:263][336]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.42.50:263][336]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.42.50:263][336]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.42.50:263][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.42.50:300][338]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.11.10-16.42.50:426][344]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.11.10-16.42.50:471][346]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.11.10-16.42.50:471][346]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.11.10-16.42.50:610][352]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.11.10-16.42.50:773][359]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.11.10-16.42.50:843][362]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.11.10-16.42.51:001][369]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.10-16.42.51:016][369]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.11.10-16.42.51:104][372]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.11.10-16.42.51:170][375]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.11.10-16.42.51:206][376]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.42.51:206][376]MaterialEditorStats: Base pass shader with Surface Lightmap: 160 instructions
+[2021.11.10-16.42.51:206][376]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.42.51:206][376]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.42.51:206][376]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.42.51:206][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.42.51:206][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.42.51:261][378]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.10-16.42.51:816][406]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.42.51:816][406]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.42.51:816][406]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.42.51:816][406]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.42.51:817][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.42.51:817][406]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.43.09:622][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane30)
+[2021.11.10-16.43.13:535][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting32)
+[2021.11.10-16.43.37:984][512]Cmd: TRANSACTION UNDO
+[2021.11.10-16.43.37:984][512]LogEditorTransaction: Undo Move Actors
+[2021.11.10-16.43.37:987][512]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-16.43.37:994][512]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Material3x1, compiling. 
+[2021.11.10-16.43.38:001][512]LogMaterial: Display: Missing cached shader map for material Lab_wall_4x1_Material, compiling. 
+[2021.11.10-16.43.38:006][512]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.11.10-16.43.38:006][512]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.11.10-16.43.38:006][512]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.11.10-16.43.38:006][512]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.11.10-16.43.38:006][512]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.11.10-16.43.38:006][512]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.11.10-16.43.38:006][512]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.11.10-16.43.38:006][512]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.11.10-16.43.38:008][512]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_2x1_Material, compiling. 
+[2021.11.10-16.43.38:925][539]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.11.10-16.43.39:115][547]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2021.11.10-16.43.39:138][547]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.11.10-16.43.39:256][552]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2021.11.10-16.43.39:277][553]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.11.10-16.43.39:395][558]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2021.11.10-16.43.39:422][559]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2021.11.10-16.43.39:495][562]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2021.11.10-16.43.39:593][566]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2021.11.10-16.43.39:632][567]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.10-16.43.39:632][567]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.10-16.43.39:632][567]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.43.39:632][567]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.43.39:632][567]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.43.39:632][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.43.39:816][573]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.11.10-16.43.39:965][579]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.11.10-16.43.39:965][579]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.11.10-16.43.39:965][579]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.11.10-16.43.40:100][585]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.11.10-16.43.40:220][590]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.11.10-16.43.40:296][593]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.11.10-16.43.40:296][593]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.11.10-16.43.40:465][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.11.10-16.43.40:636][606]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.11.10-16.43.40:686][608]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.11.10-16.43.40:726][609]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.43.40:726][609]MaterialEditorStats: Base pass shader with Surface Lightmap: 160 instructions
+[2021.11.10-16.43.40:726][609]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.43.40:726][609]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.43.40:726][609]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.43.40:726][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.43.40:726][609]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.43.40:804][612]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.11.10-16.43.40:804][612]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.10-16.43.40:921][617]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.11.10-16.43.40:921][617]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.11.10-16.43.41:193][626]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.11.10-16.43.41:193][626]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.11.10-16.43.41:250][628]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.11.10-16.43.41:434][634]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.11.10-16.43.41:467][635]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.11.10-16.43.41:552][638]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.10-16.43.41:582][639]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.11.10-16.43.41:681][641]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Base pass shader with Surface Lightmap: 160 instructions
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.10-16.43.42:356][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.10-16.44.03:635][ 60]LogMaterial: Display: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2021.11.10-16.44.03:693][ 60]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.11.10-16.44.03:693][ 60]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.11.10-16.44.03:693][ 60]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.11.10-16.44.03:693][ 60]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.11.10-16.44.03:693][ 60]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.10-16.44.03:693][ 60]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.11.10-16.44.03:693][ 60]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.10-16.44.15:500][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane30)
+[2021.11.10-16.44.16:716][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting32)
+[2021.11.10-16.44.17:434][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane30)
+[2021.11.10-16.44.18:656][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2021.11.10-16.44.20:784][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting32)
+[2021.11.10-16.45.26:137][503]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.10-16.46.31:532][802]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.10-16.46.51:230][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting32)
+[2021.11.10-16.48.47:774][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting32)
+[2021.11.10-16.49.33:898][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe47)
+[2021.11.10-16.49.40:292][ 14]Cmd: DELETE
+[2021.11.10-16.49.40:292][ 14]Cmd: ACTOR DELETE
+[2021.11.10-16.49.40:300][ 14]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-16.49.40:313][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.11.10-16.49.40:318][ 14]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.11.10-16.49.50:577][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe49)
+[2021.11.10-16.49.52:941][940]LogActorFactory: Actor Factory created Ceiling_Pipe_Curved
+[2021.11.10-16.49.54:022][ 40]LogActorFactory: Actor Factory created Ceiling_Pipe_Curved
+[2021.11.10-16.50.08:972][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe48)
+[2021.11.10-16.50.10:192][152]Cmd: DELETE
+[2021.11.10-16.50.10:193][152]Cmd: ACTOR DELETE
+[2021.11.10-16.50.10:209][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-16.50.10:223][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.11.10-16.50.10:226][152]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.11.10-16.50.10:875][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe_Curved4)
+[2021.11.10-16.50.49:877][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe_Curved4)
+[2021.11.10-16.51.01:221][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe_Curved4)
+[2021.11.10-16.51.05:513][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe_Curved4)
+[2021.11.10-16.51.18:973][893]Cmd: DELETE
+[2021.11.10-16.51.18:973][893]Cmd: ACTOR DELETE
+[2021.11.10-16.51.18:981][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-16.51.18:986][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.10-16.51.18:990][893]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.11.10-16.51.50:510][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.11.10-16.51.50:518][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.10-16.51.58:860][124]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto61ACAF0504B193936D6C08A892537921E.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto6.umap'
+[2021.11.10-16.51.58:873][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 8.369
+[2021.11.10-16.51.58:873][124]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 8.369
+[2021.11.10-16.53.39:520][374]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.11.10-16.54.01:340][869]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.11.10-16.54.24:243][435]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.11.10-16.54.24:243][435]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.10-16.54.47:418][976]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.11.10-16.55.06:426][260]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.11.10-16.56.28:008][745]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.11.10-16.56.48:495][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2021.11.10-16.57.23:185][261]LogActorFactory: Actor Factory created Ceiling_Pipe_Curved
+[2021.11.10-16.57.25:763][512]LogActorFactory: Actor Factory created Ceiling_Pipe_Curved
+[2021.11.10-16.57.25:764][512]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.10-16.58.09:548][557]LogEditorViewport: Clicking on Actor (LMB): BP_Incubation_prison_C (BP_Incubation_prison)
+[2021.11.10-16.59.08:976][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting31)
+[2021.11.10-16.59.10:188][767]Cmd: DELETE
+[2021.11.10-16.59.10:188][767]Cmd: ACTOR DELETE
+[2021.11.10-16.59.10:217][767]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-16.59.10:231][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.11.10-16.59.10:236][767]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.11.10-16.59.14:465][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting33)
+[2021.11.10-17.00.54:141][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting35)
+[2021.11.10-17.03.16:552][543]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.11.10-17.03.16:567][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.10-17.03.25:748][543]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto784E5566B4E00302A081126B63CAAABB7.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto7.umap'
+[2021.11.10-17.03.25:763][543]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 9.241
+[2021.11.10-17.03.25:763][543]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 9.241
+[2021.11.10-17.11.09:815][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting35)
+[2021.11.10-17.15.07:134][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2021.11.10-17.15.08:468][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2021.11.10-17.15.08:953][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2021.11.10-17.15.12:232][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane28)
+[2021.11.10-17.15.31:141][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2021.11.10-17.15.37:464][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting40)
+[2021.11.10-17.16.04:108][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2021.11.10-17.16.17:815][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2021.11.10-17.16.20:901][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane34)
+[2021.11.10-17.16.32:757][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting40)
+[2021.11.10-17.18.03:539][308]Cmd: DELETE
+[2021.11.10-17.18.03:539][308]Cmd: ACTOR DELETE
+[2021.11.10-17.18.03:547][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-17.18.03:555][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.11.10-17.18.03:559][308]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.11.10-17.18.05:359][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting42)
+[2021.11.10-17.20.49:425][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting44)
+[2021.11.10-17.21.55:426][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2021.11.10-17.22.05:617][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting38)
+[2021.11.10-17.22.52:643][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting39)
+[2021.11.10-17.23.47:679][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.11.10-17.24.48:870][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane12)
+[2021.11.10-17.24.49:957][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting47)
+[2021.11.10-17.25.00:848][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting50)
+[2021.11.10-17.25.21:694][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2021.11.10-17.25.22:684][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting48)
+[2021.11.10-17.25.44:999][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube80)
+[2021.11.10-17.26.01:985][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube80)
+[2021.11.10-17.26.02:852][526]Cmd: DELETE
+[2021.11.10-17.26.02:852][526]Cmd: ACTOR DELETE
+[2021.11.10-17.26.02:861][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-17.26.02:868][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.11.10-17.26.02:872][526]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.11.10-17.26.03:697][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.11.10-17.26.04:458][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube79)
+[2021.11.10-17.26.05:448][700]Cmd: DELETE
+[2021.11.10-17.26.05:448][700]Cmd: ACTOR DELETE
+[2021.11.10-17.26.05:455][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-17.26.05:461][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.10-17.26.05:463][700]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.11.10-17.26.06:606][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.11.10-17.26.17:909][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.11.10-17.26.37:685][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.11.10-17.26.47:131][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting51)
+[2021.11.10-17.28.20:012][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting50)
+[2021.11.10-17.28.56:809][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane20)
+[2021.11.10-17.29.04:002][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube82)
+[2021.11.10-17.29.12:553][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube82)
+[2021.11.10-17.29.13:356][973]Cmd: DELETE
+[2021.11.10-17.29.13:356][973]Cmd: ACTOR DELETE
+[2021.11.10-17.29.13:365][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.10-17.29.13:372][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.11.10-17.29.13:376][973]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.11.10-17.29.21:855][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane20)
+[2021.11.10-17.29.37:462][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane20)
+[2021.11.10-17.30.00:375][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2021.11.10-17.30.01:800][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.11.10-17.30.03:164][781]LogSlate: Window 'Save Content' being destroyed
+[2021.11.10-17.30.03:185][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.10-17.30.03:192][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.10-17.30.16:089][781]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Map_117C3FEC4492DDADEA53F1C9BE542557E.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap'
+[2021.11.10-17.30.16:133][781]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 2
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2021.11.10-17.30.16:140][781]LogFileHelpers: Saving map 'Map_1' took 12.955
+[2021.11.10-17.30.16:197][781]AssetCheck: New page: Asset Save: Map_1
+[2021.11.10-17.30.16:197][781]LogContentValidation: Display: Validating World /Game/Map/Map_1.Map_1

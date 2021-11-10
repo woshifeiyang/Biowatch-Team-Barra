@@ -812,3 +812,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.10-14.44.21:059][939]LogSlate: Took 0.001678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.11.10-14.44.21:080][939]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\Skirting\Skirting_Green_BaseColor.jpg)
 [2021.11.10-14.44.21:086][939]LogTexture: Display: Building textures: Skirting_Green_BaseColor (AutoDXT, 512X512)
+[2021.11.10-14.45.45:065][372]Cmd: ACTOR HIDE SELECTED
+[2021.11.10-14.45.51:990][164]Cmd: ACTOR HIDE SELECTED
+[2021.11.10-14.46.00:875][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting4)
+[2021.11.10-14.46.16:142][682]LogMaterial: Display: Missing cached shader map for material Skirting_Green_BaseColor_Mat, compiling. 
+[2021.11.10-14.46.16:173][682]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.11.10-14.46.16:173][682]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.11.10-14.46.16:173][682]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.11.10-14.46.16:173][682]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-14.46.16:173][682]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.11.10-14.46.16:173][682]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.11.10-14.48.20:708][  6]Cmd: TRANSACTION UNDO
+[2021.11.10-14.48.20:708][  6]LogEditorTransaction: Undo Rotate Actors
+[2021.11.10-14.48.24:885][382]Cmd: TRANSACTION UNDO
+[2021.11.10-14.48.24:885][382]LogEditorTransaction: Undo Rotate Actors
+[2021.11.10-14.48.27:976][654]Cmd: TRANSACTION UNDO
+[2021.11.10-14.48.27:976][654]LogEditorTransaction: Undo Rotate Actors
+[2021.11.10-14.49.17:001][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2021.11.10-14.49.21:546][955]Cmd: TRANSACTION UNDO
+[2021.11.10-14.49.21:546][955]LogEditorTransaction: Undo Scale Actors
+[2021.11.10-14.49.27:582][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting21)
+[2021.11.10-14.49.33:319][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2021.11.10-14.49.49:363][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting21)
+[2021.11.10-14.50.10:951][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.11.10-14.50.19:314][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting21)
+[2021.11.10-14.50.36:520][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting20)
+[2021.11.10-14.51.01:794][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane34)
+[2021.11.10-14.51.06:056][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting23)
+[2021.11.10-14.51.48:803][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane36)
+[2021.11.10-14.52.12:478][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting21)
+[2021.11.10-14.52.19:924][653]Cmd: TRANSACTION UNDO
+[2021.11.10-14.52.19:924][653]LogEditorTransaction: Undo Move Actors
+[2021.11.10-14.52.23:645][982]Cmd: TRANSACTION UNDO
+[2021.11.10-14.52.23:645][982]LogEditorTransaction: Undo Move Actors
+[2021.11.10-14.53.01:552][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2021.11.10-14.53.06:131][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2021.11.10-14.53.14:631][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2021.11.10-14.53.22:961][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting25)
+[2021.11.10-14.53.47:702][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting26)
+[2021.11.10-14.54.04:404][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2021.11.10-14.54.19:196][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting27)
+[2021.11.10-14.54.44:231][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting21)
+[2021.11.10-14.55.14:267][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting17)
+[2021.11.10-14.55.39:643][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting17)
+[2021.11.10-14.55.59:144][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane37)
+[2021.11.10-14.56.13:624][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting19)
+[2021.11.10-14.56.20:636][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting19)
+[2021.11.10-14.56.23:557][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2021.11.10-14.56.31:897][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting17)
+[2021.11.10-14.56.40:905][377]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.10-14.57.26:383][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting27)
+[2021.11.10-14.57.38:537][176]Cmd: TRANSACTION UNDO
+[2021.11.10-14.57.38:537][176]LogEditorTransaction: Undo Move Actors
+[2021.11.10-14.58.03:772][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2021.11.10-14.58.15:834][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting30)
+[2021.11.10-14.58.32:163][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2021.11.10-14.59.05:117][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2021.11.10-15.00.00:730][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.11.10-15.00.00:738][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.11.10-15.00.13:243][536]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto18E94555046594BD1D1A666981661B468.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto1.umap'
+[2021.11.10-15.00.13:258][536]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 12.537
+[2021.11.10-15.00.13:258][536]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 12.537
+[2021.11.10-15.00.13:259][536]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Skirting/Skirting_Green_BaseColor] ([1] browsable assets)...
+[2021.11.10-15.00.13:264][536]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment_Assets/Skirting/Skirting_Green_BaseColor.Skirting_Green_BaseColor]
+[2021.11.10-15.00.13:264][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Skirting/Skirting_Green_BaseColor]
+[2021.11.10-15.00.13:293][536]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Skirting_Green_BaseColor_Auto1C35F334742BBCAE240ECDCB681FB5CC1.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Skirting/Skirting_Green_BaseColor_Auto1.uasset'
+[2021.11.10-15.00.13:306][536]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Skirting/Skirting_Green_BaseColor_Mat] ([1] browsable assets)...
+[2021.11.10-15.00.13:314][536]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment_Assets/Skirting/Skirting_Green_BaseColor_Mat.Skirting_Green_BaseColor_Mat]
+[2021.11.10-15.00.13:314][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Skirting/Skirting_Green_BaseColor_Mat]
+[2021.11.10-15.00.13:351][536]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Skirting_Green_BaseColor_Mat_Aut0F4E25A74A2F243FBBB9EDA6EE1CD149.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Skirting/Skirting_Green_BaseColor_Mat_Auto1.uasset'
+[2021.11.10-15.00.13:416][536]LogFileHelpers: Auto-saving content packages took 0.159

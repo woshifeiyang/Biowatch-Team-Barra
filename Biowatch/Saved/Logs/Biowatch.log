@@ -3853,3 +3853,147 @@ Purging the undo buffer...
 [2021.11.10-17.30.16:140][781]LogFileHelpers: Saving map 'Map_1' took 12.955
 [2021.11.10-17.30.16:197][781]AssetCheck: New page: Asset Save: Map_1
 [2021.11.10-17.30.16:197][781]LogContentValidation: Display: Validating World /Game/Map/Map_1.Map_1
+[2021.11.10-17.31.40:088][672]LogSlate: Window 'Message' being destroyed
+[2021.11.10-17.31.40:093][672]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Environment_Assets/Mossy_Tiles_Dark_Material.Mossy_Tiles_Dark_Material
+(Selecting 'No' will cause all changes to be lost!)
+[2021.11.10-17.31.43:554][806]LogSlate: Window 'Message' being destroyed
+[2021.11.10-17.31.43:558][806]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Environment_Assets/Mossy_Tiles_Dark_Material.Mossy_Tiles_Dark_Material
+(Selecting 'No' will cause all changes to be lost!)
+[2021.11.10-17.31.44:213][806]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_BaseColor_Mat, compiling. 
+[2021.11.10-17.31.44:234][806]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.10-17.31.44:248][806]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.10-17.31.44:248][806]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.10-17.31.44:248][806]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-17.31.44:248][806]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-17.31.44:248][806]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-17.31.44:248][806]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.10-17.31.44:248][806]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-17.31.44:261][806]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_Material, compiling. 
+[2021.11.10-17.31.44:287][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.11.10-17.31.44:296][806]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.10-17.31.45:913][806]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.11.10-17.31.45:913][806]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.11.10-17.31.45:913][806]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.11.10-17.31.45:913][806]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.11.10-17.31.45:913][806]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.11.10-17.31.45:913][806]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.11.10-17.31.45:913][806]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.11.10-17.31.45:913][806]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.10-17.31.45:913][806]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.11.10-17.31.45:913][806]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.10-17.31.45:915][806]TextureStreamingBuild: Display: Compiling optional shaders took 1.623 seconds.
+[2021.11.10-17.31.45:924][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.11.10-17.31.45:945][806]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.11.10-17.31.46:010][806]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.31.46:010][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.31.46:395][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.11.10-17.31.47:688][816]LogSlate: Window 'Message' being destroyed
+[2021.11.10-17.31.47:693][816]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Environment_Assets/Lab_wall_4x1_Material.Lab_wall_4x1_Material
+(Selecting 'No' will cause all changes to be lost!)
+[2021.11.10-17.31.48:350][816]LogMaterial: Display: Missing cached shader map for material Lab_wall_4x1_Material, compiling. 
+[2021.11.10-17.31.48:382][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.11.10-17.31.48:382][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.11.10-17.31.48:382][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.11.10-17.31.48:382][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.11.10-17.31.48:382][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.11.10-17.31.48:382][816]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.11.10-17.31.48:382][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.11.10-17.31.48:382][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.11.10-17.31.48:387][816]LogMaterial: Display: Missing cached shader map for material Lab_wall_4x1_Material, compiling. 
+[2021.11.10-17.31.48:438][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.11.10-17.31.48:443][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.10-17.31.49:009][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2021.11.10-17.31.49:009][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2021.11.10-17.31.49:009][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.11.10-17.31.49:009][816]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.11.10-17.31.49:339][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.11.10-17.31.49:339][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.11.10-17.31.49:339][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.11.10-17.31.49:339][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.11.10-17.31.49:339][816]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.11.10-17.31.49:339][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.11.10-17.31.49:339][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.11.10-17.31.49:339][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.11.10-17.31.49:339][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-17.31.49:343][816]TextureStreamingBuild: Display: Compiling optional shaders took 0.903 seconds.
+[2021.11.10-17.31.49:353][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.11.10-17.31.49:469][816]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.31.49:469][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.31.49:812][827]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.11.10-17.31.50:078][838]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.11.10-17.31.50:323][847]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.11.10-17.31.50:392][849]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.11.10-17.31.50:426][850]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.10-17.31.53:458][952]LogSlate: Window 'Message' being destroyed
+[2021.11.10-17.31.53:463][952]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Environment_Assets/Mossy_Tiles_Material3x1.Mossy_Tiles_Material3x1
+(Selecting 'No' will cause all changes to be lost!)
+[2021.11.10-17.31.54:128][952]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Material3x1, compiling. 
+[2021.11.10-17.31.54:164][952]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.11.10-17.31.54:164][952]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.11.10-17.31.54:164][952]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.11.10-17.31.54:164][952]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.11.10-17.31.54:164][952]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.11.10-17.31.54:164][952]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.11.10-17.31.54:164][952]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.11.10-17.31.54:164][952]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.11.10-17.31.54:171][952]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Material3x1, compiling. 
+[2021.11.10-17.31.54:222][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.11.10-17.31.54:230][952]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.10-17.31.54:797][952]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2021.11.10-17.31.54:797][952]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2021.11.10-17.31.54:797][952]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.11.10-17.31.54:797][952]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.11.10-17.31.55:128][952]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.11.10-17.31.55:128][952]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.11.10-17.31.55:128][952]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.11.10-17.31.55:128][952]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.11.10-17.31.55:128][952]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.11.10-17.31.55:128][952]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.11.10-17.31.55:128][952]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.11.10-17.31.55:128][952]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.11.10-17.31.55:128][952]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.11.10-17.31.55:131][952]TextureStreamingBuild: Display: Compiling optional shaders took 0.907 seconds.
+[2021.11.10-17.31.55:141][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.11.10-17.31.55:230][952]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.31.55:230][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.31.55:708][968]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.11.10-17.31.56:141][985]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.11.10-17.31.56:357][993]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-17.31.56:381][994]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.11.10-17.31.57:990][  2]LogSlate: Window 'Message' being destroyed
+[2021.11.10-17.31.57:995][  2]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Environment_Assets/Mossy_Tiles_Dark_2x1_Material.Mossy_Tiles_Dark_2x1_Material
+(Selecting 'No' will cause all changes to be lost!)
+[2021.11.10-17.31.58:661][  2]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_2x1_Material, compiling. 
+[2021.11.10-17.31.58:697][  2]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.10-17.31.58:697][  2]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.10-17.31.58:697][  2]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.10-17.31.58:697][  2]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.10-17.31.58:697][  2]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-17.31.58:697][  2]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-17.31.58:697][  2]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.10-17.31.58:697][  2]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.10-17.31.58:706][  2]LogMaterial: Display: Missing cached shader map for material Mossy_Tiles_Dark_2x1_Material, compiling. 
+[2021.11.10-17.31.58:741][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.11.10-17.31.58:749][  2]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.10-17.31.59:310][  2]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.11.10-17.31.59:310][  2]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.11.10-17.31.59:310][  2]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.11.10-17.31.59:310][  2]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.11.10-17.31.59:521][  2]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.11.10-17.31.59:521][  2]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.11.10-17.31.59:521][  2]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.11.10-17.31.59:521][  2]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.10-17.31.59:521][  2]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.10-17.31.59:521][  2]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.11.10-17.31.59:521][  2]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.10-17.31.59:524][  2]TextureStreamingBuild: Display: Compiling optional shaders took 0.781 seconds.
+[2021.11.10-17.31.59:535][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.11.10-17.31.59:569][  2]LogSlate: Window 'Mossy_Tiles_Dark_2x1_Material' being destroyed
+[2021.11.10-17.31.59:622][  2]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.31.59:622][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.32.00:123][ 30]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1

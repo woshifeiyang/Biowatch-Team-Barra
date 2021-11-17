@@ -2501,3 +2501,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.17-18.22.07:817][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Trap_door/Trapdoor_BaseColor]
 [2021.11.17-18.22.07:869][596]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Trapdoor_BaseColor_Auto4CFE4D0684A463A44F191EC982DB03955.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Trap_door/Trapdoor_BaseColor_Auto4.uasset'
 [2021.11.17-18.22.07:877][596]LogFileHelpers: Auto-saving content packages took 0.381
+[2021.11.17-18.22.46:428][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.11.17-18.22.48:203][832]LogSlate: Window 'Save Content' being destroyed
+[2021.11.17-18.22.48:273][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment_Assets/Desk/Desk1_BaseColor_1001" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk/Desk1_BaseColor_1001.uasset" SILENT=true
+[2021.11.17-18.22.48:306][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Desk1_BaseColor_10018BD973194E6487454332978BCFA5723D.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk/Desk1_BaseColor_1001.uasset'
+[2021.11.17-18.22.48:314][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment_Assets/Desk/Desk1_Material" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk/Desk1_Material.uasset" SILENT=true
+[2021.11.17-18.22.48:361][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Desk1_Material5FBFCD8046CAEE5956519AA3EB906327.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk/Desk1_Material.uasset'
+[2021.11.17-18.22.48:374][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment_Assets/Desk/Desk2_BaseColor_1001" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk/Desk2_BaseColor_1001.uasset" SILENT=true
+[2021.11.17-18.22.48:407][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Desk2_BaseColor_100129B072DF46DA56375A53809364316F6D.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk/Desk2_BaseColor_1001.uasset'
+[2021.11.17-18.22.48:423][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment_Assets/Desk/Desk_Normal_1001" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk/Desk_Normal_1001.uasset" SILENT=true
+[2021.11.17-18.22.48:447][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Desk_Normal_1001FECF37744173FC59F62AF2A75172BCD9.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk/Desk_Normal_1001.uasset'
+[2021.11.17-18.22.48:497][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Lab_Station_1-2_BaseColor3D92F8D640B5AD8707064C963EC46F97.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Lab_Station/Lab_Station_1-2_BaseColor.uasset'
+[2021.11.17-18.22.48:551][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Lab_Station_1_BaseColor87F560FD4660CE8A0D245D8E88C82DDA.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Lab_Station/Lab_Station_1_BaseColor.uasset'
+[2021.11.17-18.22.48:588][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Lab_Station_1_EmissiveA781AC934E80F36D0C496DB9345CA570.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Lab_Station/Lab_Station_1_Emissive.uasset'
+[2021.11.17-18.22.48:633][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Lab_Station_1_Normal66AE0D404F3E99BE5B4D9A994F68CA35.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Lab_Station/Lab_Station_1_Normal.uasset'
+[2021.11.17-18.22.48:692][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Lb_Station1-1_MaterialEA3BC15B46E6C07877E28383F10F9AA3.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Lab_Station/Lb_Station1-1_Material.uasset'
+[2021.11.17-18.22.48:751][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Lb_Station1-2_Material343DD9CE4365B8F72364ED9F6B1FB6AF.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Lab_Station/Lb_Station1-2_Material.uasset'
+[2021.11.17-18.22.48:764][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.17-18.22.48:772][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.11.17-18.23.05:967][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Map_1375001484EB019F592E8B98C813ED925.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap'
+[2021.11.17-18.23.06:023][832]LogFileHelpers: Saving map 'Map_1' took 17.260
+[2021.11.17-18.23.06:071][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Trapdoor_BaseColorEB63992D40CCB45EEFCFAE973A67F446.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Trap_door/Trapdoor_BaseColor.uasset'
+[2021.11.17-18.23.06:106][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Trapdoor_EmissiveE820CCEE4F77C4AA583D7B843A29F7F7.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Trap_door/Trapdoor_Emissive.uasset'
+[2021.11.17-18.23.06:117][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment_Assets/Trap_door/Trapdoor_Normal" FILE="M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Trap_door/Trapdoor_Normal.uasset" SILENT=true
+[2021.11.17-18.23.06:164][832]LogSavePackage: Moving 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Saved/Trapdoor_NormalB05F9CEC44B369552217F39CA6B87223.tmp' to 'M:/BioWatch/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Trap_door/Trapdoor_Normal.uasset'
+[2021.11.17-18.23.06:291][832]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.17-18.23.06:291][832]LogContentValidation: Display: Validating World /Game/Map/Map_1.Map_1
+[2021.11.17-18.23.06:291][832]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Trap_door/Trapdoor_BaseColor.Trapdoor_BaseColor
+[2021.11.17-18.23.06:291][832]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Trap_door/Trapdoor_Emissive.Trapdoor_Emissive
+[2021.11.17-18.23.06:291][832]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Trap_door/Trapdoor_Normal.Trapdoor_Normal
+[2021.11.17-18.23.06:291][832]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Lab_Station/Lab_Station_1-2_BaseColor.Lab_Station_1-2_BaseColor
+[2021.11.17-18.23.06:291][832]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Lab_Station/Lb_Station1-1_Material.Lb_Station1-1_Material
+[2021.11.17-18.23.06:291][832]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Lab_Station/Lab_Station_1_BaseColor.Lab_Station_1_BaseColor
+[2021.11.17-18.23.06:291][832]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Lab_Station/Lab_Station_1_Normal.Lab_Station_1_Normal
+[2021.11.17-18.23.06:291][832]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Desk/Desk_Normal_1001.Desk_Normal_1001
+[2021.11.17-18.23.06:291][832]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Desk/Desk2_BaseColor_1001.Desk2_BaseColor_1001
+[2021.11.17-18.23.06:292][832]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Desk/Desk1_BaseColor_1001.Desk1_BaseColor_1001
+[2021.11.17-18.23.06:292][832]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Lab_Station/Lab_Station_1_Emissive.Lab_Station_1_Emissive
+[2021.11.17-18.23.06:292][832]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Desk/Desk1_Material.Desk1_Material
+[2021.11.17-18.23.06:292][832]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Lab_Station/Lb_Station1-2_Material.Lb_Station1-2_Material

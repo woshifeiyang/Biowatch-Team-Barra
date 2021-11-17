@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 Biowatch/Content/Map/Cube_level.umap
 Biowatch/Content/Map/Cube_level.umap
 Biowatch/Intermediate/CachedAssetRegistry.bin
+Biowatch/Saved/Logs/Biowatch.log
+Biowatch/Saved/Config/Windows/EditorPerProjectUserSettings.ini

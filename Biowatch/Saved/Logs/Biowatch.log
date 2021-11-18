@@ -2341,3 +2341,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.18-12.58.20:238][  3]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Lab_Station/Lab_Station_1_Emissive.Lab_Station_1_Emissive
 [2021.11.18-12.58.20:238][  3]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Lab_Station/Lab_Station_1_Normal.Lab_Station_1_Normal
 [2021.11.18-12.58.20:238][  3]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Lab_Station/Lab_Station_1_BaseColor.Lab_Station_1_BaseColor
+[2021.11.18-13.01.53:543][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms

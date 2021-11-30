@@ -4542,3 +4542,641 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Calendar/Calender.Calender
 [2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Calendar/Calender_1011_Normal.Calender_1011_Normal
 [2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Escape_Pipe/Sewer_Grate.Sewer_Grate
+[2021.11.30-22.03.02:404][148]LogActorFactory: Actor Factory created Desk_Mat
+[2021.11.30-22.03.03:103][200]LogActorFactory: Actor Factory created Desk_Mat
+[2021.11.30-22.03.12:041][710]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Desk_Mat_5.StaticMeshComponent0)
+[2021.11.30-22.03.16:077][935]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Desk_Mat_5.StaticMeshComponent0)
+[2021.11.30-22.04.02:614][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk_Mat)
+[2021.11.30-22.04.35:448][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk5)
+[2021.11.30-22.04.38:374][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk_Mat)
+[2021.11.30-22.04.39:625][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk_Mat)
+[2021.11.30-22.04.42:573][905]Cmd: DELETE
+[2021.11.30-22.04.42:573][905]Cmd: ACTOR DELETE
+[2021.11.30-22.04.42:587][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-22.04.42:595][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.11.30-22.04.42:600][905]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.11.30-22.04.49:680][350]LogActorFactory: Actor Factory created Paper_Tray
+[2021.11.30-22.04.50:096][389]LogActorFactory: Actor Factory created Paper_Tray
+[2021.11.30-22.04.55:379][659]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Paper_Tray_8.StaticMeshComponent0)
+[2021.11.30-22.04.57:546][772]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Paper_Tray_8.StaticMeshComponent0)
+[2021.11.30-22.05.09:775][412]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.30-22.05.45:350][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paper_Tray)
+[2021.11.30-22.06.23:498][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paper_Tray)
+[2021.11.30-22.06.29:775][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk5)
+[2021.11.30-22.07.03:809][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk10)
+[2021.11.30-22.07.19:660][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_Ceiling_Incubator)
+[2021.11.30-22.08.38:606][410]Cmd: DELETE
+[2021.11.30-22.08.38:607][410]Cmd: ACTOR DELETE
+[2021.11.30-22.08.38:622][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-22.08.38:622][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-22.08.38:622][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-22.08.38:631][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.11.30-22.08.38:637][410]LogEditorActor: Deleted 3 Actors (0.030 secs)
+[2021.11.30-22.09.50:151][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_Ceiling_Incubator3)
+[2021.11.30-22.10.21:848][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_Ceiling_Incubator3)
+[2021.11.30-22.11.05:681][106]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.30-22.11.58:479][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.11.30-22.11.58:752][985]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto3C4311B5C481541A1226683B2B5314575.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto3.umap'
+[2021.11.30-22.11.58:754][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.283
+[2021.11.30-22.11.58:754][985]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.283
+[2021.11.30-22.15.35:396][235]LogStaticMesh: Building static mesh Shelf...
+[2021.11.30-22.15.35:412][235]LogStaticMesh: Built static mesh [0.02s] /Game/Environment_Assets/Shelf_Content/Shelf.Shelf
+[2021.11.30-22.15.35:417][235]LogStaticMesh: Building static mesh Shelf_Bracket1...
+[2021.11.30-22.15.35:430][235]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Shelf_Content/Shelf_Bracket1.Shelf_Bracket1
+[2021.11.30-22.15.35:434][235]LogStaticMesh: Building static mesh Shelf_Bracket2...
+[2021.11.30-22.15.35:444][235]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Shelf_Content/Shelf_Bracket2.Shelf_Bracket2
+[2021.11.30-22.15.35:449][235]LogStaticMesh: Building static mesh Shelf_Wall_Mount1...
+[2021.11.30-22.15.35:464][235]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Shelf_Content/Shelf_Wall_Mount1.Shelf_Wall_Mount1
+[2021.11.30-22.15.35:469][235]LogStaticMesh: Building static mesh Shelf_Wall_Mount2...
+[2021.11.30-22.15.35:494][235]LogStaticMesh: Built static mesh [0.03s] /Game/Environment_Assets/Shelf_Content/Shelf_Wall_Mount2.Shelf_Wall_Mount2
+[2021.11.30-22.15.35:539][236]LogActorFactory: Actor Factory created Shelf
+[2021.11.30-22.15.35:540][236]LogActorFactory: Actor Factory created Shelf_Bracket1
+[2021.11.30-22.15.35:541][236]LogActorFactory: Actor Factory created Shelf_Bracket2
+[2021.11.30-22.15.35:541][236]LogActorFactory: Actor Factory created Shelf_Wall_Mount1
+[2021.11.30-22.15.35:542][236]LogActorFactory: Actor Factory created Shelf_Wall_Mount2
+[2021.11.30-22.15.36:752][345]LogActorFactory: Actor Factory created Shelf
+[2021.11.30-22.15.36:774][345]LogActorFactory: Actor Factory created Shelf_Bracket1
+[2021.11.30-22.15.36:787][345]LogActorFactory: Actor Factory created Shelf_Bracket2
+[2021.11.30-22.15.36:801][345]LogActorFactory: Actor Factory created Shelf_Wall_Mount1
+[2021.11.30-22.15.36:815][345]LogActorFactory: Actor Factory created Shelf_Wall_Mount2
+[2021.11.30-22.16.33:523][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shelf2)
+[2021.11.30-22.16.34:258][630]Cmd: TRANSACTION UNDO
+[2021.11.30-22.16.34:258][630]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-22.16.34:580][635]Cmd: TRANSACTION UNDO
+[2021.11.30-22.16.34:580][635]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-22.16.34:840][641]Cmd: TRANSACTION UNDO
+[2021.11.30-22.16.34:840][641]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-22.16.35:273][668]Cmd: TRANSACTION UNDO
+[2021.11.30-22.16.35:273][668]LogEditorTransaction: Undo Move Actors
+[2021.11.30-22.21.59:074][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.11.30-22.21.59:816][424]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto47E2896CF4A1B2D1C3B8AC2B5095B73BB.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto4.umap'
+[2021.11.30-22.21.59:824][424]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.774
+[2021.11.30-22.21.59:825][424]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.774
+[2021.11.30-22.23.19:972][732]Cmd: TRANSACTION UNDO
+[2021.11.30-22.23.19:972][732]LogEditorTransaction: Undo Select Brush Surface
+[2021.11.30-22.23.52:468][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane34)
+[2021.11.30-22.23.56:323][663]Cmd: TRANSACTION UNDO
+[2021.11.30-22.23.56:323][663]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-22.24.51:038][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.11.30-22.24.59:106][ 43]LogSlate: Took 0.009011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.30-22.25.41:920][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shelf5)
+[2021.11.30-22.25.53:619][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shelf_Bracket10)
+[2021.11.30-22.28.36:001][ 29]LogActorFactory: Actor Factory created Harazd_Cone
+[2021.11.30-22.28.36:824][ 93]LogActorFactory: Actor Factory created Harazd_Cone
+[2021.11.30-22.28.40:031][274]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Harazd_Cone_76.StaticMeshComponent0)
+[2021.11.30-22.28.41:479][355]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Harazd_Cone_76.StaticMeshComponent0)
+[2021.11.30-22.30.57:988][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Harazd_Cone)
+[2021.11.30-22.31.19:562][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Harazd_Cone4)
+[2021.11.30-22.31.20:984][293]Cmd: DELETE
+[2021.11.30-22.31.20:984][293]Cmd: ACTOR DELETE
+[2021.11.30-22.31.20:998][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-22.31.21:007][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.11.30-22.31.21:012][293]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.11.30-22.31.21:515][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Harazd_Cone3)
+[2021.11.30-22.32.12:164][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.11.30-22.32.12:431][ 56]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto590513CDE446E4BF7F319E4BA33B8F8E5.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto5.umap'
+[2021.11.30-22.32.12:434][ 56]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.286
+[2021.11.30-22.32.12:434][ 56]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.286
+[2021.11.30-22.33.12:647][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor3)
+[2021.11.30-22.34.02:899][844]Cmd: DELETE
+[2021.11.30-22.34.02:899][844]Cmd: ACTOR DELETE
+[2021.11.30-22.34.02:913][844]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-22.34.02:922][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.11.30-22.34.02:926][844]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.11.30-22.34.07:948][180]LogActorFactory: Actor Factory created Cage
+[2021.11.30-22.34.08:720][237]LogActorFactory: Actor Factory created Cage
+[2021.11.30-22.34.24:329][206]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.11.30-22.34.24:351][206]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.11.30-22.34.29:681][575]LogContentBrowser: Attempting asset rename: NewMaterial -> Cage_Material
+[2021.11.30-22.34.29:682][575]LogContentBrowser: End creating deferred item NewMaterial
+[2021.11.30-22.34.42:538][ 95]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Environment_Assets/Cage/Cage_Material.Cage_Material
+[2021.11.30-22.34.42:539][ 95]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.34.42:641][ 95]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.34.42:647][ 95]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.34.42:660][ 95]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-22.34.42:660][ 95]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-22.34.42:660][ 95]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-22.34.42:660][ 95]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-22.34.43:511][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-22.34.43:786][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-22.34.43:951][134]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-22.34.44:035][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-22.34.44:509][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-22.34.45:039][174]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.30-22.34.45:039][174]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.30-22.34.45:039][174]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.30-22.34.45:039][174]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.30-22.34.45:953][236]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.34.45:959][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-22.34.45:969][236]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-22.34.45:970][236]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-22.34.45:970][236]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.30-22.34.45:970][236]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.30-22.34.45:973][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-22.34.45:987][236]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.34.45:993][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-22.34.46:005][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-22.34.46:009][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-22.34.46:023][236]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.34.46:031][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-22.34.46:043][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-22.34.46:047][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-22.34.46:050][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-22.34.46:479][248]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.11.30-22.34.46:754][257]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.30-22.34.46:836][260]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.11.30-22.34.46:872][261]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.30-22.34.47:342][280]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-22.34.47:342][280]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.11.30-22.34.47:478][285]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.11.30-22.34.47:751][294]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.30-22.34.47:944][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.30-22.34.48:261][312]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-22.34.48:363][318]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-22.34.48:381][319]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.30-22.34.48:433][322]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-22.34.48:701][334]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-22.34.48:749][336]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.34.48:770][336]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-22.34.48:953][341]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.11.30-22.34.48:953][341]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.11.30-22.34.48:983][342]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.11.30-22.34.49:273][351]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-22.34.49:609][362]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.11.30-22.34.49:627][363]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.11.30-22.34.49:647][364]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.11.30-22.34.49:790][371]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.11.30-22.34.50:124][386]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-22.34.50:139][387]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.30-22.34.50:176][389]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.11.30-22.34.50:573][405]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.11.30-22.34.50:684][409]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.11.30-22.34.50:901][416]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.30-22.34.51:055][421]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.34.51:092][422]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-22.34.51:206][427]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.11.30-22.34.51:394][435]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.11.30-22.34.51:501][440]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.11.30-22.34.51:621][446]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.11.30-22.34.51:729][451]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.11.30-22.34.51:925][460]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-22.34.51:946][461]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-22.34.52:310][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-22.34.52:311][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-22.34.52:346][481]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-22.34.52:572][492]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.34.52:589][492]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-22.34.52:595][492]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-22.34.52:596][492]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.34.52:830][499]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.11.30-22.34.53:184][512]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.11.30-22.34.53:212][513]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-22.34.53:280][515]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Environment_Assets/Cage/Cage_lambert1_OcclusionRoughnessMetallic.Cage_lambert1_OcclusionRoughnessMetallic
+[2021.11.30-22.34.53:520][518]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-22.34.53:723][526]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-22.34.53:724][526]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.30-22.34.53:997][536]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.30-22.34.54:409][551]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-22.34.54:553][557]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.30-22.34.55:303][592]LogTexture: Display: Building textures: Cage_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.11.30-22.34.55:336][592]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.30-22.34.55:336][592]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.30-22.34.55:336][592]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-22.34.55:336][592]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.30-22.34.55:336][592]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.30-22.34.55:336][592]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-22.34.56:806][667]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Cage_lambert1_OcclusionRoughnessD9BB87294171CF5626DB45ADBF535247.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Cage/Cage_lambert1_OcclusionRoughnessMetallic.uasset'
+[2021.11.30-22.34.56:816][667]AssetCheck: New page: Asset Save: Cage_lambert1_OcclusionRoughnessMetallic
+[2021.11.30-22.34.56:816][667]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Cage/Cage_lambert1_OcclusionRoughnessMetallic.Cage_lambert1_OcclusionRoughnessMetallic
+[2021.11.30-22.35.03:318][ 78]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.35.03:334][ 78]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-22.35.03:334][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-22.35.03:334][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-22.35.03:334][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-22.35.03:334][ 78]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-22.35.04:025][ 98]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-22.35.04:189][105]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-22.35.04:287][110]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-22.35.04:307][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-22.35.04:639][126]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-22.35.04:766][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-22.35.04:932][134]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-22.35.04:967][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-22.35.05:079][139]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-22.35.05:690][178]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.35.05:701][178]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-22.35.05:705][178]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-22.35.05:705][178]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-22.35.05:705][178]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-22.35.05:705][178]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-22.35.06:337][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-22.35.06:568][204]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-22.35.06:720][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-22.35.06:776][211]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-22.35.07:178][224]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-22.35.07:261][228]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-22.35.07:500][239]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-22.35.07:523][240]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-22.35.07:634][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-22.35.08:698][320]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.35.08:709][320]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-22.35.08:709][320]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-22.35.08:709][320]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-22.35.08:709][320]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-22.35.08:710][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-22.35.09:364][342]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-22.35.09:481][348]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-22.35.09:546][352]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-22.35.09:603][355]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-22.35.10:009][370]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-22.35.10:245][378]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-22.35.10:434][385]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-22.35.10:434][385]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-22.35.10:546][390]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-22.35.11:275][439]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.35.11:287][439]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-22.35.11:287][439]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-22.35.11:287][439]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-22.35.11:287][439]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-22.35.11:289][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-22.35.11:906][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-22.35.12:116][464]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-22.35.12:253][467]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-22.35.12:285][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-22.35.12:554][479]LogMaterialEditor: Saving and Compiling material Cage_Material
+[2021.11.30-22.35.13:218][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-22.35.13:218][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-22.35.13:218][479]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-22.35.13:218][479]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-22.35.13:218][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-22.35.13:231][479]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.35.13:257][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-22.35.13:296][479]LogMaterial: Display: Missing cached shader map for material Cage_Material, compiling. 
+[2021.11.30-22.35.13:357][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.11.30-22.35.13:366][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.30-22.35.13:930][479]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.11.30-22.35.13:930][479]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.11.30-22.35.13:930][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.30-22.35.13:930][479]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.11.30-22.35.13:930][479]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.30-22.35.13:930][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.11.30-22.35.14:490][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.11.30-22.35.14:490][479]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.11.30-22.35.14:490][479]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.11.30-22.35.14:812][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.30-22.35.14:812][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-22.35.14:812][479]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.30-22.35.14:812][479]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.11.30-22.35.14:812][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.30-22.35.14:816][479]TextureStreamingBuild: Display: Compiling optional shaders took 1.455 seconds.
+[2021.11.30-22.35.14:828][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.30-22.35.15:442][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.30-22.35.16:002][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.30-22.35.16:303][479]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Cage_MaterialBEEB67834893A006D00199918F86F8B8.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Cage/Cage_Material.uasset'
+[2021.11.30-22.35.16:333][479]AssetCheck: New page: Asset Save: Cage_Material
+[2021.11.30-22.35.16:333][479]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Cage/Cage_Material.Cage_Material
+[2021.11.30-22.35.16:339][479]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.30-22.35.16:339][479]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.30-22.35.16:339][479]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-22.35.16:339][479]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.30-22.35.16:339][479]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.30-22.35.16:339][479]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-22.35.20:706][692]LogSlate: Window 'Cage_Material' being destroyed
+[2021.11.30-22.35.20:725][692]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-22.35.20:725][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-22.38.12:387][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cage2)
+[2021.11.30-22.38.13:754][836]Cmd: DELETE
+[2021.11.30-22.38.13:754][836]Cmd: ACTOR DELETE
+[2021.11.30-22.38.13:768][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-22.38.13:778][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.11.30-22.38.13:782][836]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.11.30-22.38.20:366][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cage)
+[2021.11.30-22.38.25:519][569]LogEditorViewport: Clicking on Actor (LMB): BP_normalClipboard_C (BP_normalClipboard2)
+[2021.11.30-22.38.37:935][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cage)
+[2021.11.30-22.39.02:375][676]LogActorFactory: Actor Factory created Keyboard
+[2021.11.30-22.39.02:709][702]LogActorFactory: Actor Factory created Keyboard
+[2021.11.30-22.39.07:055][934]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Keyboard3_87.StaticMeshComponent0)
+[2021.11.30-22.39.10:838][132]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Keyboard3_87.StaticMeshComponent0)
+[2021.11.30-22.40.37:452][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keyboard3)
+[2021.11.30-22.41.51:969][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trolley)
+[2021.11.30-22.42.34:169][858]LogEditorViewport: Clicking on Actor (LMB): BP_Incubation_prison_C (BP_Incubation_prison)
+[2021.11.30-22.42.44:371][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trolley3)
+[2021.11.30-22.42.50:823][718]LogEditorViewport: Clicking on Actor (LMB): BP_Incubation_prison_C (BP_Incubation_prison)
+[2021.11.30-22.43.13:005][895]Cmd: TRANSACTION UNDO
+[2021.11.30-22.43.13:006][895]LogEditorTransaction: Undo Scale Actors
+[2021.11.30-22.43.14:638][968]Cmd: TRANSACTION UNDO
+[2021.11.30-22.43.14:638][968]LogEditorTransaction: Undo Move Actors
+[2021.11.30-22.43.22:249][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trolley3)
+[2021.11.30-22.43.24:138][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trolley3)
+[2021.11.30-22.43.31:047][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trolley3)
+[2021.11.30-22.43.38:940][260]Cmd: EDCALLBACK SURFPROPS
+[2021.11.30-22.43.40:508][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2021.11.30-22.43.41:273][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2021.11.30-22.43.41:814][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trolley3)
+[2021.11.30-22.46.16:135][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trolley3)
+[2021.11.30-22.46.22:114][ 28]Cmd: DELETE
+[2021.11.30-22.46.22:114][ 28]Cmd: ACTOR DELETE
+[2021.11.30-22.46.22:129][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-22.46.22:143][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.11.30-22.46.22:147][ 28]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.11.30-22.46.35:863][805]LogActorFactory: Actor Factory created Radio
+[2021.11.30-22.46.37:295][926]LogActorFactory: Actor Factory created Radio
+[2021.11.30-22.47.48:956][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio)
+[2021.11.30-22.48.24:229][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor3)
+[2021.11.30-22.48.25:097][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keyboard3)
+[2021.11.30-22.48.40:527][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor3)
+[2021.11.30-22.48.51:483][871]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.30-22.49.28:405][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor3)
+[2021.11.30-22.49.40:295][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor5)
+[2021.11.30-22.49.47:308][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor3)
+[2021.11.30-22.49.51:038][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor5)
+[2021.11.30-22.50.02:344][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor3)
+[2021.11.30-22.50.20:561][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor5)
+[2021.11.30-22.50.21:994][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane17)
+[2021.11.30-22.50.22:952][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor5)
+[2021.11.30-22.50.24:197][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor3)
+[2021.11.30-22.50.41:789][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk3)
+[2021.11.30-22.50.44:122][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube88)
+[2021.11.30-22.54.08:031][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.11.30-22.54.08:326][948]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto6424B673543AF4A2BF04E5FB724D1ADC3.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto6.umap'
+[2021.11.30-22.54.08:328][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.309
+[2021.11.30-22.54.08:328][948]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.309
+[2021.11.30-22.55.20:716][423]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Mouse\Mouse.fbx)
+[2021.11.30-22.55.20:727][423]LogFbx: Loading FBX Scene from F:\Mouse\Mouse.fbx
+[2021.11.30-22.55.20:732][423]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-22.55.23:591][423]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-22.55.23:613][423]LogStaticMesh: Building static mesh Mouse...
+[2021.11.30-22.55.23:630][423]LogStaticMesh: Built static mesh [0.02s] /Game/Environment_Assets/Mouse/Mouse.Mouse
+[2021.11.30-22.55.23:633][423]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.30-22.55.25:130][505]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-22.55.25:133][505]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-22.55.26:004][550]LogActorFactory: Actor Factory created Mouse
+[2021.11.30-22.55.26:481][579]LogActorFactory: Actor Factory created Mouse
+[2021.11.30-22.55.32:017][870]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Mouse_97.StaticMeshComponent0)
+[2021.11.30-22.55.32:207][880]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Mouse_97.StaticMeshComponent0)
+[2021.11.30-22.55.32:480][894]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Mouse_97.StaticMeshComponent0)
+[2021.11.30-22.55.34:121][980]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Mouse_97.StaticMeshComponent0)
+[2021.11.30-22.56.44:880][773]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.30-22.57.13:065][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keyboard3)
+[2021.11.30-22.57.54:520][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_polySurface2)
+[2021.11.30-22.58.24:596][994]LogActorFactory: Actor Factory created Cage
+[2021.11.30-22.58.25:233][ 38]LogActorFactory: Actor Factory created Cage
+[2021.11.30-22.58.29:550][268]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Cage2_101.StaticMeshComponent0)
+[2021.11.30-22.58.29:930][288]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/Map_1.Map_1:PersistentLevel.Cage2_101.StaticMeshComponent0)
+[2021.11.30-22.59.28:661][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cage2)
+[2021.11.30-22.59.57:374][155]LogActorFactory: Actor Factory created SM_CornerFrame
+[2021.11.30-22.59.57:938][191]LogActorFactory: Actor Factory created SM_CornerFrame
+[2021.11.30-23.00.09:976][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CornerFrame)
+[2021.11.30-23.00.13:533][  5]Cmd: DELETE
+[2021.11.30-23.00.13:533][  5]Cmd: ACTOR DELETE
+[2021.11.30-23.00.13:547][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.00.13:558][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.11.30-23.00.13:564][  5]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.11.30-23.01.43:547][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cage2)
+[2021.11.30-23.01.59:633][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cage4)
+[2021.11.30-23.02.15:873][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cage3)
+[2021.11.30-23.02.22:194][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cage5)
+[2021.11.30-23.02.46:409][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2021.11.30-23.05.20:053][514]LogStaticMesh: Building static mesh Mounted_Wall_Light...
+[2021.11.30-23.05.20:072][514]LogStaticMesh: Built static mesh [0.02s] /Game/Environment_Assets/Mounted_Wall_Light/Mounted_Wall_Light.Mounted_Wall_Light
+[2021.11.30-23.05.20:271][529]LogActorFactory: Actor Factory created Mounted_Wall_Light
+[2021.11.30-23.05.21:065][590]LogActorFactory: Actor Factory created Mounted_Wall_Light
+[2021.11.30-23.05.23:098][688]LogTexture: Display: Building textures: Mounted_Wall_Light_lambert1_Normal (BC5, 512X512)
+[2021.11.30-23.05.23:098][688]LogTexture: Display: Building textures: Mounted_Wall_Light_lambert1_Emissive (AutoDXT, 512X512)
+[2021.11.30-23.05.23:098][688]LogTexture: Display: Building textures: Mounted_Wall_Light_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.11.30-23.05.23:098][688]LogTexture: Display: Building textures: Mounted_Wall_Light_lambert1_BaseColor (AutoDXT, 512X512)
+[2021.11.30-23.05.23:098][688]LogMaterial: Display: Missing cached shader map for material Mounted_Wall_light_Material, compiling. 
+[2021.11.30-23.05.23:150][688]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.30-23.05.23:150][688]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-23.05.23:150][688]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-23.05.31:081][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mounted_Wall_Light)
+[2021.11.30-23.05.48:846][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mounted_Wall_Light)
+[2021.11.30-23.06.29:154][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mounted_Wall_Light)
+[2021.11.30-23.06.56:833][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mounted_Wall_Light)
+[2021.11.30-23.06.58:054][241]Cmd: DELETE
+[2021.11.30-23.06.58:054][241]Cmd: ACTOR DELETE
+[2021.11.30-23.06.58:070][241]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.06.58:081][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.11.30-23.06.58:085][241]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.11.30-23.06.58:964][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mounted_Wall_Light2)
+[2021.11.30-23.06.59:252][308]Cmd: DELETE
+[2021.11.30-23.06.59:252][308]Cmd: ACTOR DELETE
+[2021.11.30-23.06.59:268][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.06.59:277][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.11.30-23.06.59:278][308]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.11.30-23.07.04:117][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.11.30-23.07.04:416][609]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto7198E038449346BC8FF99DFB2D0D1788F.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto7.umap'
+[2021.11.30-23.07.04:418][609]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.311
+[2021.11.30-23.07.04:418][609]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.311
+[2021.11.30-23.07.04:418][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Mouse/Mouse] ([1] browsable assets)...
+[2021.11.30-23.07.04:429][609]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Mouse/Mouse.Mouse]
+[2021.11.30-23.07.04:429][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Mouse/Mouse]
+[2021.11.30-23.07.04:438][609]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mouse_Auto7D831C53644BA71B0A66CD7AC426A01DE.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Mouse/Mouse_Auto7.uasset'
+[2021.11.30-23.07.04:439][609]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.11.30-23.07.18:335][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2021.11.30-23.07.19:515][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe_Curved4)
+[2021.11.30-23.07.43:932][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe45)
+[2021.11.30-23.08.21:433][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe95)
+[2021.11.30-23.08.37:785][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe97)
+[2021.11.30-23.08.38:727][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe100)
+[2021.11.30-23.08.40:160][801]Cmd: DELETE
+[2021.11.30-23.08.40:160][801]Cmd: ACTOR DELETE
+[2021.11.30-23.08.40:175][801]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.08.40:185][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.30-23.08.40:188][801]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.11.30-23.08.41:200][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe99)
+[2021.11.30-23.09.14:175][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2021.11.30-23.09.29:007][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_Pipe_Curved20)
+[2021.11.30-23.09.29:856][502]Cmd: TRANSACTION UNDO
+[2021.11.30-23.09.29:856][502]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.09.30:291][510]Cmd: TRANSACTION UNDO
+[2021.11.30-23.09.30:291][510]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.11.19:464][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor5)
+[2021.11.30-23.11.29:955][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor3)
+[2021.11.30-23.12.53:800][839]LogActorFactory: Actor Factory created Desk_Mat
+[2021.11.30-23.12.54:641][904]LogActorFactory: Actor Factory created Desk_Mat
+[2021.11.30-23.14.11:024][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor4)
+[2021.11.30-23.14.11:640][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.11.30-23.14.17:483][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor4)
+[2021.11.30-23.14.24:759][520]Cmd: TRANSACTION UNDO
+[2021.11.30-23.14.24:759][520]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.14.36:062][259]Cmd: TRANSACTION UNDO
+[2021.11.30-23.14.36:062][259]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.14.36:357][267]Cmd: TRANSACTION UNDO
+[2021.11.30-23.14.36:357][267]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.14.36:649][278]Cmd: TRANSACTION UNDO
+[2021.11.30-23.14.36:649][278]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.14.44:707][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.11.30-23.14.52:842][295]Cmd: TRANSACTION UNDO
+[2021.11.30-23.14.52:842][295]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.14.53:429][308]Cmd: TRANSACTION UNDO
+[2021.11.30-23.14.53:429][308]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.14.53:914][342]Cmd: TRANSACTION UNDO
+[2021.11.30-23.14.53:914][342]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.14.54:397][373]Cmd: TRANSACTION UNDO
+[2021.11.30-23.14.54:397][373]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.14.54:791][397]Cmd: TRANSACTION UNDO
+[2021.11.30-23.14.54:791][397]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.15.00:269][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.11.30-23.15.03:096][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keyboard)
+[2021.11.30-23.15.43:629][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.11.30-23.17.04:785][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.11.30-23.17.05:366][ 34]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto8CAFFF43D4CB062CC4E74EBBF44B258F8.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto8.umap'
+[2021.11.30-23.17.05:368][ 34]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.600
+[2021.11.30-23.17.05:368][ 34]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.600
+[2021.11.30-23.20.39:547][408]LogActorFactory: Actor Factory created Button
+[2021.11.30-23.20.39:548][408]LogActorFactory: Actor Factory created Button_Base_Cased_Button
+[2021.11.30-23.20.39:549][408]LogActorFactory: Actor Factory created Button_Base_Glass_Case
+[2021.11.30-23.20.39:549][408]LogActorFactory: Actor Factory created Button_Base_Hinge
+[2021.11.30-23.20.40:500][482]LogActorFactory: Actor Factory created Button
+[2021.11.30-23.20.40:514][482]LogActorFactory: Actor Factory created Button_Base_Cased_Button
+[2021.11.30-23.20.40:528][482]LogActorFactory: Actor Factory created Button_Base_Glass_Case
+[2021.11.30-23.20.40:545][482]LogActorFactory: Actor Factory created Button_Base_Hinge
+[2021.11.30-23.21.05:806][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keyboard)
+[2021.11.30-23.21.07:280][990]Cmd: TRANSACTION UNDO
+[2021.11.30-23.21.07:280][990]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.22.39:157][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.11.30-23.22.39:925][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.11.30-23.22.42:517][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button2)
+[2021.11.30-23.22.43:496][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.11.30-23.22.45:805][673]Cmd: TRANSACTION UNDO
+[2021.11.30-23.22.45:805][673]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.22.46:280][682]Cmd: TRANSACTION UNDO
+[2021.11.30-23.22.46:280][682]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.22.46:838][713]Cmd: TRANSACTION UNDO
+[2021.11.30-23.22.46:838][713]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.22.48:698][819]Cmd: TRANSACTION UNDO
+[2021.11.30-23.22.48:698][819]LogEditorTransaction: Undo Rotate Actors
+[2021.11.30-23.22.49:011][835]Cmd: TRANSACTION UNDO
+[2021.11.30-23.22.49:011][835]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.22.49:296][846]Cmd: TRANSACTION UNDO
+[2021.11.30-23.22.49:296][846]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.22.49:623][865]Cmd: TRANSACTION UNDO
+[2021.11.30-23.22.49:623][865]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.22.49:983][886]Cmd: TRANSACTION UNDO
+[2021.11.30-23.22.49:983][886]LogEditorTransaction: Undo Create Actors
+[2021.11.30-23.22.50:365][906]Cmd: TRANSACTION UNDO
+[2021.11.30-23.22.50:365][906]LogEditorTransaction: Undo Create Actors
+[2021.11.30-23.22.50:930][936]Cmd: TRANSACTION UNDO
+[2021.11.30-23.22.50:930][936]LogEditorTransaction: Undo Create Actors
+[2021.11.30-23.23.03:245][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button_Base_Glass_Case2)
+[2021.11.30-23.23.04:248][673]Cmd: DELETE
+[2021.11.30-23.23.04:248][673]Cmd: ACTOR DELETE
+[2021.11.30-23.23.04:261][673]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.23.04:272][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.11.30-23.23.04:276][673]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.11.30-23.23.04:958][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button_Base_Hinge2)
+[2021.11.30-23.23.05:508][743]Cmd: DELETE
+[2021.11.30-23.23.05:508][743]Cmd: ACTOR DELETE
+[2021.11.30-23.23.05:522][743]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.23.05:531][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.11.30-23.23.05:532][743]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.11.30-23.23.29:378][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button_Base_Cased_Button2)
+[2021.11.30-23.25.16:813][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk_Mat)
+[2021.11.30-23.25.27:662][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk)
+[2021.11.30-23.25.56:213][876]LogActorFactory: Actor Factory created Radio
+[2021.11.30-23.26.00:433][149]Cmd: TRANSACTION UNDO
+[2021.11.30-23.26.00:433][149]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.26.00:821][157]Cmd: TRANSACTION UNDO
+[2021.11.30-23.26.00:821][157]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.26.09:672][679]LogActorFactory: Actor Factory created Radio
+[2021.11.30-23.26.10:496][749]LogActorFactory: Actor Factory created Radio
+[2021.11.30-23.26.39:886][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button3)
+[2021.11.30-23.26.41:078][591]Cmd: DELETE
+[2021.11.30-23.26.41:078][591]Cmd: ACTOR DELETE
+[2021.11.30-23.26.41:092][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.26.41:103][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.11.30-23.26.41:107][591]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.11.30-23.26.41:805][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button_Base_Cased_Button3)
+[2021.11.30-23.26.42:018][646]Cmd: DELETE
+[2021.11.30-23.26.42:018][646]Cmd: ACTOR DELETE
+[2021.11.30-23.26.42:032][646]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.26.42:042][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.11.30-23.26.42:042][646]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.11.30-23.26.42:797][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button_Base_Cased_Button4)
+[2021.11.30-23.26.42:940][702]Cmd: DELETE
+[2021.11.30-23.26.42:940][702]Cmd: ACTOR DELETE
+[2021.11.30-23.26.42:954][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.26.42:963][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.11.30-23.26.42:963][702]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.11.30-23.26.43:564][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button4)
+[2021.11.30-23.26.43:722][749]Cmd: DELETE
+[2021.11.30-23.26.43:722][749]Cmd: ACTOR DELETE
+[2021.11.30-23.26.43:736][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.26.43:745][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.11.30-23.26.43:746][749]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.11.30-23.26.47:274][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio2)
+[2021.11.30-23.26.59:028][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.11.30-23.27.00:400][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio2)
+[2021.11.30-23.27.29:749][396]Cmd: TRANSACTION UNDO
+[2021.11.30-23.27.29:749][396]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.27.51:708][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio2)
+[2021.11.30-23.27.52:702][706]Cmd: DELETE
+[2021.11.30-23.27.52:703][706]Cmd: ACTOR DELETE
+[2021.11.30-23.27.52:716][706]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.30-23.27.52:727][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.11.30-23.27.52:731][706]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.11.30-23.28.01:829][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button_Base_Cased_Button2)
+[2021.11.30-23.28.09:981][777]Cmd: TRANSACTION UNDO
+[2021.11.30-23.28.09:981][777]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.28.10:275][783]Cmd: TRANSACTION UNDO
+[2021.11.30-23.28.10:275][783]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.28.10:428][785]Cmd: TRANSACTION UNDO
+[2021.11.30-23.28.10:428][785]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.28.10:656][798]Cmd: TRANSACTION UNDO
+[2021.11.30-23.28.10:656][798]LogEditorTransaction: Undo Delete Actors
+[2021.11.30-23.28.10:868][806]Cmd: TRANSACTION UNDO
+[2021.11.30-23.28.10:868][806]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.28.11:140][820]Cmd: TRANSACTION UNDO
+[2021.11.30-23.28.11:140][820]LogEditorTransaction: Undo Rotate Actors
+[2021.11.30-23.28.11:443][833]Cmd: TRANSACTION UNDO
+[2021.11.30-23.28.11:443][833]LogEditorTransaction: Undo Rotate Actors
+[2021.11.30-23.28.11:772][850]Cmd: TRANSACTION UNDO
+[2021.11.30-23.28.11:772][850]LogEditorTransaction: Undo Set Scale
+[2021.11.30-23.28.23:613][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Button_Base_Cased_Button2)
+[2021.11.30-23.29.35:468][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.11.30-23.29.35:894][479]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto97F91853D456F2BC5714C76B3A9022579.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto9.umap'
+[2021.11.30-23.29.35:899][479]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.443
+[2021.11.30-23.29.35:899][479]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.443
+[2021.11.30-23.29.40:641][663]LogActorFactory: Actor Factory created Shelf
+[2021.11.30-23.29.40:642][663]LogActorFactory: Actor Factory created Shelf_Bracket1
+[2021.11.30-23.29.40:643][663]LogActorFactory: Actor Factory created Shelf_Bracket2
+[2021.11.30-23.29.40:643][663]LogActorFactory: Actor Factory created Shelf_Wall_Mount1
+[2021.11.30-23.29.40:644][663]LogActorFactory: Actor Factory created Shelf_Wall_Mount2
+[2021.11.30-23.29.41:510][742]LogActorFactory: Actor Factory created Shelf
+[2021.11.30-23.29.41:523][742]LogActorFactory: Actor Factory created Shelf_Bracket1
+[2021.11.30-23.29.41:536][742]LogActorFactory: Actor Factory created Shelf_Bracket2
+[2021.11.30-23.29.41:549][742]LogActorFactory: Actor Factory created Shelf_Wall_Mount1
+[2021.11.30-23.29.41:565][742]LogActorFactory: Actor Factory created Shelf_Wall_Mount2
+[2021.11.30-23.30.13:330][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio2)
+[2021.11.30-23.30.29:732][560]Cmd: TRANSACTION UNDO
+[2021.11.30-23.30.29:732][560]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.30.30:025][567]Cmd: TRANSACTION UNDO
+[2021.11.30-23.30.30:025][567]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.30.30:374][580]Cmd: TRANSACTION UNDO
+[2021.11.30-23.30.30:374][580]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.30.30:859][612]Cmd: TRANSACTION UNDO
+[2021.11.30-23.30.30:859][612]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.30.31:258][636]Cmd: TRANSACTION UNDO
+[2021.11.30-23.30.31:258][636]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.30-23.30.32:003][677]Cmd: TRANSACTION UNDO
+[2021.11.30-23.30.32:003][677]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.30.45:926][471]Cmd: TRANSACTION UNDO
+[2021.11.30-23.30.45:926][471]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.30.46:480][484]Cmd: TRANSACTION UNDO
+[2021.11.30-23.30.46:480][484]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.31.02:034][390]Cmd: TRANSACTION UNDO
+[2021.11.30-23.31.02:034][390]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.31.02:522][399]Cmd: TRANSACTION UNDO
+[2021.11.30-23.31.02:522][399]LogEditorTransaction: Undo Move Actors
+[2021.11.30-23.31.34:046][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio2)
+[2021.11.30-23.33.26:442][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.11.30-23.33.27:814][586]LogSlate: Window 'Save Content' being destroyed
+[2021.11.30-23.33.27:838][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.30-23.33.27:848][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.11.30-23.33.28:127][586]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1C9DB44C24CCE1AF24E72FC98996572BD.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap'
+[2021.11.30-23.33.28:152][586]LogFileHelpers: Saving map 'Map_1' took 0.315
+[2021.11.30-23.33.28:157][586]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mouse9B673B404731A16D6BFF88997EA3635B.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Mouse/Mouse.uasset'
+[2021.11.30-23.33.28:168][586]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.30-23.33.28:168][586]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Mouse/Mouse.Mouse
+[2021.11.30-23.33.28:168][586]LogContentValidation: Display: Validating World /Game/Map/Map_1.Map_1

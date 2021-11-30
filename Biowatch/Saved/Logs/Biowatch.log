@@ -3011,3 +3011,1534 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.30-21.39.31:314][480]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/ZPotions/ZPotion1_ZPotion_1.ZPotion1_ZPotion_1
 [2021.11.30-21.39.31:314][480]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/ZPotions/ZCone_Potion_Cone_Potion_liquid.ZCone_Potion_Cone_Potion_liquid
 [2021.11.30-21.39.31:314][480]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/ZPotions/ZCone_Potion_Cone_Potion.ZCone_Potion_Cone_Potion
+[2021.11.30-21.41.37:275][531]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.30-21.41.37:308][531]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.30-21.41.42:685][802]LogContentBrowser: Attempting asset rename: NewFolder -> Escape_Pipe
+[2021.11.30-21.41.42:685][802]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.30-21.41.48:650][ 31]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Grate\Sewer_Grate.fbx)
+[2021.11.30-21.41.48:663][ 31]LogFbx: Loading FBX Scene from F:\Grate\Sewer_Grate.fbx
+[2021.11.30-21.41.48:677][ 31]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-21.41.52:412][ 31]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-21.41.52:435][ 31]LogFbx: Display: Triangulating static mesh Sewer_Grate
+[2021.11.30-21.41.52:438][ 31]LogStaticMesh: Building static mesh Sewer_Grate...
+[2021.11.30-21.41.52:446][ 31]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Escape_Pipe/Sewer_Grate.Sewer_Grate
+[2021.11.30-21.41.52:451][ 31]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.30-21.41.55:219][188]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.41.55:222][188]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.42.09:884][738]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Ashtray.fbx)
+[2021.11.30-21.42.09:912][738]LogFbx: Loading FBX Scene from F:\Ashtray.fbx
+[2021.11.30-21.42.09:927][738]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-21.42.11:197][738]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-21.42.11:232][738]LogFbx: Display: Triangulating static mesh Ashtray
+[2021.11.30-21.42.11:244][738]LogStaticMesh: Building static mesh Ashtray...
+[2021.11.30-21.42.11:252][738]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ashtray.Ashtray
+[2021.11.30-21.42.11:255][738]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.30-21.42.12:871][815]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.42.12:878][815]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.42.35:114][412]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.30-21.42.35:140][412]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.30-21.42.45:302][911]LogContentBrowser: Attempting asset rename: NewFolder -> Files
+[2021.11.30-21.42.45:303][911]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.30-21.43.02:640][181]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Reusable Props\Files\Files.fbx)
+[2021.11.30-21.43.02:673][181]LogFbx: Loading FBX Scene from F:\Reusable Props\Files\Files.fbx
+[2021.11.30-21.43.02:690][181]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-21.43.04:448][181]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-21.43.04:467][181]LogFbx: Display: Triangulating static mesh pCube58
+[2021.11.30-21.43.04:468][181]LogStaticMesh: Building static mesh Files...
+[2021.11.30-21.43.04:471][181]LogStaticMesh: Built static mesh [0.00s] /Game/Environment_Assets/Files/Files.Files
+[2021.11.30-21.43.04:474][181]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.30-21.43.06:561][301]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.43.06:564][301]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.43.18:238][624]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.30-21.43.18:275][624]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.30-21.43.29:990][299]LogContentBrowser: Attempting asset rename: NewFolder -> Desk_Phone
+[2021.11.30-21.43.29:990][299]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.30-21.43.35:754][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Phone\Phone_lambert21_BaseColor.jpg)
+[2021.11.30-21.43.35:757][515]LogTexture: Display: Building textures: Phone_lambert21_BaseColor (AutoDXT, 512X512)
+[2021.11.30-21.43.35:781][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Phone\Phone_lambert21_Normal.jpg)
+[2021.11.30-21.43.35:786][515]LogTexture: Display: Building textures: Phone_lambert21_Normal (BC5, 512X512)
+[2021.11.30-21.43.35:806][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Phone\Phone_lambert21_OcclusionRoughnessMetallic.jpg)
+[2021.11.30-21.43.35:810][515]LogTexture: Display: Building textures: Phone_lambert21_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.11.30-21.43.35:840][515]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Reusable Props\Phone\Phone.fbx)
+[2021.11.30-21.43.35:930][515]LogFbx: Loading FBX Scene from F:\Reusable Props\Phone\Phone.fbx
+[2021.11.30-21.43.35:961][515]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-21.43.37:271][515]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-21.43.37:286][515]LogFbx: Display: Triangulating static mesh Phone
+[2021.11.30-21.43.37:373][515]LogStaticMesh: Building static mesh Phone...
+[2021.11.30-21.43.37:414][515]LogStaticMesh: Built static mesh [0.04s] /Game/Environment_Assets/Desk_Phone/Phone.Phone
+[2021.11.30-21.43.37:418][515]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.30-21.43.39:462][634]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.43.39:467][634]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.43.41:801][830]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.11.30-21.43.41:823][830]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.11.30-21.43.52:601][456]LogContentBrowser: Attempting asset rename: NewMaterial -> Desk_Phone_Material
+[2021.11.30-21.43.52:601][456]LogContentBrowser: End creating deferred item NewMaterial
+[2021.11.30-21.43.54:495][563]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Environment_Assets/Desk_Phone/Desk_Phone_Material.Desk_Phone_Material
+[2021.11.30-21.43.54:496][563]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.43.54:632][563]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.43.54:643][563]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.43.54:657][563]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.43.54:657][563]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.43.54:657][563]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.43.54:657][563]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.43.55:566][585]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.43.55:752][593]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.43.55:934][599]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.43.56:126][605]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.43.56:413][616]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.43.57:429][683]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.43.57:434][683]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.43.57:446][683]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-21.43.57:446][683]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-21.43.57:446][683]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.30-21.43.57:446][683]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.30-21.43.57:451][683]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.43.57:466][683]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.43.57:475][683]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.43.57:490][683]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.43.57:494][683]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.43.57:507][683]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.43.57:515][683]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.43.57:529][683]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.43.57:534][683]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.43.57:537][683]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.43.58:184][700]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.11.30-21.43.58:410][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.30-21.43.58:547][714]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.11.30-21.43.58:583][716]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.30-21.43.59:099][735]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-21.43.59:187][738]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.11.30-21.43.59:267][741]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.11.30-21.43.59:563][751]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.30-21.43.59:925][763]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.30-21.44.00:206][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.44.00:281][779]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-21.44.00:372][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.30-21.44.00:411][786]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.44.00:655][797]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.30-21.44.00:655][797]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.30-21.44.00:655][797]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.30-21.44.00:655][797]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.30-21.44.00:676][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.44.00:992][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.30-21.44.01:024][808]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.44.01:136][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.44.01:374][821]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.30-21.44.01:672][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.30-21.44.01:672][834]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.30-21.44.01:708][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.30-21.44.03:907][978]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.44.03:916][978]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.44.03:921][978]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.44.03:922][978]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.44.03:922][978]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.44.03:922][978]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.44.04:717][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.44.04:961][  8]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.44.05:046][ 13]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.44.05:088][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.44.05:451][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.44.05:586][ 38]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.44.05:717][ 45]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.44.05:736][ 45]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.44.05:784][ 46]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.11.30-21.44.05:821][ 47]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.11.30-21.44.05:970][ 52]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.11.30-21.44.06:169][ 59]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.30-21.44.06:696][ 76]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.44.06:746][ 76]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.11.30-21.44.06:746][ 76]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.30-21.44.07:240][ 91]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.44.07:270][ 92]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.44.07:332][ 93]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-21.44.07:456][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.44.07:598][108]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-21.44.07:803][117]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.11.30-21.44.08:001][127]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.44.08:020][128]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.44.08:149][136]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.30-21.44.08:237][141]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.44.08:497][153]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.44.08:509][153]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.44.08:516][153]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.44.08:714][159]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.11.30-21.44.08:798][161]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.44.08:937][166]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.44.09:199][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.44.09:391][182]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Environment_Assets/Desk_Phone/Phone_lambert21_OcclusionRoughnessMetallic.Phone_lambert21_OcclusionRoughnessMetallic
+[2021.11.30-21.44.09:585][183]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.44.09:630][184]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.30-21.44.09:781][190]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.30-21.44.10:173][204]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.44.10:336][210]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.30-21.44.11:099][244]LogTexture: Display: Building textures: Phone_lambert21_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.11.30-21.44.11:137][244]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.11.30-21.44.11:137][244]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.11.30-21.44.11:137][244]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.44.11:137][244]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.30-21.44.11:137][244]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.30-21.44.11:137][244]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.44.12:641][316]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Phone_lambert21_OcclusionRoughne45476BDB44F7E9ABA447FEB8F220A74A.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Phone/Phone_lambert21_OcclusionRoughnessMetallic.uasset'
+[2021.11.30-21.44.12:653][316]AssetCheck: New page: Asset Save: Phone_lambert21_OcclusionRoughnessMetallic
+[2021.11.30-21.44.12:653][316]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Desk_Phone/Phone_lambert21_OcclusionRoughnessMetallic.Phone_lambert21_OcclusionRoughnessMetallic
+[2021.11.30-21.44.16:166][523]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.44.16:175][523]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.44.16:179][523]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.44.16:179][523]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.44.16:179][523]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.44.16:179][523]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.44.16:919][546]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.44.17:180][556]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.44.17:267][560]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.44.17:308][562]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.44.17:763][584]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.44.17:848][588]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.44.18:031][597]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.44.18:085][600]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.44.18:179][605]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.44.18:194][605]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.44.18:232][606]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.11.30-21.44.18:381][610]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.11.30-21.44.18:789][621]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.11.30-21.44.18:882][625]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.30-21.44.19:321][640]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.44.19:351][641]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.44.19:456][645]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.30-21.44.19:822][659]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.44.19:908][663]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.44.20:174][676]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.44.20:236][679]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.44.20:380][687]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.30-21.44.20:438][690]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.30-21.44.20:606][698]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.44.20:622][698]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.44.20:630][698]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.44.20:835][704]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.30-21.44.21:010][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.11.30-21.44.21:074][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.30-21.44.21:637][727]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.11.30-21.44.21:717][730]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.30-21.44.21:743][731]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.44.21:874][737]LogMaterialEditor: Saving and Compiling material Desk_Phone_Material
+[2021.11.30-21.44.22:563][737]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.30-21.44.22:563][737]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.30-21.44.22:563][737]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.30-21.44.22:563][737]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.30-21.44.22:579][737]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.44.22:651][737]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.11.30-21.44.22:651][737]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.30-21.44.22:653][737]LogMaterial: Display: Missing cached shader map for material Desk_Phone_Material, compiling. 
+[2021.11.30-21.44.22:713][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.11.30-21.44.22:723][737]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.30-21.44.23:289][737]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.11.30-21.44.23:289][737]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.11.30-21.44.23:289][737]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.11.30-21.44.23:289][737]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.11.30-21.44.23:849][737]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.11.30-21.44.23:849][737]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.11.30-21.44.23:849][737]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-21.44.23:849][737]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.11.30-21.44.24:408][737]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.11.30-21.44.24:408][737]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.11.30-21.44.24:408][737]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.11.30-21.44.24:408][737]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.30-21.44.24:553][737]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.11.30-21.44.24:553][737]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.44.24:553][737]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.44.24:555][737]TextureStreamingBuild: Display: Compiling optional shaders took 1.837 seconds.
+[2021.11.30-21.44.24:567][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.11.30-21.44.25:186][737]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.44.25:746][737]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.30-21.44.26:152][737]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Desk_Phone_MaterialE45308C74ADBBBE435F40281CE497E8E.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Phone/Desk_Phone_Material.uasset'
+[2021.11.30-21.44.26:190][737]AssetCheck: New page: Asset Save: Desk_Phone_Material
+[2021.11.30-21.44.26:190][737]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Desk_Phone/Desk_Phone_Material.Desk_Phone_Material
+[2021.11.30-21.44.26:196][737]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.30-21.44.26:196][737]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.30-21.44.26:196][737]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.44.26:196][737]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.30-21.44.26:196][737]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.30-21.44.26:196][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.44.27:617][810]LogSlate: Window 'Desk_Phone_Material' being destroyed
+[2021.11.30-21.44.27:641][810]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-21.44.27:641][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-21.45.22:594][567]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.30-21.45.22:625][567]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.30-21.45.29:495][904]LogContentBrowser: Attempting asset rename: NewFolder -> Calendar
+[2021.11.30-21.45.29:496][904]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.30-21.45.37:912][ 96]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Calender_1011_Normal.png)
+[2021.11.30-21.45.38:138][ 96]LogTexture: Display: Building textures: Calender_1011_Normal (BC5, 2048X2048)
+[2021.11.30-21.45.38:326][ 96]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Calender_1011_OcclusionRoughnessMetallic.png)
+[2021.11.30-21.45.38:400][ 96]LogTexture: Display: Building textures: Calender_1011_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.11.30-21.45.38:871][ 96]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Reusable Props\Calender.fbx)
+[2021.11.30-21.45.38:877][ 96]LogFbx: Loading FBX Scene from F:\Reusable Props\Calender.fbx
+[2021.11.30-21.45.38:885][ 96]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-21.45.40:955][ 96]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-21.45.40:973][ 96]LogFbx: Display: Triangulating static mesh Calendar
+[2021.11.30-21.45.40:995][ 96]LogStaticMesh: Building static mesh Calender...
+[2021.11.30-21.45.41:013][ 96]LogStaticMesh: Built static mesh [0.02s] /Game/Environment_Assets/Calendar/Calender.Calender
+[2021.11.30-21.45.41:017][ 96]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.30-21.45.41:085][ 96]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Calender_1011_BaseColor.png)
+[2021.11.30-21.45.41:175][ 96]LogTexture: Display: Building textures: Calender_1011_BaseColor (AutoDXT, 2048X2048)
+[2021.11.30-21.45.43:384][190]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.45.43:388][190]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.45.45:525][381]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.11.30-21.45.45:550][381]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.11.30-21.45.53:235][843]LogContentBrowser: Attempting asset rename: NewMaterial -> Calendar_Material
+[2021.11.30-21.45.53:235][843]LogContentBrowser: End creating deferred item NewMaterial
+[2021.11.30-21.45.54:812][935]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Environment_Assets/Calendar/Calendar_Material.Calendar_Material
+[2021.11.30-21.45.54:813][935]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.45.54:892][935]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.45.54:897][935]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.45.54:906][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.45.54:906][935]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.45.54:906][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.45.54:906][935]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.45.55:745][959]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.45.56:029][969]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.45.56:136][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.45.56:319][981]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.45.56:684][993]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.45.57:667][ 58]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.45.57:672][ 58]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.45.57:679][ 58]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.45.57:679][ 58]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.45.57:679][ 58]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.45.57:679][ 58]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.45.57:682][ 58]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.45.57:696][ 58]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.45.57:705][ 58]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.45.57:720][ 58]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.45.57:722][ 58]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.45.57:736][ 58]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.45.57:745][ 58]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.45.57:760][ 58]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.45.57:764][ 58]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.45.57:768][ 58]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.45.58:231][ 69]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.11.30-21.45.58:471][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.30-21.45.58:624][ 84]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.11.30-21.45.58:675][ 86]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.30-21.45.59:145][103]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-21.45.59:201][105]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.11.30-21.45.59:307][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.11.30-21.45.59:555][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.30-21.45.59:755][126]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.30-21.46.00:159][140]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.46.00:272][144]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-21.46.00:356][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.30-21.46.00:457][150]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.46.00:502][151]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.30-21.46.00:502][151]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.30-21.46.00:502][151]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.30-21.46.00:502][151]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.30-21.46.00:851][162]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.46.01:073][170]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.30-21.46.01:073][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.46.01:073][170]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.46.01:264][180]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.30-21.46.01:738][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.30-21.46.01:824][199]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.46.01:824][199]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.46.04:578][381]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.46.04:591][381]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.46.04:591][381]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.46.04:591][381]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.46.04:591][381]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.46.04:593][381]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.46.05:324][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.46.05:480][412]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.46.05:577][417]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.46.05:611][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.46.05:976][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.46.06:120][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.46.06:293][452]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.46.06:314][453]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.46.06:407][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.46.06:539][465]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.46.06:546][465]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.46.06:556][465]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.46.06:992][478]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.30-21.46.07:019][479]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.11.30-21.46.07:045][480]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.30-21.46.07:629][497]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.46.07:663][499]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.46.07:850][506]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.30-21.46.07:884][507]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.46.07:992][510]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.11.30-21.46.08:195][519]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.46.08:458][532]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-21.46.08:477][533]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.30-21.46.08:597][540]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.46.08:744][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.46.08:962][557]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.46.09:039][561]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.30-21.46.09:370][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.11.30-21.46.09:388][579]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.11.30-21.46.09:417][581]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.30-21.46.09:423][581]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.46.09:438][581]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.46.09:442][581]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.46.09:879][596]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.11.30-21.46.10:002][602]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.30-21.46.10:157][607]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Environment_Assets/Calendar/Calender_1011_OcclusionRoughnessMetallic.Calender_1011_OcclusionRoughnessMetallic
+[2021.11.30-21.46.10:347][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.46.10:380][609]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.11.30-21.46.10:834][626]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.30-21.46.10:916][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.46.11:012][633]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.46.11:487][651]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.30-21.46.11:613][656]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.46.12:108][679]LogTexture: Display: Building textures: Calender_1011_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.11.30-21.46.12:605][679]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.11.30-21.46.12:605][679]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.11.30-21.46.12:605][679]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.46.12:605][679]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.30-21.46.12:605][679]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.30-21.46.12:605][679]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.46.13:848][737]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Calender_1011_OcclusionRoughnessE15A36DB44641091AB500486C0F1FB06.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Calendar/Calender_1011_OcclusionRoughnessMetallic.uasset'
+[2021.11.30-21.46.13:864][737]AssetCheck: New page: Asset Save: Calender_1011_OcclusionRoughnessMetallic
+[2021.11.30-21.46.13:864][737]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Calendar/Calender_1011_OcclusionRoughnessMetallic.Calender_1011_OcclusionRoughnessMetallic
+[2021.11.30-21.46.17:433][959]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.46.17:444][959]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.46.17:475][960]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-21.46.17:475][960]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-21.46.17:475][960]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.30-21.46.17:475][960]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.30-21.46.18:155][980]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.46.18:322][988]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.46.18:407][992]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.46.18:426][993]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.46.18:820][  8]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.46.18:885][ 11]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.46.19:093][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.46.19:131][ 25]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.46.19:220][ 30]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.46.19:233][ 30]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.46.19:267][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.11.30-21.46.19:373][ 34]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.11.30-21.46.19:879][ 51]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.11.30-21.46.19:907][ 52]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.30-21.46.20:352][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.46.20:410][ 71]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.46.20:466][ 74]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.30-21.46.20:741][ 87]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.46.20:915][ 95]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.46.21:168][107]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.46.21:238][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.46.21:393][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.30-21.46.21:428][122]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.30-21.46.21:677][133]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.46.21:684][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.46.21:690][133]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.46.21:866][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.30-21.46.21:959][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.11.30-21.46.22:074][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.30-21.46.22:638][164]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.11.30-21.46.22:767][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.30-21.46.22:767][170]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.46.22:926][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.30-21.46.23:251][195]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.30-21.46.23:413][204]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.30-21.46.23:508][209]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.30-21.46.23:583][213]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.30-21.46.23:758][219]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.30-21.46.23:808][220]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.30-21.46.23:808][220]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.30-21.46.23:808][220]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.46.23:808][220]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.30-21.46.23:808][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.30-21.46.23:808][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.46.24:452][246]LogMaterialEditor: Saving and Compiling material Calendar_Material
+[2021.11.30-21.46.24:913][246]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.46.24:949][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.46.24:949][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.46.24:949][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.46.24:949][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.46.24:969][246]LogMaterial: Display: Missing cached shader map for material Calendar_Material, compiling. 
+[2021.11.30-21.46.25:018][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.11.30-21.46.25:029][246]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.30-21.46.25:596][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.11.30-21.46.25:596][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.11.30-21.46.25:596][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-21.46.25:596][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.11.30-21.46.26:156][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.11.30-21.46.26:156][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.30-21.46.26:156][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-21.46.26:443][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.46.26:443][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.46.26:443][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.46.26:443][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.46.26:446][246]TextureStreamingBuild: Display: Compiling optional shaders took 1.423 seconds.
+[2021.11.30-21.46.26:460][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.11.30-21.46.27:066][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.46.27:626][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.30-21.46.28:022][246]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Calendar_MaterialCEBF3E45476837BB13B438A79E059454.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Calendar/Calendar_Material.uasset'
+[2021.11.30-21.46.28:057][246]AssetCheck: New page: Asset Save: Calendar_Material
+[2021.11.30-21.46.28:057][246]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Calendar/Calendar_Material.Calendar_Material
+[2021.11.30-21.46.28:063][246]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.30-21.46.28:063][246]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.30-21.46.28:063][246]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.46.28:063][246]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.30-21.46.28:063][246]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.30-21.46.28:063][246]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.46.34:853][579]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.11.30-21.46.34:882][579]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.11.30-21.46.45:579][749]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2021.11.30-21.46.45:580][749]LogContentBrowser: End creating deferred item NewMaterial
+[2021.11.30-21.46.50:577][979]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.30-21.46.50:614][979]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.30-21.47.02:349][789]LogContentBrowser: Attempting asset rename: NewFolder -> Desk_Mat
+[2021.11.30-21.47.02:350][789]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.30-21.47.08:817][195]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/NewMaterialAFAAD8884B06B754647FB09A812D3FCF.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Mat/NewMaterial.uasset'
+[2021.11.30-21.47.08:861][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.11.30-21.47.08:874][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.30-21.47.08:881][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.11.30-21.47.09:001][195]AssetCheck: New page: Asset Save: NewMaterial
+[2021.11.30-21.47.09:001][195]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Desk_Mat/NewMaterial.NewMaterial
+[2021.11.30-21.47.18:696][767]LogContentBrowser: Attempting asset rename: NewMaterial -> Desk_Mat_Material
+[2021.11.30-21.47.18:742][767]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Desk_Mat_MaterialC4CFC2F24704CDCB0CC1B4B764759637.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Mat/Desk_Mat_Material.uasset'
+[2021.11.30-21.47.18:786][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.30-21.47.18:800][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.11.30-21.47.18:807][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.11.30-21.47.18:920][767]AssetCheck: New page: Asset Save: Desk_Mat_Material
+[2021.11.30-21.47.18:920][767]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Desk_Mat/Desk_Mat_Material.Desk_Mat_Material
+[2021.11.30-21.47.20:214][838]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Environment_Assets/Desk_Mat/Desk_Mat_Material.Desk_Mat_Material
+[2021.11.30-21.47.20:215][838]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.47.20:266][838]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.47.20:272][838]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.47.20:285][838]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.47.20:285][838]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.47.20:285][838]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.47.20:285][838]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.47.21:018][858]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.47.21:223][866]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.47.21:382][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.47.21:459][875]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.47.21:707][881]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.47.25:379][882]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.30-21.47.25:379][882]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.30-21.47.25:379][882]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.30-21.47.25:379][882]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.30-21.47.32:261][979]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Desk Mat_1001_Normal.png)
+[2021.11.30-21.47.32:444][979]LogTexture: Display: Building textures: Desk_Mat_1001_Normal (BC5, 2048X2048)
+[2021.11.30-21.47.32:633][979]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Desk Mat_1001_OcclusionRoughnessMetallic.png)
+[2021.11.30-21.47.32:736][979]LogTexture: Display: Building textures: Desk_Mat_1001_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.11.30-21.47.33:170][979]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Desk Mat_1001_BaseColor.png)
+[2021.11.30-21.47.33:298][979]LogTexture: Display: Building textures: Desk_Mat_1001_BaseColor (AutoDXT, 2048X2048)
+[2021.11.30-21.47.42:315][ 41]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.47.42:320][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.47.42:331][ 41]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-21.47.42:331][ 41]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-21.47.42:331][ 41]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.30-21.47.42:331][ 41]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.30-21.47.42:332][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.47.42:346][ 41]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.47.42:355][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.47.42:365][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.47.42:369][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.47.42:380][ 41]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.47.42:387][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.47.42:396][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.47.42:399][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.47.42:402][ 41]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.47.43:138][ 63]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.11.30-21.47.43:138][ 63]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.30-21.47.43:235][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.11.30-21.47.43:259][ 69]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.30-21.47.43:707][ 84]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-21.47.43:816][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.11.30-21.47.43:949][ 93]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.11.30-21.47.44:048][ 95]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.30-21.47.44:336][105]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.11.30-21.47.44:505][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.47.44:626][120]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.30-21.47.44:662][122]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.11.30-21.47.44:713][125]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.11.30-21.47.44:728][125]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.30-21.47.44:728][125]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.30-21.47.44:728][125]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.30-21.47.44:728][125]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.30-21.47.44:968][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.47.45:269][143]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.30-21.47.45:298][144]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.11.30-21.47.45:349][146]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.30-21.47.45:494][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.30-21.47.45:924][166]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.47.45:950][167]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.30-21.47.45:975][168]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.30-21.47.47:036][251]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.47.47:043][251]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.47.47:043][251]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.47.47:043][251]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.47.47:043][251]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.47.47:045][251]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.47.47:630][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.47.47:786][277]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.47.47:860][280]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.47.47:895][282]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.47.48:207][297]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.47.48:295][302]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.47.48:456][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.47.48:476][312]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.47.48:586][319]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.47.48:657][322]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.30-21.47.48:657][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.30-21.47.48:657][322]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.47.48:657][322]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.30-21.47.48:657][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.30-21.47.48:657][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.47.49:478][355]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.47.49:505][356]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.47.49:505][356]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.47.49:505][356]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.47.49:505][356]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.47.49:915][376]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.47.50:045][384]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.47.50:149][390]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.47.50:149][390]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.47.50:435][405]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.47.51:113][462]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.47.51:124][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.47.51:127][462]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.47.51:158][463]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.47.51:158][463]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.47.51:158][463]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.47.51:158][463]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.47.51:697][479]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.47.51:896][486]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.47.51:996][491]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.47.52:014][492]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.47.52:191][498]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_OcclusionRoughnessMetallic.Desk_Mat_1001_OcclusionRoughnessMetallic
+[2021.11.30-21.47.52:374][499]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.47.52:788][517]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.30-21.47.52:788][517]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.30-21.47.52:788][517]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.47.52:788][517]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.30-21.47.52:788][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.30-21.47.52:788][517]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.47.53:871][586]LogTexture: Display: Building textures: Desk_Mat_1001_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.11.30-21.47.56:140][681]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Desk_Mat_1001_OcclusionRoughness836F1D0B43607F20327B37B9F683C33A.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Mat/Desk_Mat_1001_OcclusionRoughnessMetallic.uasset'
+[2021.11.30-21.47.56:149][681]AssetCheck: New page: Asset Save: Desk_Mat_1001_OcclusionRoughnessMetallic
+[2021.11.30-21.47.56:149][681]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_OcclusionRoughnessMetallic.Desk_Mat_1001_OcclusionRoughnessMetallic
+[2021.11.30-21.48.02:048][110]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.48.02:059][110]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.48.02:060][110]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.48.02:060][110]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.48.02:060][110]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.48.02:061][110]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.48.02:620][128]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.48.02:791][135]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.48.02:878][140]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.48.02:878][140]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.48.03:202][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.48.03:266][160]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.48.03:448][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.48.03:503][173]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.48.03:575][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.48.03:795][188]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.48.03:803][188]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.48.03:809][188]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.48.03:934][192]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.30-21.48.04:010][195]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.11.30-21.48.04:036][196]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.30-21.48.04:581][215]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.11.30-21.48.04:726][221]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.11.30-21.48.04:726][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.30-21.48.04:872][227]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.30-21.48.05:157][241]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.48.05:292][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.30-21.48.05:358][252]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.48.05:405][255]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.30-21.48.05:507][261]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.30-21.48.05:635][267]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.48.05:651][267]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.48.05:692][268]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.11.30-21.48.05:900][275]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.30-21.48.05:982][278]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-21.48.06:032][280]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.30-21.48.06:479][296]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.11.30-21.48.06:511][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.48.06:573][302]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.30-21.48.06:722][310]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.11.30-21.48.06:931][320]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.11.30-21.48.07:149][332]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.48.07:184][334]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.48.07:264][339]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.30-21.48.07:301][341]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.30-21.48.08:244][417]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.48.08:251][417]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.48.08:251][417]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.48.08:251][417]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.48.08:251][417]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.48.08:252][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.48.08:842][437]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.48.09:023][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.48.09:124][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.48.09:141][449]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.48.09:225][454]LogMaterialEditor: Saving and Compiling material Desk_Mat_Material
+[2021.11.30-21.48.09:851][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.48.09:851][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.48.09:851][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.48.09:851][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.48.09:851][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.48.09:864][454]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.48.09:891][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.48.09:923][454]LogMaterial: Display: Missing cached shader map for material Desk_Mat_Material, compiling. 
+[2021.11.30-21.48.09:976][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.11.30-21.48.09:990][454]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.30-21.48.10:553][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.11.30-21.48.10:553][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.11.30-21.48.10:553][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.30-21.48.10:553][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.11.30-21.48.10:553][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.11.30-21.48.10:553][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.30-21.48.11:113][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.11.30-21.48.11:113][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.11.30-21.48.11:113][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.30-21.48.11:113][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-21.48.11:113][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-21.48.11:312][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.48.11:312][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.48.11:312][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.48.11:315][454]TextureStreamingBuild: Display: Compiling optional shaders took 1.333 seconds.
+[2021.11.30-21.48.11:326][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.30-21.48.11:936][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.48.12:496][454]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.30-21.48.12:771][454]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Desk_Mat_Material2CAA8A574690096E5C53C8AA5C6FD74F.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Mat/Desk_Mat_Material.uasset'
+[2021.11.30-21.48.12:808][454]AssetCheck: New page: Asset Save: Desk_Mat_Material
+[2021.11.30-21.48.12:808][454]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Desk_Mat/Desk_Mat_Material.Desk_Mat_Material
+[2021.11.30-21.48.12:815][454]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.30-21.48.12:815][454]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.30-21.48.12:815][454]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.48.12:815][454]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.30-21.48.12:815][454]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.30-21.48.12:815][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.48.14:468][548]LogSlate: Window 'Desk_Mat_Material' being destroyed
+[2021.11.30-21.48.14:471][548]LogSlate: Window 'Desk_Mat_Material' being destroyed
+[2021.11.30-21.48.14:492][548]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-21.48.14:492][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-21.48.14:524][548]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-21.48.14:525][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-21.48.19:490][673]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Reusable Props\Desk Mat.fbx)
+[2021.11.30-21.48.19:497][673]LogFbx: Loading FBX Scene from F:\Reusable Props\Desk Mat.fbx
+[2021.11.30-21.48.19:502][673]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-21.48.22:875][673]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-21.48.22:894][673]LogFbx: Display: Triangulating static mesh pCube1
+[2021.11.30-21.48.22:900][673]LogStaticMesh: Building static mesh Desk_Mat...
+[2021.11.30-21.48.22:906][673]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Desk_Mat/Desk_Mat.Desk_Mat
+[2021.11.30-21.48.22:909][673]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.30-21.48.24:673][779]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.48.24:675][779]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.49.27:451][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.30-21.49.27:455][753]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.014
+[2021.11.30-21.49.27:456][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Escape_Pipe/Sewer_Grate] ([1] browsable assets)...
+[2021.11.30-21.49.27:465][753]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Escape_Pipe/Sewer_Grate.Sewer_Grate]
+[2021.11.30-21.49.27:466][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Escape_Pipe/Sewer_Grate]
+[2021.11.30-21.49.27:472][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Sewer_Grate_Auto2166A627C4887523399E58C832AA7A5D7.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Escape_Pipe/Sewer_Grate_Auto2.uasset'
+[2021.11.30-21.49.27:473][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Ashtray] ([1] browsable assets)...
+[2021.11.30-21.49.27:482][753]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Ashtray.Ashtray]
+[2021.11.30-21.49.27:482][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Ashtray]
+[2021.11.30-21.49.27:488][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Ashtray_Auto26C59E39342567A3F0AA201B09AD71A07.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Ashtray_Auto2.uasset'
+[2021.11.30-21.49.27:489][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Files/Files] ([1] browsable assets)...
+[2021.11.30-21.49.27:498][753]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Files/Files.Files]
+[2021.11.30-21.49.27:498][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Files/Files]
+[2021.11.30-21.49.27:504][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Files_Auto2095A4FEB4A594CE43A51E4A0A517E9A2.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Files/Files_Auto2.uasset'
+[2021.11.30-21.49.27:505][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Desk_Phone/Phone_lambert21_BaseColor] ([1] browsable assets)...
+[2021.11.30-21.49.27:509][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment_Assets/Desk_Phone/Phone_lambert21_BaseColor.Phone_lambert21_BaseColor]
+[2021.11.30-21.49.27:509][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Desk_Phone/Phone_lambert21_BaseColor]
+[2021.11.30-21.49.27:511][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Phone_lambert21_BaseColor_Auto211D77C6F43C2CBBBB11AEA99861075F1.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Desk_Phone/Phone_lambert21_BaseColor_Auto2.uasset'
+[2021.11.30-21.49.27:512][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Desk_Phone/Phone_lambert21_Normal] ([1] browsable assets)...
+[2021.11.30-21.49.27:517][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment_Assets/Desk_Phone/Phone_lambert21_Normal.Phone_lambert21_Normal]
+[2021.11.30-21.49.27:517][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Desk_Phone/Phone_lambert21_Normal]
+[2021.11.30-21.49.27:520][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Phone_lambert21_Normal_Auto2E75AF696459E3B1E453A338D998A5B93.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Desk_Phone/Phone_lambert21_Normal_Auto2.uasset'
+[2021.11.30-21.49.27:520][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Desk_Phone/Phone] ([1] browsable assets)...
+[2021.11.30-21.49.27:529][753]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Desk_Phone/Phone.Phone]
+[2021.11.30-21.49.27:529][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Desk_Phone/Phone]
+[2021.11.30-21.49.27:542][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Phone_Auto22F860B194F16760C01EAB4A448CC9485.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Desk_Phone/Phone_Auto2.uasset'
+[2021.11.30-21.49.27:543][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Calendar/Calender_1011_Normal] ([1] browsable assets)...
+[2021.11.30-21.49.27:548][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment_Assets/Calendar/Calender_1011_Normal.Calender_1011_Normal]
+[2021.11.30-21.49.27:548][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Calendar/Calender_1011_Normal]
+[2021.11.30-21.49.27:557][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Calender_1011_Normal_Auto2BFCA90254BB2B1D89026BEBA45AD8479.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Calendar/Calender_1011_Normal_Auto2.uasset'
+[2021.11.30-21.49.27:558][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Calendar/Calender] ([1] browsable assets)...
+[2021.11.30-21.49.27:567][753]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Calendar/Calender.Calender]
+[2021.11.30-21.49.27:567][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Calendar/Calender]
+[2021.11.30-21.49.27:574][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Calender_Auto2969018F644E5B3BE9515C6815A4720C7.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Calendar/Calender_Auto2.uasset'
+[2021.11.30-21.49.27:575][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Calendar/Calender_1011_BaseColor] ([1] browsable assets)...
+[2021.11.30-21.49.27:580][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment_Assets/Calendar/Calender_1011_BaseColor.Calender_1011_BaseColor]
+[2021.11.30-21.49.27:580][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Calendar/Calender_1011_BaseColor]
+[2021.11.30-21.49.27:588][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Calender_1011_BaseColor_Auto2066F33BF43FE88BFA542A7A78D80849D.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Calendar/Calender_1011_BaseColor_Auto2.uasset'
+[2021.11.30-21.49.27:590][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_Normal] ([1] browsable assets)...
+[2021.11.30-21.49.27:595][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_Normal.Desk_Mat_1001_Normal]
+[2021.11.30-21.49.27:595][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_Normal]
+[2021.11.30-21.49.27:605][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Desk_Mat_1001_Normal_Auto2DAA7AD02486E11CB70F3799FB21CCB83.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_Normal_Auto2.uasset'
+[2021.11.30-21.49.27:606][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_BaseColor] ([1] browsable assets)...
+[2021.11.30-21.49.27:610][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_BaseColor.Desk_Mat_1001_BaseColor]
+[2021.11.30-21.49.27:610][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_BaseColor]
+[2021.11.30-21.49.27:619][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Desk_Mat_1001_BaseColor_Auto2336CE5AE4AC942436E2C8FB8FE5BA885.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_BaseColor_Auto2.uasset'
+[2021.11.30-21.49.27:620][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Desk_Mat/Desk_Mat] ([1] browsable assets)...
+[2021.11.30-21.49.27:629][753]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Desk_Mat/Desk_Mat.Desk_Mat]
+[2021.11.30-21.49.27:629][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Desk_Mat/Desk_Mat]
+[2021.11.30-21.49.27:635][753]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Desk_Mat_Auto28ED5449A45CEE186B984DAB4E254EE17.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Desk_Mat/Desk_Mat_Auto2.uasset'
+[2021.11.30-21.49.27:636][753]LogFileHelpers: Auto-saving content packages took 0.181
+[2021.11.30-21.55.25:249][642]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Reusable Props\Paper Tray.fbx)
+[2021.11.30-21.55.25:258][642]LogFbx: Loading FBX Scene from F:\Reusable Props\Paper Tray.fbx
+[2021.11.30-21.55.25:286][642]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-21.55.26:840][642]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-21.55.26:857][642]LogFbx: Display: Triangulating static mesh Paper_Tray
+[2021.11.30-21.55.27:449][642]LogStaticMesh: Building static mesh Paper_Tray...
+[2021.11.30-21.55.27:930][642]LogStaticMesh: Built static mesh [0.48s] /Game/Environment_Assets/Paper_Tray.Paper_Tray
+[2021.11.30-21.55.27:974][642]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.30-21.55.30:910][794]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.55.30:913][794]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.55.42:461][394]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Reusable Props\Pin Board.fbx)
+[2021.11.30-21.55.42:468][394]LogFbx: Loading FBX Scene from F:\Reusable Props\Pin Board.fbx
+[2021.11.30-21.55.42:506][394]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-21.55.43:964][394]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-21.55.43:978][394]LogFbx: Display: Triangulating static mesh pCylinder79
+[2021.11.30-21.55.44:403][394]LogStaticMesh: Building static mesh Pin_Board...
+[2021.11.30-21.55.44:683][394]LogStaticMesh: Built static mesh [0.28s] /Game/Environment_Assets/Pin_Board.Pin_Board
+[2021.11.30-21.55.44:690][394]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.30-21.55.46:475][482]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.55.46:478][482]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.55.49:290][656]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.30-21.55.49:325][656]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.30-21.55.51:737][783]LogContentBrowser: Attempting asset rename: NewFolder -> Radio
+[2021.11.30-21.55.51:738][783]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.30-21.55.58:134][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Radio_1001_Normal.png)
+[2021.11.30-21.55.58:229][ 27]LogTexture: Display: Building textures: Radio_1001_Normal (BC5, 2048X2048)
+[2021.11.30-21.55.58:414][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Radio_1001_OcclusionRoughnessMetallic.png)
+[2021.11.30-21.55.58:476][ 27]LogTexture: Display: Building textures: Radio_1001_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.11.30-21.55.58:649][ 27]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Reusable Props\Radio.fbx)
+[2021.11.30-21.55.58:705][ 27]LogFbx: Loading FBX Scene from F:\Reusable Props\Radio.fbx
+[2021.11.30-21.55.58:802][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-21.56.01:093][ 27]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-21.56.01:117][ 27]LogFbx: Display: Triangulating static mesh pCylinder79
+[2021.11.30-21.56.01:370][ 27]LogStaticMesh: Building static mesh Radio...
+[2021.11.30-21.56.01:452][ 27]LogStaticMesh: Built static mesh [0.08s] /Game/Environment_Assets/Radio/Radio.Radio
+[2021.11.30-21.56.01:471][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Reusable Props\Radio_1001_BaseColor.png)
+[2021.11.30-21.56.01:609][ 27]LogTexture: Display: Building textures: Radio_1001_BaseColor (AutoDXT, 2048X2048)
+[2021.11.30-21.56.05:637][326]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.11.30-21.56.05:658][326]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.11.30-21.56.11:987][819]LogContentBrowser: Attempting asset rename: NewMaterial -> Radio_Material
+[2021.11.30-21.56.11:987][819]LogContentBrowser: End creating deferred item NewMaterial
+[2021.11.30-21.56.13:805][937]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Environment_Assets/Radio/Radio_Material.Radio_Material
+[2021.11.30-21.56.13:806][937]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.13:883][937]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.13:889][937]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.13:905][937]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.56.13:905][937]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.13:905][937]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.56.13:905][937]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.56.14:610][954]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.56.14:813][962]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.56.14:914][967]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.56.14:964][969]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.56.15:347][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.56.16:327][ 51]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.16:333][ 51]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.56.16:333][ 51]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.16:333][ 51]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.56.16:333][ 51]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.56.16:333][ 51]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.56.16:348][ 51]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.56.16:358][ 51]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.16:365][ 51]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.56.16:373][ 51]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.56.16:376][ 51]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.56.16:389][ 51]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.16:395][ 51]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.56.16:404][ 51]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.56.16:408][ 51]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.56.16:412][ 51]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.56.16:798][ 61]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.11.30-21.56.16:978][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.30-21.56.17:109][ 73]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.11.30-21.56.17:162][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.30-21.56.17:538][ 92]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-21.56.17:554][ 93]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.11.30-21.56.17:583][ 94]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.11.30-21.56.17:893][105]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.30-21.56.18:148][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.30-21.56.18:484][125]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-21.56.18:484][125]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.11.30-21.56.18:614][130]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.30-21.56.18:674][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.56.18:682][132]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.30-21.56.18:682][132]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.30-21.56.18:682][132]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.30-21.56.18:682][132]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.30-21.56.19:024][144]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.19:093][148]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.56.19:126][150]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.56.19:179][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.56.19:473][163]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.56.19:705][171]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.11.30-21.56.19:733][172]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.56.19:793][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.30-21.56.20:734][246]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.20:746][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.56.20:746][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.20:746][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.56.20:746][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.56.20:748][246]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.56.21:306][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.56.21:496][274]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.21:563][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.56.21:582][278]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.56.21:916][294]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.56.21:988][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.56.22:222][308]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.56.22:253][309]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.56.22:387][314]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.56.22:395][314]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.30-21.56.22:395][314]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.30-21.56.22:395][314]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.56.22:395][314]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.30-21.56.22:395][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.30-21.56.22:395][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.56.24:801][485]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.24:814][485]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.56.24:814][485]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.24:814][485]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.56.24:814][485]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.56.24:815][485]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.56.25:396][502]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.56.25:526][509]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.25:632][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.56.25:650][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.56.25:947][530]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.56.26:072][537]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.56.26:230][546]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.56.26:247][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.56.26:358][552]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.56.26:398][553]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.11.30-21.56.26:398][553]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.11.30-21.56.26:399][553]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.56.26:399][553]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.30-21.56.26:399][553]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.30-21.56.26:399][553]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.56.28:707][707]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.28:731][708]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.56.28:731][708]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.28:731][708]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.56.28:731][708]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.56.29:141][728]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.56.29:274][736]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.56.29:359][741]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.56.29:411][744]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.56.29:689][758]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.56.30:084][785]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.30:096][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.56.30:099][785]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.30:130][786]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.56.30:130][786]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.30:130][786]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.56.30:130][786]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.56.30:721][805]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.56.30:853][813]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.56.30:990][818]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.56.31:032][819]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.56.31:035][819]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Environment_Assets/Radio/Radio_1001_OcclusionRoughnessMetallic.Radio_1001_OcclusionRoughnessMetallic
+[2021.11.30-21.56.31:317][823]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.56.31:833][845]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.11.30-21.56.31:833][845]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.11.30-21.56.31:833][845]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.56.31:833][845]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.30-21.56.31:833][845]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.30-21.56.31:833][845]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.56.32:973][915]LogTexture: Display: Building textures: Radio_1001_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.11.30-21.56.34:438][983]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Radio_1001_OcclusionRoughnessMetC33E2829409696355B636993ADD60C90.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Radio/Radio_1001_OcclusionRoughnessMetallic.uasset'
+[2021.11.30-21.56.34:448][983]AssetCheck: New page: Asset Save: Radio_1001_OcclusionRoughnessMetallic
+[2021.11.30-21.56.34:448][983]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Radio/Radio_1001_OcclusionRoughnessMetallic.Radio_1001_OcclusionRoughnessMetallic
+[2021.11.30-21.56.37:394][166]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.37:405][166]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.56.37:405][166]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.37:405][166]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.56.37:405][166]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.56.37:407][166]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.56.37:967][182]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.56.38:152][189]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.38:261][193]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.56.38:261][193]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.56.38:623][205]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.56.38:747][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.56.38:864][214]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.56.38:900][215]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.56.38:989][221]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.56.39:856][289]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.39:865][289]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.56.39:929][289]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-21.56.39:929][289]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-21.56.39:929][289]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.30-21.56.39:929][289]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.30-21.56.40:446][305]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.56.40:589][312]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.40:670][315]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.56.40:726][317]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.56.41:151][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.56.41:299][335]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.56.41:425][341]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.56.41:425][341]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.56.41:549][348]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.56.42:336][409]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.42:349][409]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.56.42:352][409]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-21.56.42:352][409]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-21.56.42:352][409]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.30-21.56.42:352][409]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.30-21.56.42:897][425]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.56.43:070][431]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.56.43:151][434]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.56.43:204][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.56.43:417][445]LogMaterialEditor: Saving and Compiling material Radio_Material
+[2021.11.30-21.56.44:061][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.56.44:061][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.56.44:061][445]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.56.44:061][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.56.44:061][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.56.44:074][445]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.44:107][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.56.44:144][445]LogMaterial: Display: Missing cached shader map for material Radio_Material, compiling. 
+[2021.11.30-21.56.44:160][445]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.30-21.56.44:194][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.11.30-21.56.44:200][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.11.30-21.56.44:207][445]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.30-21.56.44:773][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.30-21.56.44:773][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.11.30-21.56.44:773][445]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.30-21.56.44:773][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.11.30-21.56.44:773][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.11.30-21.56.45:333][445]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.11.30-21.56.45:333][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.11.30-21.56.45:333][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.11.30-21.56.45:333][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.11.30-21.56.45:500][445]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.30-21.56.45:500][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.11.30-21.56.45:500][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.30-21.56.45:502][445]TextureStreamingBuild: Display: Compiling optional shaders took 1.301 seconds.
+[2021.11.30-21.56.45:512][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.30-21.56.46:127][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.56.46:882][445]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Radio_Material55E7A01240482CC39BC8148131D0B01B.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Radio/Radio_Material.uasset'
+[2021.11.30-21.56.46:916][445]AssetCheck: New page: Asset Save: Radio_Material
+[2021.11.30-21.56.46:916][445]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Radio/Radio_Material.Radio_Material
+[2021.11.30-21.56.46:922][445]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.30-21.56.46:923][445]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.30-21.56.46:923][445]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.56.46:923][445]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.30-21.56.46:923][445]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.30-21.56.46:923][445]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.57.18:943][376]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.30-21.57.18:982][376]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.30-21.57.21:488][492]LogContentBrowser: Attempting asset rename: NewFolder -> Mouse
+[2021.11.30-21.57.21:488][492]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.30-21.57.27:040][860]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.11.30-21.57.27:077][860]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.11.30-21.57.32:765][162]LogContentBrowser: Attempting asset rename: NewMaterial -> Mouse_Material
+[2021.11.30-21.57.32:766][162]LogContentBrowser: End creating deferred item NewMaterial
+[2021.11.30-21.57.34:104][229]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Environment_Assets/Mouse/Mouse_Material.Mouse_Material
+[2021.11.30-21.57.34:105][229]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.34:157][229]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.34:163][229]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.34:217][229]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.57.34:217][229]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.57.34:217][229]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.57.34:217][229]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.57.34:921][251]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.57.35:108][258]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.57.35:241][263]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.57.35:266][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.57.35:664][278]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.57.36:124][294]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.30-21.57.36:124][294]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.30-21.57.36:124][294]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.30-21.57.36:124][294]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.30-21.57.40:324][385]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Mouse\Mouse_lambert1_Normal.jpg)
+[2021.11.30-21.57.40:329][385]LogTexture: Display: Building textures: Mouse_lambert1_Normal (BC5, 512X512)
+[2021.11.30-21.57.40:344][385]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Mouse\Mouse_lambert1_OcclusionRoughnessMetallic.jpg)
+[2021.11.30-21.57.40:347][385]LogTexture: Display: Building textures: Mouse_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.11.30-21.57.40:362][385]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Mouse\Mouse_lambert1_BaseColor.jpg)
+[2021.11.30-21.57.40:364][385]LogTexture: Display: Building textures: Mouse_lambert1_BaseColor (AutoDXT, 512X512)
+[2021.11.30-21.57.42:329][460]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.42:334][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.57.42:340][460]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.57.42:340][460]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.57.42:340][460]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.57.42:340][460]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.57.42:343][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.57.42:356][460]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.42:365][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.57.42:375][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.57.42:378][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.57.42:391][460]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.42:398][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.57.42:407][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.57.42:410][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.57.42:414][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.57.42:842][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.11.30-21.57.43:010][480]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.30-21.57.43:085][483]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.11.30-21.57.43:134][485]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.30-21.57.43:502][502]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-21.57.43:556][504]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.11.30-21.57.43:628][507]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.11.30-21.57.43:872][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.30-21.57.44:101][523]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.30-21.57.44:423][534]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.57.44:438][535]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-21.57.44:520][540]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.30-21.57.44:537][541]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.57.44:830][555]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.57.44:936][560]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.30-21.57.44:969][562]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.57.45:019][565]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.57.45:099][569]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.45:117][569]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.57.45:256][571]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-21.57.45:484][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.11.30-21.57.45:514][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.11.30-21.57.45:539][580]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.30-21.57.45:686][586]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.11.30-21.57.46:034][598]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.30-21.57.46:066][600]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-21.57.46:087][601]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.30-21.57.46:358][615]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.11.30-21.57.46:494][620]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.57.46:661][626]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.30-21.57.46:879][633]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.11.30-21.57.47:040][638]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.57.47:159][642]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.47:222][643]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.11.30-21.57.47:406][654]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.11.30-21.57.47:453][656]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-21.57.47:506][659]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.30-21.57.47:590][664]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.11.30-21.57.47:914][679]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.30-21.57.47:943][681]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.57.47:973][683]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.30-21.57.48:259][698]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.11.30-21.57.48:349][703]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.57.48:439][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.57.48:571][716]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.30-21.57.48:725][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.30-21.57.49:055][743]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.49:066][743]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.57.49:066][743]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.57.49:066][743]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.57.49:070][743]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.49:076][743]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.57.49:131][745]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.57.49:849][769]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.57.49:896][772]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.30-21.57.49:979][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.57.49:979][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.11.30-21.57.50:379][790]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.57.50:509][796]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.57.50:651][801]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Environment_Assets/Mouse/Mouse_lambert1_OcclusionRoughnessMetallic.Mouse_lambert1_OcclusionRoughnessMetallic
+[2021.11.30-21.57.50:689][801]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.57.51:192][817]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.30-21.57.51:192][817]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.30-21.57.51:192][817]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.57.51:193][817]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.30-21.57.51:193][817]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.30-21.57.51:193][817]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.57.52:356][888]LogTexture: Display: Building textures: Mouse_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.11.30-21.57.53:896][968]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mouse_lambert1_OcclusionRoughnesEC80EB104282F66B8B69DFBB83165D81.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Mouse/Mouse_lambert1_OcclusionRoughnessMetallic.uasset'
+[2021.11.30-21.57.53:906][968]AssetCheck: New page: Asset Save: Mouse_lambert1_OcclusionRoughnessMetallic
+[2021.11.30-21.57.53:906][968]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Mouse/Mouse_lambert1_OcclusionRoughnessMetallic.Mouse_lambert1_OcclusionRoughnessMetallic
+[2021.11.30-21.57.56:837][155]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.56:848][155]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.57.56:851][155]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.57.56:851][155]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.57.56:851][155]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.57.56:851][155]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.57.57:431][171]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.57.57:608][178]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.57.57:690][181]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.57.57:741][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.57.58:176][196]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.57.58:257][201]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.57.58:383][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.57.58:404][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.57.58:517][213]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.57.59:322][274]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.57.59:332][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.57.59:332][274]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.57.59:333][274]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.57.59:333][274]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.57.59:334][274]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.57.59:901][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.58.00:138][302]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.58.00:218][305]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.58.00:242][306]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.58.00:635][321]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.58.00:692][324]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.58.00:881][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.58.00:881][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.58.01:019][336]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.58.01:674][389]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.58.01:687][389]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.58.01:687][389]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.58.01:687][389]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.58.01:687][389]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.58.01:687][389]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.58.02:261][407]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.58.02:472][415]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.58.02:525][417]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.58.02:576][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.58.02:885][433]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.58.03:024][438]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.58.03:269][447]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.58.03:300][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.58.03:414][452]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.58.03:423][452]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.11.30-21.58.03:423][452]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.11.30-21.58.03:423][452]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.58.03:423][452]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.30-21.58.03:423][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.30-21.58.03:423][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.58.04:513][535]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.58.04:523][535]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.58.04:527][535]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.58.04:527][535]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.58.04:527][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.58.04:527][535]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.58.05:093][553]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.58.05:275][559]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.58.05:442][565]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.58.05:467][566]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.58.05:804][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.58.05:804][578]LogMaterialEditor: Saving and Compiling material Mouse_Material
+[2021.11.30-21.58.06:427][578]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.58.06:428][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.58.06:428][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.58.06:428][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.58.06:436][578]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.58.06:460][578]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.58.06:477][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.30-21.58.06:493][578]LogMaterial: Display: Missing cached shader map for material Mouse_Material, compiling. 
+[2021.11.30-21.58.06:509][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.30-21.58.06:530][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.11.30-21.58.06:543][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.11.30-21.58.06:551][578]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.30-21.58.07:116][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.11.30-21.58.07:116][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.30-21.58.07:116][578]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.11.30-21.58.07:116][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.11.30-21.58.07:675][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.11.30-21.58.07:675][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.11.30-21.58.07:675][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.11.30-21.58.07:675][578]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.11.30-21.58.07:675][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.30-21.58.07:675][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.58.07:798][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.58.07:802][578]TextureStreamingBuild: Display: Compiling optional shaders took 1.257 seconds.
+[2021.11.30-21.58.07:814][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.11.30-21.58.08:446][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.58.09:006][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.30-21.58.09:172][578]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mouse_MaterialA3020A694A5558FE454E22BE82D88428.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Mouse/Mouse_Material.uasset'
+[2021.11.30-21.58.09:200][578]AssetCheck: New page: Asset Save: Mouse_Material
+[2021.11.30-21.58.09:200][578]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Mouse/Mouse_Material.Mouse_Material
+[2021.11.30-21.58.09:207][578]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.30-21.58.09:207][578]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.30-21.58.09:207][578]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.58.09:207][578]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.30-21.58.09:207][578]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.30-21.58.09:207][578]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.58.32:493][217]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.30-21.58.32:526][217]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.30-21.58.38:488][489]LogContentBrowser: Attempting asset rename: NewFolder -> Hazard_Cone
+[2021.11.30-21.58.38:489][489]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.30-21.58.51:376][924]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Hazard_Cones\Harazd_Cone.fbx)
+[2021.11.30-21.58.51:393][924]LogFbx: Loading FBX Scene from F:\Hazard_Cones\Harazd_Cone.fbx
+[2021.11.30-21.58.51:406][924]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.30-21.58.52:862][924]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.30-21.58.52:876][924]LogFbx: Display: Triangulating static mesh Hazard_Cone
+[2021.11.30-21.58.52:881][924]LogStaticMesh: Building static mesh Harazd_Cone...
+[2021.11.30-21.58.52:885][924]LogStaticMesh: Built static mesh [0.00s] /Game/Environment_Assets/Hazard_Cone/Harazd_Cone.Harazd_Cone
+[2021.11.30-21.58.52:888][924]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.30-21.58.55:355][ 50]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.58.55:360][ 50]LogSlate: Window 'Message Log' being destroyed
+[2021.11.30-21.58.58:531][279]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.11.30-21.58.58:553][279]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.11.30-21.59.06:377][690]LogContentBrowser: Attempting asset rename: NewMaterial -> Hazard_cone_Material
+[2021.11.30-21.59.06:377][690]LogContentBrowser: End creating deferred item NewMaterial
+[2021.11.30-21.59.07:830][762]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Environment_Assets/Hazard_Cone/Hazard_cone_Material.Hazard_cone_Material
+[2021.11.30-21.59.07:831][762]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.07:884][762]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.07:889][762]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.59.07:889][762]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.07:889][762]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.59.07:889][762]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.59.07:890][762]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.08:617][781]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.59.08:881][792]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.08:957][795]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.59.09:082][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.59.09:562][817]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.11.30-21.59.09:692][821]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.59.09:789][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.30-21.59.10:025][831]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.59.10:217][837]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.30-21.59.11:038][853]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.30-21.59.11:039][853]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.30-21.59.11:039][853]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.30-21.59.11:039][853]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.30-21.59.11:725][868]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Hazard_Cones\Harazd_Cone_lambert1_Normal.jpg)
+[2021.11.30-21.59.11:733][868]LogTexture: Display: Building textures: Harazd_Cone_lambert1_Normal (BC5, 512X512)
+[2021.11.30-21.59.11:761][868]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Hazard_Cones\Harazd_Cone_lambert1_OcclusionRoughnessMetallic.jpg)
+[2021.11.30-21.59.11:764][868]LogTexture: Display: Building textures: Harazd_Cone_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.11.30-21.59.11:789][868]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Hazard_Cones\Harazd_Cone_lambert1_BaseColor.jpg)
+[2021.11.30-21.59.11:792][868]LogTexture: Display: Building textures: Harazd_Cone_lambert1_BaseColor (AutoDXT, 512X512)
+[2021.11.30-21.59.13:318][896]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.13:323][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.59.13:334][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-21.59.13:334][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.11.30-21.59.13:335][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.30-21.59.13:335][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.30-21.59.13:338][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.59.13:351][896]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.13:360][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.59.13:369][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.59.13:372][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.59.13:383][896]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.13:390][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.59.13:400][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.59.13:403][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.59.13:407][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.59.13:843][908]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.11.30-21.59.14:027][915]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.30-21.59.14:120][919]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.11.30-21.59.14:151][921]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.11.30-21.59.14:528][933]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-21.59.14:530][933]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.11.30-21.59.14:629][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.11.30-21.59.14:867][946]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.30-21.59.15:037][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.30-21.59.15:340][965]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.59.15:369][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-21.59.15:487][970]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.30-21.59.15:513][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.59.15:557][972]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.11.30-21.59.15:558][972]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.11.30-21.59.15:558][972]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.30-21.59.15:558][972]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.30-21.59.15:882][982]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.59.16:045][988]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.30-21.59.16:070][989]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.59.16:121][991]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.59.16:383][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.30-21.59.16:672][ 10]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.30-21.59.16:673][ 10]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.30-21.59.16:755][ 13]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.30-21.59.17:604][ 72]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.17:615][ 72]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.59.17:615][ 72]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.17:615][ 72]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.59.17:615][ 72]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.59.17:616][ 72]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.30-21.59.18:124][ 84]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.59.18:329][ 92]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.18:426][ 96]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.59.18:473][ 98]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.59.18:778][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.59.18:896][117]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.59.19:147][125]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.59.19:176][126]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.59.19:276][130]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.59.19:290][130]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.30-21.59.19:290][130]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.30-21.59.19:290][130]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.59.19:290][130]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.30-21.59.19:290][130]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.30-21.59.19:290][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.59.19:447][136]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.19:454][136]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.59.19:696][148]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.59.19:713][149]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.30-21.59.19:729][150]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.30-21.59.20:134][170]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.59.20:134][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.11.30-21.59.20:244][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.30-21.59.20:319][181]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.30-21.59.20:534][192]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.30-21.59.21:361][261]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.21:375][261]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.59.21:375][261]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.21:375][261]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.59.21:375][261]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.59.21:377][261]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.59.21:381][261]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.21:890][275]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.59.22:093][283]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.22:256][289]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.59.22:311][290]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.59.22:623][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.59.22:661][305]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.30-21.59.22:700][307]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.30-21.59.22:929][315]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.59.23:102][318]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.30-21.59.24:044][379]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.30-21.59.24:044][379]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.30-21.59.24:044][379]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.59.24:044][379]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.30-21.59.24:044][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.30-21.59.24:044][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.59.24:993][428]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Environment_Assets/Hazard_Cone/Harazd_Cone_lambert1_OcclusionRoughnessMetallic.Harazd_Cone_lambert1_OcclusionRoughnessMetallic
+[2021.11.30-21.59.26:672][519]LogTexture: Display: Building textures: Harazd_Cone_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.11.30-21.59.28:077][591]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Harazd_Cone_lambert1_OcclusionRo88E6D23D478947708E9C51A1FDB8C2ED.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Hazard_Cone/Harazd_Cone_lambert1_OcclusionRoughnessMetallic.uasset'
+[2021.11.30-21.59.28:089][591]AssetCheck: New page: Asset Save: Harazd_Cone_lambert1_OcclusionRoughnessMetallic
+[2021.11.30-21.59.28:089][591]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Hazard_Cone/Harazd_Cone_lambert1_OcclusionRoughnessMetallic.Harazd_Cone_lambert1_OcclusionRoughnessMetallic
+[2021.11.30-21.59.31:279][783]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.31:290][783]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.59.31:290][783]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.31:290][783]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.59.31:290][783]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.59.31:292][783]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.59.31:844][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.59.32:057][806]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.32:139][809]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.59.32:222][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.59.32:508][823]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.59.32:620][828]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.59.32:889][840]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.59.32:889][840]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.59.33:009][846]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.59.33:307][861]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.33:314][861]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.59.33:323][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.59.33:414][864]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.59.33:414][864]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.11.30-21.59.33:437][865]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.30-21.59.33:965][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.59.34:174][890]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.30-21.59.34:253][893]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.59.34:281][894]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.30-21.59.34:617][908]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.11.30-21.59.34:709][911]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.11.30-21.59.34:868][919]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.11.30-21.59.34:868][919]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.30-21.59.35:005][926]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.30-21.59.35:238][938]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.35:244][938]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.59.35:251][938]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.30-21.59.35:325][940]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.11.30-21.59.35:325][940]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.30-21.59.35:390][942]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.11.30-21.59.35:878][957]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.11.30-21.59.36:119][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.11.30-21.59.36:148][966]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.11.30-21.59.36:217][971]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.59.36:512][982]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.59.36:579][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.30-21.59.36:760][994]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.59.36:784][995]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.59.36:917][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.30-21.59.38:026][ 98]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.38:037][ 98]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.30-21.59.38:041][ 98]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.59.38:041][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.38:041][ 98]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.59.38:041][ 98]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.59.38:567][115]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.30-21.59.38:819][124]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.38:903][127]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.30-21.59.38:939][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.30-21.59.39:228][143]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.30-21.59.39:300][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.30-21.59.39:495][158]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.59.39:495][158]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.30-21.59.39:605][165]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.30-21.59.39:743][172]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.30-21.59.39:743][172]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.30-21.59.39:743][172]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.59.39:743][172]MaterialEditorStats: Texture samplers: 5/16
+[2021.11.30-21.59.39:744][172]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.30-21.59.39:744][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.59.40:708][220]LogMaterialEditor: Saving and Compiling material Hazard_cone_Material
+[2021.11.30-21.59.41:423][220]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.41:442][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.30-21.59.41:442][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.41:442][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.30-21.59.41:442][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.30-21.59.41:472][220]LogMaterial: Display: Missing cached shader map for material Hazard_cone_Material, compiling. 
+[2021.11.30-21.59.41:519][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.11.30-21.59.41:527][220]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.30-21.59.42:092][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.11.30-21.59.42:092][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.11.30-21.59.42:092][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.11.30-21.59.42:092][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.11.30-21.59.42:652][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.11.30-21.59.42:652][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.11.30-21.59.42:652][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.11.30-21.59.42:652][220]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.30-21.59.42:652][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.30-21.59.42:775][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.30-21.59.42:775][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.30-21.59.42:777][220]TextureStreamingBuild: Display: Compiling optional shaders took 1.256 seconds.
+[2021.11.30-21.59.42:788][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.11.30-21.59.43:423][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.30-21.59.43:982][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.30-21.59.44:233][220]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Hazard_cone_Material007E40D24B0A1C58A09F62B8F9556122.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Hazard_Cone/Hazard_cone_Material.uasset'
+[2021.11.30-21.59.44:266][220]AssetCheck: New page: Asset Save: Hazard_cone_Material
+[2021.11.30-21.59.44:267][220]LogContentValidation: Display: Validating Material /Game/Environment_Assets/Hazard_Cone/Hazard_cone_Material.Hazard_cone_Material
+[2021.11.30-21.59.44:275][220]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.11.30-21.59.44:275][220]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.11.30-21.59.44:275][220]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.30-21.59.44:275][220]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.30-21.59.44:275][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.11.30-21.59.44:275][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.30-21.59.59:736][410]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-21.59.59:736][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-22.00.02:870][576]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-22.00.02:870][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-22.00.04:533][666]LogSlate: Window 'Radio_Material' being destroyed
+[2021.11.30-22.00.04:557][666]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-22.00.04:557][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-22.01.11:265][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.11.30-22.01.12:671][ 32]LogSlate: Window 'Save Content' being destroyed
+[2021.11.30-22.01.12:699][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment_Assets/Ashtray" FILE="../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Ashtray.uasset" SILENT=true
+[2021.11.30-22.01.12:703][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Ashtray52058D814CD2F4E1F368C98E84EC8865.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Ashtray.uasset'
+[2021.11.30-22.01.12:708][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Calender857B3AAE4D94842B0E86DBB929599994.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Calendar/Calender.uasset'
+[2021.11.30-22.01.12:866][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Calender_1011_BaseColorEF5D70DE41348F794C2FBC9775F79302.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Calendar/Calender_1011_BaseColor.uasset'
+[2021.11.30-22.01.13:265][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Calender_1011_NormalBB61E2FD4336BF111A2AEEBCEB861590.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Calendar/Calender_1011_Normal.uasset'
+[2021.11.30-22.01.13:269][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Desk_Mat4E71EBC1492FA49359B594887BA17200.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Mat/Desk_Mat.uasset'
+[2021.11.30-22.01.13:496][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Desk_Mat_1001_BaseColor0804F1D34D83AB135CBE288B7F06324C.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Mat/Desk_Mat_1001_BaseColor.uasset'
+[2021.11.30-22.01.13:742][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Desk_Mat_1001_NormalBF58FDBA41823E329755F5A375D5F76D.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Mat/Desk_Mat_1001_Normal.uasset'
+[2021.11.30-22.01.13:746][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Files813506514F26470397571CBAD590B4A6.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Files/Files.uasset'
+[2021.11.30-22.01.13:762][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Harazd_Cone196A14634F5028DE10573AB9566E5E4C.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Hazard_Cone/Harazd_Cone.uasset'
+[2021.11.30-22.01.13:773][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Harazd_Cone_lambert1_BaseColor6C35A38F4DDAE7B35598BBB78799CE7B.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Hazard_Cone/Harazd_Cone_lambert1_BaseColor.uasset'
+[2021.11.30-22.01.13:785][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Harazd_Cone_lambert1_Normal07157C404A859CAC952766A1A8E02B0B.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Hazard_Cone/Harazd_Cone_lambert1_Normal.uasset'
+[2021.11.30-22.01.13:797][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mouse_lambert1_BaseColorF6516ED84CDE66B8A2CF6CB8B4F345B9.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Mouse/Mouse_lambert1_BaseColor.uasset'
+[2021.11.30-22.01.13:808][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mouse_lambert1_NormalCDB72E0441F130FF58AF1D8839639318.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Mouse/Mouse_lambert1_Normal.uasset'
+[2021.11.30-22.01.13:850][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Paper_Tray427CB6DB444BAA37F289BC946D6FD0FD.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Paper_Tray.uasset'
+[2021.11.30-22.01.13:861][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Phone72CF66B1408E5E14714198B40E85DDCD.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Phone/Phone.uasset'
+[2021.11.30-22.01.13:868][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Phone_lambert21_BaseColor82C48FED40F5628CD1926FB80E886C88.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Phone/Phone_lambert21_BaseColor.uasset'
+[2021.11.30-22.01.13:874][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Phone_lambert21_Normal89D64696437F170A3A777689A19355A4.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Desk_Phone/Phone_lambert21_Normal.uasset'
+[2021.11.30-22.01.13:913][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Pin_Board97C6581E4CCBE12F2C2E41B155DA912C.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Pin_Board.uasset'
+[2021.11.30-22.01.13:942][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Radio9D0CAB16456BF8A08EC2FEA828E1ABD4.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Radio/Radio.uasset'
+[2021.11.30-22.01.14:013][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Radio_1001_BaseColorDA5E53A04083928FEEE09DBD63685215.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Radio/Radio_1001_BaseColor.uasset'
+[2021.11.30-22.01.14:510][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Radio_1001_NormalE356741849DFE10D63BC558B308E1FFA.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Radio/Radio_1001_Normal.uasset'
+[2021.11.30-22.01.14:515][ 32]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Sewer_Grate71A2620C4A9CCD57EF007EA5CE320097.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Escape_Pipe/Sewer_Grate.uasset'
+[2021.11.30-22.01.14:526][ 32]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.30-22.01.14:526][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Hazard_Cone/Harazd_Cone_lambert1_BaseColor.Harazd_Cone_lambert1_BaseColor
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Hazard_Cone/Harazd_Cone_lambert1_Normal.Harazd_Cone_lambert1_Normal
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Radio/Radio_1001_BaseColor.Radio_1001_BaseColor
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Radio/Radio.Radio
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Desk_Mat/Desk_Mat.Desk_Mat
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Radio/Radio_1001_Normal.Radio_1001_Normal
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_BaseColor.Desk_Mat_1001_BaseColor
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Desk_Phone/Phone.Phone
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Desk_Phone/Phone_lambert21_Normal.Phone_lambert21_Normal
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Desk_Phone/Phone_lambert21_BaseColor.Phone_lambert21_BaseColor
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Hazard_Cone/Harazd_Cone.Harazd_Cone
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Files/Files.Files
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Mouse/Mouse_lambert1_BaseColor.Mouse_lambert1_BaseColor
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Desk_Mat/Desk_Mat_1001_Normal.Desk_Mat_1001_Normal
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Mouse/Mouse_lambert1_Normal.Mouse_lambert1_Normal
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Ashtray.Ashtray
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Pin_Board.Pin_Board
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Paper_Tray.Paper_Tray
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Calendar/Calender_1011_BaseColor.Calender_1011_BaseColor
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Calendar/Calender.Calender
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Calendar/Calender_1011_Normal.Calender_1011_Normal
+[2021.11.30-22.01.14:527][ 32]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Escape_Pipe/Sewer_Grate.Sewer_Grate

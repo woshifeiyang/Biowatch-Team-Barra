@@ -9258,3 +9258,611 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.02-11.45.51:481][780]LogFileHelpers: Saving map 'Map_1' took 34.822
 [2021.12.02-11.45.51:510][780]AssetCheck: New page: Asset Save: Map_1
 [2021.12.02-11.45.51:510][780]LogContentValidation: Display: Validating World /Game/Map/Map_1.Map_1
+[2021.12.02-11.47.49:117][ 69]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Lab_Station1_Combined6)
+[2021.12.02-11.47.50:343][205]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2021.12.02-11.47.52:381][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk8)
+[2021.12.02-11.47.53:311][384]LogEditorViewport: Clicking on Actor (LMB): Enemy_Character_C (Enemy_Character4)
+[2021.12.02-11.48.39:928][171]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.02-11.48.39:959][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.02-11.48.39:959][171]PIE: New page: PIE session: Map_1 (2 Dec 2021, 11:48:39)
+[2021.12.02-11.48.39:959][171]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.12.02-11.48.40:041][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082161s)
+[2021.12.02-11.48.40:042][171]LogAIModule: Creating AISystem for world Map_1
+[2021.12.02-11.48.40:042][171]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2021.12.02-11.48.40:042][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.083510s)
+[2021.12.02-11.48.40:085][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.12.02-11.48.40:089][171]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2021.12.02-11.48.40:089][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-11.48.40:089][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-11.48.40:089][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-11.48.40:089][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-11.48.40:089][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-11.48.40:089][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-11.48.40:089][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-11.48.40:089][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-11.48.40:089][171]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.02-11.48.40:089][171]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-11.48.40:105][171]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-11.48.40:105][171]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-11.48.40:121][171]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.12.02-11.48.40:121][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-11.48.40:121][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-11.48.40:122][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-11.48.40:122][171]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-11.48.40:122][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-11.48.40:122][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-11.48.40:133][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-11.48.40:133][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-11.48.40:134][171]LogInit: FAudioDevice initialized.
+[2021.12.02-11.48.40:134][171]LogAudio: Display: Audio Device (ID: 62) registered with world 'Map_1'.
+[2021.12.02-11.48.40:194][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-11.48.40:195][171]LogLoad: Game class is 'GameModeBase'
+[2021.12.02-11.48.40:219][171]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.12.02-11.48.40
+[2021.12.02-11.48.40:223][171]LogWorld: Bringing up level for play took: 0.027716
+[2021.12.02-11.48.40:223][171]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2021.12.02-11.48.40:240][171]Cmd: ENABLEALLSCREENMESSAGES
+[2021.12.02-11.48.40:240][171]LogEngine: Onscreen warngins/messages are now ENABLED
+[2021.12.02-11.48.40:248][171]PIE: Server logged in
+[2021.12.02-11.48.40:252][171]PIE: Play in editor total start time 0.301 seconds.
+[2021.12.02-11.48.55:736][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-11.48.55:736][373]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.12.02-11.48.55:736][373]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.02-11.48.55:754][373]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-11.48.55:758][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-11.48.55:764][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.02-11.48.55:798][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-11.48.55:830][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-11.48.55:831][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-11.48.55:831][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-11.48.55:871][373]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.12.02-11.48.55:920][374]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2021.12.02-11.57.49:133][891]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Team Barra\NewAudio\ScientistGrunt.ogg)
+[2021.12.02-11.57.53:608][ 91]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/EnemyAI/Enemy_Character.Enemy_Character
+[2021.12.02-11.58.52:759][300]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Enemy/EnemyAI/BT_Enemy.BT_Enemy
+[2021.12.02-11.59.41:233][153]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/EnemyAI/BTT_ChasePlayer.BTT_ChasePlayer
+[2021.12.02-12.00.27:038][816]BlueprintLog: New page: Compile BTT_ChasePlayer
+[2021.12.02-12.00.27:097][816]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.12.02-12.00.27:577][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyAI/BTT_ChasePlayer" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/Enemy/EnemyAI/BTT_ChasePlayer.uasset" SILENT=true
+[2021.12.02-12.00.27:653][842]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/BTT_ChasePlayer7B331A87450D4945A1813FBC7BFF4601.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/Enemy/EnemyAI/BTT_ChasePlayer.uasset'
+[2021.12.02-12.00.27:689][842]AssetCheck: New page: Asset Save: BTT_ChasePlayer
+[2021.12.02-12.00.27:689][842]LogContentValidation: Display: Validating Blueprint /Game/Enemy/EnemyAI/BTT_ChasePlayer.BTT_ChasePlayer
+[2021.12.02-12.00.30:081][976]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Sounds/ScientistGrunt.ScientistGrunt
+[2021.12.02-12.00.38:430][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Sounds/ScientistGrunt" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/Audio/Sounds/ScientistGrunt.uasset" SILENT=true
+[2021.12.02-12.00.38:457][442]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/ScientistGruntFB257E124D1430C3044DC6A098E49223.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/Audio/Sounds/ScientistGrunt.uasset'
+[2021.12.02-12.00.38:489][442]AssetCheck: New page: Asset Save: ScientistGrunt
+[2021.12.02-12.00.38:489][442]LogContentValidation: Display: Validating SoundWave /Game/Audio/Sounds/ScientistGrunt.ScientistGrunt
+[2021.12.02-12.00.39:524][501]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.02-12.00.39:566][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.02-12.00.39:566][501]PIE: New page: PIE session: Map_1 (2 Dec 2021, 12:00:39)
+[2021.12.02-12.00.39:566][501]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.12.02-12.00.39:649][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082978s)
+[2021.12.02-12.00.39:650][501]LogAIModule: Creating AISystem for world Map_1
+[2021.12.02-12.00.39:650][501]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2021.12.02-12.00.39:650][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.084293s)
+[2021.12.02-12.00.39:689][501]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2021.12.02-12.00.39:691][501]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2021.12.02-12.00.39:691][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-12.00.39:691][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-12.00.39:691][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-12.00.39:691][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-12.00.39:691][501]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-12.00.39:691][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-12.00.39:691][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-12.00.39:691][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-12.00.39:691][501]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.02-12.00.39:691][501]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-12.00.39:708][501]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-12.00.39:708][501]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-12.00.39:724][501]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.12.02-12.00.39:724][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-12.00.39:724][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-12.00.39:724][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-12.00.39:725][501]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-12.00.39:725][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-12.00.39:725][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-12.00.39:736][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-12.00.39:736][501]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-12.00.39:736][501]LogInit: FAudioDevice initialized.
+[2021.12.02-12.00.39:737][501]LogAudio: Display: Audio Device (ID: 63) registered with world 'Map_1'.
+[2021.12.02-12.00.39:800][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-12.00.39:800][501]LogLoad: Game class is 'GameModeBase'
+[2021.12.02-12.00.39:825][501]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.12.02-12.00.39
+[2021.12.02-12.00.39:829][501]LogWorld: Bringing up level for play took: 0.028091
+[2021.12.02-12.00.39:829][501]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2021.12.02-12.00.39:846][501]Cmd: ENABLEALLSCREENMESSAGES
+[2021.12.02-12.00.39:846][501]LogEngine: Onscreen warngins/messages are now ENABLED
+[2021.12.02-12.00.39:848][501]PIE: Server logged in
+[2021.12.02-12.00.39:850][501]PIE: Play in editor total start time 0.292 seconds.
+[2021.12.02-12.00.54:867][538]LogBlueprintUserMessages: [Camera_Tracker_2] Office
+[2021.12.02-12.01.11:410][481]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ScientistGrunt...
+[2021.12.02-12.01.11:410][481]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Sounds/ScientistGrunt.ScientistGrunt will be modified from 40 to 40.
+[2021.12.02-12.01.11:427][481]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 58860 while cooking SoundWave /Game/Audio/Sounds/ScientistGrunt.ScientistGrunt.
+[2021.12.02-12.01.14:106][635]LogBlueprintUserMessages: [Camera_Tracker_2] Office
+[2021.12.02-12.01.19:530][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-12.01.19:530][ 11]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.12.02-12.01.19:531][ 11]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.02-12.01.19:548][ 11]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-12.01.19:553][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-12.01.19:565][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.02-12.01.19:603][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-12.01.19:638][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-12.01.19:638][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-12.01.19:639][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-12.01.19:684][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.12.02-12.01.19:741][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2021.12.02-12.01.26:345][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Sounds/ScientistGrunt" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/Audio/Sounds/ScientistGrunt.uasset" SILENT=true
+[2021.12.02-12.01.26:371][398]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/ScientistGruntDB91F4B3461A9FCE1CD770A80A00E3FE.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/Audio/Sounds/ScientistGrunt.uasset'
+[2021.12.02-12.01.26:406][398]AssetCheck: New page: Asset Save: ScientistGrunt
+[2021.12.02-12.01.26:406][398]LogContentValidation: Display: Validating SoundWave /Game/Audio/Sounds/ScientistGrunt.ScientistGrunt
+[2021.12.02-12.01.30:185][588]LogEditorViewport: Clicking on Actor (LMB): BP_Trap_C (BP_Trap2)
+[2021.12.02-12.01.46:227][691]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.02-12.01.46:261][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.02-12.01.46:261][691]PIE: New page: PIE session: Map_1 (2 Dec 2021, 12:01:46)
+[2021.12.02-12.01.46:261][691]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map_1
+[2021.12.02-12.01.46:593][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.331960s)
+[2021.12.02-12.01.46:594][691]LogAIModule: Creating AISystem for world Map_1
+[2021.12.02-12.01.46:594][691]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2021.12.02-12.01.46:594][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map_1.Map_1 to /Game/Map/UEDPIE_0_Map_1.Map_1 (0.333284s)
+[2021.12.02-12.01.46:637][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.12.02-12.01.46:642][691]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2021.12.02-12.01.46:642][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-12.01.46:642][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-12.01.46:642][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-12.01.46:642][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-12.01.46:642][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-12.01.46:642][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-12.01.46:642][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-12.01.46:642][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-12.01.46:643][691]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.02-12.01.46:643][691]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-12.01.46:656][691]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-12.01.46:656][691]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-12.01.46:668][691]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.12.02-12.01.46:668][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-12.01.46:668][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-12.01.46:668][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-12.01.46:669][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-12.01.46:669][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-12.01.46:669][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-12.01.46:681][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-12.01.46:681][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-12.01.46:681][691]LogInit: FAudioDevice initialized.
+[2021.12.02-12.01.46:681][691]LogAudio: Display: Audio Device (ID: 64) registered with world 'Map_1'.
+[2021.12.02-12.01.46:710][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-12.01.46:711][691]LogLoad: Game class is 'GameModeBase'
+[2021.12.02-12.01.46:734][691]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2021.12.02-12.01.46
+[2021.12.02-12.01.46:738][691]LogWorld: Bringing up level for play took: 0.026130
+[2021.12.02-12.01.46:738][691]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2021.12.02-12.01.46:757][691]Cmd: ENABLEALLSCREENMESSAGES
+[2021.12.02-12.01.46:757][691]LogEngine: Onscreen warngins/messages are now ENABLED
+[2021.12.02-12.01.46:759][691]PIE: Server logged in
+[2021.12.02-12.01.46:761][691]PIE: Play in editor total start time 0.508 seconds.
+[2021.12.02-12.02.02:035][589]LogBlueprintUserMessages: [Camera_Tracker_2] Office
+[2021.12.02-12.02.13:188][147]LogBlueprintUserMessages: [Camera_Tracker_2] Office
+[2021.12.02-12.02.19:054][496]LogBlueprintUserMessages: [Camera_Tracker_2] Office
+[2021.12.02-12.02.19:720][544]LogBlueprintUserMessages: [BP_HydrationStation2_2] The number of Enemy Location is:88
+[2021.12.02-12.02.31:984][346]LogBlueprintUserMessages: [CreatureCharacter_2] GameOver, and wetness is: -4.0
+[2021.12.02-12.02.36:522][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 0 location is: X=3069.634 Y=1266.298 Z=358.150
+[2021.12.02-12.02.36:522][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 1 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:522][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 2 location is: X=-2504.861 Y=-373.315 Z=358.150
+[2021.12.02-12.02.36:522][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 3 location is: X=-2227.139 Y=1176.428 Z=358.150
+[2021.12.02-12.02.36:522][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 4 location is: X=3060.983 Y=1009.546 Z=358.150
+[2021.12.02-12.02.36:522][838]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:522][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:523][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 5 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:523][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 6 location is: X=-2709.190 Y=1156.743 Z=358.150
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:523][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 7 location is: X=-2683.795 Y=-169.457 Z=358.150
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:523][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 8 location is: X=1885.804 Y=1368.637 Z=-141.350
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:523][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 9 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:523][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 10 location is: X=-2257.959 Y=1174.934 Z=358.150
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:523][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 11 location is: X=-2698.947 Y=283.577 Z=358.150
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:523][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 12 location is: X=1885.804 Y=1368.637 Z=-141.350
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:523][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:523][838]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 13 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:524][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 14 location is: X=-2710.613 Y=679.405 Z=358.150
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:524][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 15 location is: X=-2398.576 Y=-370.151 Z=358.150
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:524][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 16 location is: X=2435.743 Y=1040.213 Z=358.150
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:524][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 17 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:524][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 18 location is: X=-1964.572 Y=-38.253 Z=358.150
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:524][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 19 location is: X=-2712.939 Y=786.854 Z=358.150
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_7
+	CreatureCharacter_C /Game/Map/UEDPIE_0_Map_1.Map_1:PersistentLevel.CreatureCharacter_2
+	Function /Game/Creature/CreatureCharacter.CreatureCharacter_C:ExecuteUbergraph_CreatureCharacter:0763
+[2021.12.02-12.02.36:524][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:524][838]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 20 location is: X=1829.348 Y=1313.057 Z=-141.350
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 21 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 22 location is: X=-2083.957 Y=-358.569 Z=358.150
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 23 location is: X=-2652.862 Y=1155.615 Z=358.150
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 24 location is: X=1829.348 Y=1313.057 Z=-141.350
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 25 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 25 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 25 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 26 location is: X=-1965.554 Y=-16.091 Z=358.150
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 26 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 26 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 27 location is: X=-2712.556 Y=744.032 Z=358.150
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 27 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 27 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:525][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 28 location is: X=2652.871 Y=1029.311 Z=358.150
+[2021.12.02-12.02.36:525][838]LogScript: Warning: Script Msg: Attempted to access index 28 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 28 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 29 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 29 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 29 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 30 location is: X=-1956.002 Y=-245.019 Z=358.150
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 30 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 30 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 31 location is: X=-2720.083 Y=1004.395 Z=358.150
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 31 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 31 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 32 location is: X=1866.446 Y=1313.556 Z=-141.350
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 32 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 32 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 33 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 33 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 33 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 34 location is: X=-1951.916 Y=-355.763 Z=358.150
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 34 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 34 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 35 location is: X=-2724.635 Y=1152.703 Z=358.150
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 35 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:526][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:526][838]LogScript: Warning: Script Msg: Attempted to access index 35 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 36 location is: X=1866.446 Y=1313.556 Z=-141.350
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 36 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 36 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 37 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 37 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 37 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 38 location is: X=-1985.443 Y=519.687 Z=358.150
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 38 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 38 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 39 location is: X=-2696.869 Y=232.007 Z=358.150
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 39 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 39 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 40 location is: X=1902.900 Y=1067.830 Z=358.150
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 40 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 40 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 41 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 41 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 41 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 42 location is: X=-1985.330 Y=504.186 Z=358.150
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 42 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 42 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 43 location is: X=-2696.738 Y=246.913 Z=358.150
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 43 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:527][838]LogScript: Warning: Script Msg: Attempted to access index 43 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:527][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 44 location is: X=1910.605 Y=1596.040 Z=358.150
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 44 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 44 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 45 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 45 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 45 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 46 location is: X=-2111.332 Y=-361.947 Z=358.150
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 46 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 46 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 47 location is: X=-1998.813 Y=877.198 Z=358.150
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 47 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 47 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 48 location is: X=2288.703 Y=1048.806 Z=358.150
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 48 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 48 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 49 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 49 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 49 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 50 location is: X=-1969.301 Y=119.434 Z=358.150
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 50 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 50 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 51 location is: X=-2708.569 Y=633.700 Z=358.150
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 51 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 51 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:528][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 52 location is: X=1881.796 Y=1578.978 Z=358.150
+[2021.12.02-12.02.36:528][838]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 53 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 53 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 53 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 54 location is: X=-2000.009 Y=-355.085 Z=358.150
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 54 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 54 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 55 location is: X=-2005.878 Y=1004.865 Z=358.150
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 55 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 55 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 56 location is: X=2698.030 Y=1027.265 Z=358.150
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 56 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 56 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 57 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 57 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 57 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 58 location is: X=-1954.401 Y=-287.146 Z=358.150
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 58 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 58 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 59 location is: X=-2721.257 Y=1041.493 Z=358.150
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 59 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 59 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:529][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 60 location is: X=3068.015 Y=1185.252 Z=358.150
+[2021.12.02-12.02.36:529][838]LogScript: Warning: Script Msg: Attempted to access index 60 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 60 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 61 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 61 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 61 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 62 location is: X=-2423.791 Y=-371.288 Z=358.150
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 62 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 62 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 63 location is: X=-2295.149 Y=1173.311 Z=358.150
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 63 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 63 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 64 location is: X=3078.161 Y=1470.037 Z=358.150
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 64 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 64 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 65 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 65 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 65 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 66 location is: X=-2677.540 Y=-379.429 Z=358.150
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 66 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 66 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 67 location is: X=-2010.467 Y=1186.036 Z=358.150
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 67 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 67 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:530][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 68 location is: X=3085.971 Y=1689.241 Z=358.150
+[2021.12.02-12.02.36:530][838]LogScript: Warning: Script Msg: Attempted to access index 68 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 68 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 69 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 69 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 69 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 70 location is: X=-2677.540 Y=-379.429 Z=358.150
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 70 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 70 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 71 location is: X=-2010.467 Y=1186.036 Z=358.150
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 72 location is: X=3085.971 Y=1689.241 Z=358.150
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 72 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 72 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 73 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 73 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 73 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 74 location is: X=-2679.711 Y=-308.722 Z=358.150
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 74 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 74 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 75 location is: X=-2008.927 Y=1145.552 Z=358.150
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 75 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 75 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 76 location is: X=3042.640 Y=1691.367 Z=358.150
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 76 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:531][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:531][838]LogScript: Warning: Script Msg: Attempted to access index 76 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 77 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 77 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 77 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 78 location is: X=-2686.597 Y=-84.390 Z=358.150
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 78 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 78 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 79 location is: X=-2000.395 Y=921.276 Z=358.150
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 79 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 79 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 80 location is: X=2802.441 Y=1703.149 Z=358.150
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 80 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 80 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 81 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 81 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 81 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 82 location is: X=-2693.977 Y=155.985 Z=358.150
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 82 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 82 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 83 location is: X=-1991.253 Y=680.963 Z=358.150
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 83 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 83 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 84 location is: X=2473.998 Y=1719.261 Z=358.150
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 84 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:532][838]LogScript: Warning: Script Msg: Attempted to access index 84 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:532][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 85 location is: X=-2357.707 Y=-2180.550 Z=358.150
+[2021.12.02-12.02.36:533][838]LogScript: Warning: Script Msg: Attempted to access index 85 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:533][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:533][838]LogScript: Warning: Script Msg: Attempted to access index 85 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:533][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 86 location is: X=-2704.068 Y=484.669 Z=358.150
+[2021.12.02-12.02.36:533][838]LogScript: Warning: Script Msg: Attempted to access index 86 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:533][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:533][838]LogScript: Warning: Script Msg: Attempted to access index 86 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:533][838]LogBlueprintUserMessages: [CreatureCharacter_2] Enemy 87 location is: X=-1978.752 Y=352.362 Z=358.150
+[2021.12.02-12.02.36:533][838]LogScript: Warning: Script Msg: Attempted to access index 87 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.36:533][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Blueprint:  CreatureCharacter Function:  Execute Ubergraph Creature Character Graph:  EventGraph Node:  SetActorLocation
+[2021.12.02-12.02.36:533][838]LogScript: Warning: Script Msg: Attempted to access index 87 from array 'EnemyList' of length 4 in '/Game/BluePrint/Camera_Tracker.Camera_Tracker_C'!
+[2021.12.02-12.02.54:715][961]LogBlueprintUserMessages: [CreatureCharacter_2] GameOver, and wetness is: -4.0
+[2021.12.02-12.02.55:335][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-12.02.55:335][ 28]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map_1
+[2021.12.02-12.02.55:335][ 28]LogSlate: Window 'Biowatch Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.02-12.02.55:357][ 28]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-12.02.55:360][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-12.02.55:369][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.02-12.02.55:381][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-12.02.55:419][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-12.02.55:420][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-12.02.55:421][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-12.02.55:462][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.12.02-12.02.55:781][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2021.12.02-12.02.58:016][158]LogSlate: Window 'Message Log' being destroyed
+[2021.12.02-12.02.58:030][158]LogSlate: Window 'Message Log' being destroyed
+[2021.12.02-12.03.08:480][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Sounds/ScientistGrunt" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/Audio/Sounds/ScientistGrunt.uasset" SILENT=true
+[2021.12.02-12.03.08:503][920]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/ScientistGrunt55E5C6F641611759F1768AAE8ADDA7E5.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/Audio/Sounds/ScientistGrunt.uasset'
+[2021.12.02-12.03.08:543][920]AssetCheck: New page: Asset Save: ScientistGrunt
+[2021.12.02-12.03.08:543][920]LogContentValidation: Display: Validating SoundWave /Game/Audio/Sounds/ScientistGrunt.ScientistGrunt
+[2021.12.02-12.03.10:645][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Trap_C (BP_Trap2)
+[2021.12.02-12.03.19:319][664]LogEditorViewport: Clicking on Actor (LMB): BP_Trap_C (BP_Trap2)
+[2021.12.02-12.03.58:344][ 40]BlueprintLog: New page: Compile BP_Trap
+[2021.12.02-12.03.58:366][ 40]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (BP_Trap2)
+[2021.12.02-12.03.58:497][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.12.02-12.03.58:875][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Trap" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/BluePrint/BP_Trap.uasset" SILENT=true
+[2021.12.02-12.03.59:295][ 59]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/BP_Trap9C37EFAF4706E562CBBCDE8F4C141EED.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/BluePrint/BP_Trap.uasset'
+[2021.12.02-12.03.59:331][ 59]AssetCheck: New page: Asset Save: BP_Trap
+[2021.12.02-12.03.59:331][ 59]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/BP_Trap.BP_Trap
+[2021.12.02-12.04.02:610][299]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.12.02-12.04.02:645][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="M:/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.02-12.04.02:684][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.12.02-12.04.31:942][299]LogSavePackage: Moving 'M:/Biowatch-Team-Barra/Biowatch/Saved/Map_1327344F14457BCD5D42736A56C4B812F.tmp' to 'M:/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap'
+[2021.12.02-12.04.31:998][299]LogFileHelpers: Saving map 'Map_1' took 29.355
+[2021.12.02-12.04.32:030][299]AssetCheck: New page: Asset Save: Map_1
+[2021.12.02-12.04.32:030][299]LogContentValidation: Display: Validating World /Game/Map/Map_1.Map_1
+[2021.12.02-12.04.41:675][829]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Creature/CreatureCharacter.CreatureCharacter

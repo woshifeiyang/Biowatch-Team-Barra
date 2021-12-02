@@ -3368,3 +3368,414 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.01-23.16.12:593][153]LogContentValidation: Display: Validating Material /Game/Environment_Assets/ZPotions/Potion_Liquid4.Potion_Liquid4
 [2021.12.01-23.16.12:593][153]LogContentValidation: Display: Validating Material /Game/Environment_Assets/ZPotions/Potion_Glass2.Potion_Glass2
 [2021.12.01-23.16.12:593][153]LogContentValidation: Display: Validating Material /Game/Environment_Assets/ZPotions/Potion_Glass1.Potion_Glass1
+[2021.12.01-23.17.18:459][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_polySurface1)
+[2021.12.01-23.17.24:516][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.12.01-23.17.26:772][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_Sewer_Island_Stairs)
+[2021.12.01-23.17.28:771][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2021.12.01-23.17.38:904][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting17)
+[2021.12.01-23.17.53:042][368]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.01-23.18.56:123][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_polySurface1)
+[2021.12.01-23.18.59:910][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting57)
+[2021.12.01-23.19.02:976][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_polySurface1)
+[2021.12.01-23.19.04:320][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting57)
+[2021.12.01-23.19.10:023][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_polySurface1)
+[2021.12.01-23.19.11:148][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting57)
+[2021.12.01-23.19.14:422][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_polySurface1)
+[2021.12.01-23.19.15:628][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_Ceiling_Pipe_Curved14)
+[2021.12.01-23.19.22:251][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting56)
+[2021.12.01-23.19.25:552][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting56)
+[2021.12.01-23.19.27:676][662]Cmd: DELETE
+[2021.12.01-23.19.27:676][662]Cmd: ACTOR DELETE
+[2021.12.01-23.19.27:692][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.01-23.19.27:701][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.12.01-23.19.27:711][662]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.12.01-23.19.28:246][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Skirting57)
+[2021.12.01-23.19.28:471][706]Cmd: DELETE
+[2021.12.01-23.19.28:471][706]Cmd: ACTOR DELETE
+[2021.12.01-23.19.28:487][706]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.01-23.19.28:494][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.01-23.19.28:495][706]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.12.01-23.19.53:328][182]LogActorFactory: Actor Factory created Cube
+[2021.12.01-23.19.56:738][531]LogActorFactory: Actor Factory created Cube
+[2021.12.01-23.20.43:240][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_polySurface1)
+[2021.12.01-23.20.49:982][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2021.12.01-23.21.08:316][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2021.12.01-23.21.13:838][679]Cmd: TRANSACTION UNDO
+[2021.12.01-23.21.13:838][679]LogEditorTransaction: Undo Move Actors
+[2021.12.01-23.21.18:373][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sewer_Island_Group_polySurface1)
+[2021.12.01-23.21.20:148][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2021.12.01-23.22.39:775][230]LogActorFactory: Actor Factory created Phone
+[2021.12.01-23.22.42:299][415]LogActorFactory: Actor Factory created Phone
+[2021.12.01-23.22.44:147][525]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.01-23.23.49:879][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mouse2)
+[2021.12.01-23.24.34:749][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2021.12.01-23.24.56:033][293]Cmd: TRANSACTION UNDO
+[2021.12.01-23.24.56:033][293]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.01-23.25.25:319][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keyboard2)
+[2021.12.01-23.25.27:429][ 90]Cmd: TRANSACTION UNDO
+[2021.12.01-23.25.27:429][ 90]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.01-23.25.55:782][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor)
+[2021.12.01-23.25.57:101][783]Cmd: DELETE
+[2021.12.01-23.25.57:101][783]Cmd: ACTOR DELETE
+[2021.12.01-23.25.57:117][783]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.01-23.25.57:126][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.12.01-23.25.57:136][783]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.12.01-23.26.00:689][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keyboard2)
+[2021.12.01-23.26.02:015][ 97]Cmd: DELETE
+[2021.12.01-23.26.02:015][ 97]Cmd: ACTOR DELETE
+[2021.12.01-23.26.02:030][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.01-23.26.02:038][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.01-23.26.02:040][ 97]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.12.01-23.26.24:228][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keyboard6)
+[2021.12.01-23.26.33:205][132]Cmd: TRANSACTION UNDO
+[2021.12.01-23.26.33:205][132]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.01-23.27.14:534][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube91)
+[2021.12.01-23.27.20:652][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor2)
+[2021.12.01-23.28.00:451][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor16)
+[2021.12.01-23.28.23:655][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor2)
+[2021.12.01-23.28.25:142][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk11)
+[2021.12.01-23.28.42:784][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keyboard6)
+[2021.12.01-23.29.14:718][567]LogEditorViewport: Clicking on Actor (LMB): BP_normalClipboard_C (BP_normalClipboard3)
+[2021.12.01-23.29.17:559][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk11)
+[2021.12.01-23.29.38:166][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio)
+[2021.12.01-23.29.54:524][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor6)
+[2021.12.01-23.30.58:751][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio)
+[2021.12.01-23.31.08:381][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Keyboard3)
+[2021.12.01-23.31.35:114][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor5)
+[2021.12.01-23.31.40:294][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor3)
+[2021.12.01-23.31.51:043][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor5)
+[2021.12.01-23.32.05:345][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane17)
+[2021.12.01-23.32.07:922][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor5)
+[2021.12.01-23.32.08:463][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Monitor3)
+[2021.12.01-23.32.13:361][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Desk2)
+[2021.12.01-23.32.16:483][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio)
+[2021.12.01-23.32.23:689][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mouse)
+[2021.12.01-23.32.39:942][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Phone6)
+[2021.12.01-23.32.52:728][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Radio)
+[2021.12.01-23.32.57:392][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube88)
+[2021.12.01-23.33.11:436][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube88)
+[2021.12.01-23.34.01:760][457]LogActorFactory: Actor Factory created Trolley
+[2021.12.01-23.34.02:223][486]LogActorFactory: Actor Factory created Trolley
+[2021.12.01-23.35.02:243][ 64]LogActorFactory: Actor Factory created Cage
+[2021.12.01-23.35.02:593][ 86]LogActorFactory: Actor Factory created Cage
+[2021.12.01-23.35.46:969][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2021.12.01-23.36.14:135][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trolley2)
+[2021.12.01-23.37.21:118][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.01-23.37.51:501][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube1...
+[2021.12.01-23.37.51:523][ 95]LogStaticMesh: Built static mesh [0.02s] /Game/Environment_Assets/Ceiling_Grate_pCube1.Ceiling_Grate_pCube1
+[2021.12.01-23.37.51:529][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube10...
+[2021.12.01-23.37.51:553][ 95]LogStaticMesh: Built static mesh [0.02s] /Game/Environment_Assets/Ceiling_Grate_pCube10.Ceiling_Grate_pCube10
+[2021.12.01-23.37.51:558][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube11...
+[2021.12.01-23.37.51:569][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube11.Ceiling_Grate_pCube11
+[2021.12.01-23.37.51:574][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube12...
+[2021.12.01-23.37.51:587][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube12.Ceiling_Grate_pCube12
+[2021.12.01-23.37.51:592][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube13...
+[2021.12.01-23.37.51:603][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube13.Ceiling_Grate_pCube13
+[2021.12.01-23.37.51:609][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube16...
+[2021.12.01-23.37.51:622][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube16.Ceiling_Grate_pCube16
+[2021.12.01-23.37.51:627][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube18...
+[2021.12.01-23.37.51:652][ 95]LogStaticMesh: Built static mesh [0.03s] /Game/Environment_Assets/Ceiling_Grate_pCube18.Ceiling_Grate_pCube18
+[2021.12.01-23.37.51:658][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube19...
+[2021.12.01-23.37.51:670][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube19.Ceiling_Grate_pCube19
+[2021.12.01-23.37.51:675][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube20...
+[2021.12.01-23.37.51:687][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube20.Ceiling_Grate_pCube20
+[2021.12.01-23.37.51:692][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube23...
+[2021.12.01-23.37.51:704][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube23.Ceiling_Grate_pCube23
+[2021.12.01-23.37.51:709][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube24...
+[2021.12.01-23.37.51:719][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube24.Ceiling_Grate_pCube24
+[2021.12.01-23.37.51:725][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube25...
+[2021.12.01-23.37.51:736][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube25.Ceiling_Grate_pCube25
+[2021.12.01-23.37.51:741][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube27...
+[2021.12.01-23.37.51:752][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube27.Ceiling_Grate_pCube27
+[2021.12.01-23.37.51:757][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube31...
+[2021.12.01-23.37.51:769][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube31.Ceiling_Grate_pCube31
+[2021.12.01-23.37.51:774][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube32...
+[2021.12.01-23.37.51:786][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube32.Ceiling_Grate_pCube32
+[2021.12.01-23.37.51:791][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube33...
+[2021.12.01-23.37.51:804][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube33.Ceiling_Grate_pCube33
+[2021.12.01-23.37.51:809][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube35...
+[2021.12.01-23.37.51:820][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube35.Ceiling_Grate_pCube35
+[2021.12.01-23.37.51:825][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube36...
+[2021.12.01-23.37.51:836][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube36.Ceiling_Grate_pCube36
+[2021.12.01-23.37.51:841][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube4...
+[2021.12.01-23.37.51:853][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube4.Ceiling_Grate_pCube4
+[2021.12.01-23.37.51:858][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube5...
+[2021.12.01-23.37.51:870][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube5.Ceiling_Grate_pCube5
+[2021.12.01-23.37.51:875][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube6...
+[2021.12.01-23.37.51:886][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube6.Ceiling_Grate_pCube6
+[2021.12.01-23.37.51:892][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube7...
+[2021.12.01-23.37.51:904][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube7.Ceiling_Grate_pCube7
+[2021.12.01-23.37.51:909][ 95]LogStaticMesh: Building static mesh Ceiling_Grate_pCube9...
+[2021.12.01-23.37.51:920][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Ceiling_Grate_pCube9.Ceiling_Grate_pCube9
+[2021.12.01-23.37.51:945][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube1
+[2021.12.01-23.37.51:946][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube10
+[2021.12.01-23.37.51:947][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube11
+[2021.12.01-23.37.51:947][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube12
+[2021.12.01-23.37.51:948][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube13
+[2021.12.01-23.37.51:948][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube16
+[2021.12.01-23.37.51:949][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube18
+[2021.12.01-23.37.51:949][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube19
+[2021.12.01-23.37.51:950][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube20
+[2021.12.01-23.37.51:950][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube23
+[2021.12.01-23.37.51:951][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube24
+[2021.12.01-23.37.51:951][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube25
+[2021.12.01-23.37.51:952][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube27
+[2021.12.01-23.37.51:952][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube31
+[2021.12.01-23.37.51:953][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube32
+[2021.12.01-23.37.51:953][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube33
+[2021.12.01-23.37.51:954][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube35
+[2021.12.01-23.37.51:954][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube36
+[2021.12.01-23.37.51:955][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube4
+[2021.12.01-23.37.51:955][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube5
+[2021.12.01-23.37.51:956][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube6
+[2021.12.01-23.37.51:956][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube7
+[2021.12.01-23.37.51:957][ 95]LogActorFactory: Actor Factory created Ceiling_Grate_pCube9
+[2021.12.01-23.37.52:380][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube1
+[2021.12.01-23.37.52:393][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube10
+[2021.12.01-23.37.52:406][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube11
+[2021.12.01-23.37.52:419][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube12
+[2021.12.01-23.37.52:432][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube13
+[2021.12.01-23.37.52:445][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube16
+[2021.12.01-23.37.52:458][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube18
+[2021.12.01-23.37.52:471][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube19
+[2021.12.01-23.37.52:484][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube20
+[2021.12.01-23.37.52:497][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube23
+[2021.12.01-23.37.52:511][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube24
+[2021.12.01-23.37.52:527][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube25
+[2021.12.01-23.37.52:542][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube27
+[2021.12.01-23.37.52:557][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube31
+[2021.12.01-23.37.52:571][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube32
+[2021.12.01-23.37.52:585][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube33
+[2021.12.01-23.37.52:600][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube35
+[2021.12.01-23.37.52:614][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube36
+[2021.12.01-23.37.52:629][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube4
+[2021.12.01-23.37.52:643][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube5
+[2021.12.01-23.37.52:657][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube6
+[2021.12.01-23.37.52:672][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube7
+[2021.12.01-23.37.52:686][111]LogActorFactory: Actor Factory created Ceiling_Grate_pCube9
+[2021.12.01-23.38.24:153][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2021.12.01-23.38.32:072][136]Cmd: TRANSACTION UNDO
+[2021.12.01-23.38.32:072][136]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.01-23.38.32:528][144]Cmd: TRANSACTION UNDO
+[2021.12.01-23.38.32:528][144]LogEditorTransaction: Undo Move Actors
+[2021.12.01-23.38.32:925][165]Cmd: TRANSACTION UNDO
+[2021.12.01-23.38.32:925][165]LogEditorTransaction: Undo Move Actors
+[2021.12.01-23.38.33:308][187]Cmd: TRANSACTION UNDO
+[2021.12.01-23.38.33:308][187]LogEditorTransaction: Undo Move Actors
+[2021.12.01-23.38.33:669][206]Cmd: TRANSACTION UNDO
+[2021.12.01-23.38.33:669][206]LogEditorTransaction: Undo Scale Actors
+[2021.12.01-23.38.34:021][223]Cmd: TRANSACTION UNDO
+[2021.12.01-23.38.34:021][223]LogEditorTransaction: Undo Scale Actors
+[2021.12.01-23.38.34:520][250]Cmd: TRANSACTION UNDO
+[2021.12.01-23.38.34:520][250]LogEditorTransaction: Undo Rotate Actors
+[2021.12.01-23.38.34:957][272]Cmd: TRANSACTION UNDO
+[2021.12.01-23.38.34:957][272]LogEditorTransaction: Undo Create Actors
+[2021.12.01-23.38.44:882][806]LogActorFactory: Actor Factory created Mounted_Wall_Light
+[2021.12.01-23.38.45:374][844]LogActorFactory: Actor Factory created Mounted_Wall_Light
+[2021.12.01-23.39.32:545][658]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2021.12.01-23.39.33:229][705]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2021.12.01-23.39.40:968][156]Cmd: DELETE
+[2021.12.01-23.39.40:968][156]Cmd: ACTOR DELETE
+[2021.12.01-23.39.40:984][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.01-23.39.40:996][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.12.01-23.39.41:009][156]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.12.01-23.39.44:218][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mounted_Wall_Light)
+[2021.12.01-23.39.48:170][598]Cmd: DELETE
+[2021.12.01-23.39.48:170][598]Cmd: ACTOR DELETE
+[2021.12.01-23.39.48:186][598]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.01-23.39.48:194][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.12.01-23.39.48:198][598]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.12.01-23.41.09:217][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.12.01-23.41.09:568][167]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto67FEAEC3D4898CD41FF72A1A4BE283972.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto6.umap'
+[2021.12.01-23.41.09:570][167]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.365
+[2021.12.01-23.41.09:570][167]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.365
+[2021.12.01-23.43.19:558][605]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Surgeon_Tools\Scalpel2.fbx)
+[2021.12.01-23.43.19:569][605]LogFbx: Loading FBX Scene from F:\Surgeon_Tools\Scalpel2.fbx
+[2021.12.01-23.43.19:573][605]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-23.43.20:995][605]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.01-23.43.21:012][605]LogFbx: Display: Triangulating static mesh Scalpel2
+[2021.12.01-23.43.21:016][605]LogStaticMesh: Building static mesh Scalpel2...
+[2021.12.01-23.43.21:022][605]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Surgeon_Tools/Scalpel2.Scalpel2
+[2021.12.01-23.43.21:022][605]LogStaticMesh: Warning: Scalpel2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.12.01-23.43.21:022][605]LogStaticMesh: Warning: Scalpel2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.12.01-23.43.21:026][605]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.01-23.43.21:026][605]FBXImport: Warning: Scalpel2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.12.01-23.43.21:026][605]FBXImport: Warning: Scalpel2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.12.01-23.43.21:076][605]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Surgeon_Tools\Scalpel3.fbx)
+[2021.12.01-23.43.21:108][605]LogFbx: Loading FBX Scene from F:\Surgeon_Tools\Scalpel3.fbx
+[2021.12.01-23.43.21:112][605]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-23.43.21:113][605]LogFbx: Display: Triangulating static mesh Scalpel3
+[2021.12.01-23.43.21:116][605]LogStaticMesh: Building static mesh Scalpel3...
+[2021.12.01-23.43.21:122][605]LogStaticMesh: Built static mesh [0.01s] /Game/Environment_Assets/Surgeon_Tools/Scalpel3.Scalpel3
+[2021.12.01-23.43.21:125][605]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.01-23.43.23:032][743]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-23.43.23:035][743]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-23.43.25:197][871]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Surgeon_Tools\Metal_Dish.fbx)
+[2021.12.01-23.43.25:208][871]LogFbx: Loading FBX Scene from F:\Surgeon_Tools\Metal_Dish.fbx
+[2021.12.01-23.43.25:213][871]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-23.43.26:717][871]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.01-23.43.26:731][871]LogFbx: Display: Triangulating static mesh Metal_dish
+[2021.12.01-23.43.26:734][871]LogStaticMesh: Building static mesh Metal_Dish...
+[2021.12.01-23.43.26:738][871]LogStaticMesh: Built static mesh [0.00s] /Game/Environment_Assets/Surgeon_Tools/Metal_Dish.Metal_Dish
+[2021.12.01-23.43.26:742][871]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.01-23.43.29:074][ 18]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-23.43.29:077][ 18]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-23.43.31:631][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Surgeon_Tools\Mallet.fbx)
+[2021.12.01-23.43.31:642][154]LogFbx: Loading FBX Scene from F:\Surgeon_Tools\Mallet.fbx
+[2021.12.01-23.43.31:646][154]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-23.43.33:065][154]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.01-23.43.33:079][154]LogFbx: Display: Triangulating static mesh Mallet
+[2021.12.01-23.43.33:083][154]LogStaticMesh: Building static mesh Mallet...
+[2021.12.01-23.43.33:087][154]LogStaticMesh: Built static mesh [0.00s] /Game/Environment_Assets/Surgeon_Tools/Mallet.Mallet
+[2021.12.01-23.43.33:090][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.01-23.43.34:966][279]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-23.43.34:969][279]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-23.43.39:220][565]LogActorFactory: Actor Factory created Metal_Dish
+[2021.12.01-23.43.40:050][647]LogActorFactory: Actor Factory created Metal_Dish
+[2021.12.01-23.44.16:644][813]Cmd: TRANSACTION UNDO
+[2021.12.01-23.44.16:644][813]LogEditorTransaction: Undo Move Actors
+[2021.12.01-23.44.25:519][343]LogActorFactory: Actor Factory created Tweezers
+[2021.12.01-23.44.25:520][343]LogActorFactory: Actor Factory created Scalpel3
+[2021.12.01-23.44.25:521][343]LogActorFactory: Actor Factory created Scalpel2
+[2021.12.01-23.44.25:521][343]LogActorFactory: Actor Factory created Scalpel
+[2021.12.01-23.44.26:371][409]LogActorFactory: Actor Factory created Tweezers
+[2021.12.01-23.44.26:385][409]LogActorFactory: Actor Factory created Scalpel3
+[2021.12.01-23.44.26:399][409]LogActorFactory: Actor Factory created Scalpel2
+[2021.12.01-23.44.26:412][409]LogActorFactory: Actor Factory created Scalpel
+[2021.12.01-23.44.37:055][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tweezers)
+[2021.12.01-23.44.43:761][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Trolley5)
+[2021.12.01-23.44.44:516][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scalpel)
+[2021.12.01-23.44.57:448][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scalpel)
+[2021.12.01-23.45.01:897][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scalpel3)
+[2021.12.01-23.45.14:528][246]Cmd: TRANSACTION UNDO
+[2021.12.01-23.45.14:528][246]LogEditorTransaction: Undo Move Actors
+[2021.12.01-23.45.59:204][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scalpel3)
+[2021.12.01-23.46.34:893][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tweezers)
+[2021.12.01-23.46.37:787][141]Cmd: TRANSACTION UNDO
+[2021.12.01-23.46.37:787][141]LogEditorTransaction: Undo Move Actors
+[2021.12.01-23.46.38:498][167]Cmd: TRANSACTION UNDO
+[2021.12.01-23.46.38:498][167]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.01-23.46.47:396][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tweezers)
+[2021.12.01-23.47.06:626][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scalpel4)
+[2021.12.01-23.47.22:139][742]LogActorFactory: Actor Factory created Mallet
+[2021.12.01-23.47.22:850][798]LogActorFactory: Actor Factory created Mallet
+[2021.12.01-23.51.09:693][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.12.01-23.51.09:995][613]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto74F1228D945E0FE7DC8A60BAEC9AF5F3C.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto7.umap'
+[2021.12.01-23.51.09:998][613]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.316
+[2021.12.01-23.51.09:998][613]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.316
+[2021.12.01-23.51.09:998][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Surgeon_Tools/Scalpel2] ([1] browsable assets)...
+[2021.12.01-23.51.10:008][613]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Surgeon_Tools/Scalpel2.Scalpel2]
+[2021.12.01-23.51.10:008][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Surgeon_Tools/Scalpel2]
+[2021.12.01-23.51.10:014][613]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel2_Auto776010D4F43E5054AEC30F2B4358AB943.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Surgeon_Tools/Scalpel2_Auto7.uasset'
+[2021.12.01-23.51.10:015][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Surgeon_Tools/Scalpel3] ([1] browsable assets)...
+[2021.12.01-23.51.10:026][613]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Surgeon_Tools/Scalpel3.Scalpel3]
+[2021.12.01-23.51.10:026][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Surgeon_Tools/Scalpel3]
+[2021.12.01-23.51.10:031][613]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel3_Auto74684534140D90FFD628678975BAB316F.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Surgeon_Tools/Scalpel3_Auto7.uasset'
+[2021.12.01-23.51.10:032][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Surgeon_Tools/Metal_Dish] ([1] browsable assets)...
+[2021.12.01-23.51.10:041][613]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Surgeon_Tools/Metal_Dish.Metal_Dish]
+[2021.12.01-23.51.10:041][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Surgeon_Tools/Metal_Dish]
+[2021.12.01-23.51.10:047][613]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Metal_Dish_Auto7F0F88E7146F3A1199CE02DA7438FADE6.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Surgeon_Tools/Metal_Dish_Auto7.uasset'
+[2021.12.01-23.51.10:048][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment_Assets/Surgeon_Tools/Mallet] ([1] browsable assets)...
+[2021.12.01-23.51.10:057][613]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment_Assets/Surgeon_Tools/Mallet.Mallet]
+[2021.12.01-23.51.10:057][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment_Assets/Surgeon_Tools/Mallet]
+[2021.12.01-23.51.10:062][613]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mallet_Auto7E7A7E5BC4D90B1CB056CE7AEEDBEE00D.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Environment_Assets/Surgeon_Tools/Mallet_Auto7.uasset'
+[2021.12.01-23.51.10:063][613]LogFileHelpers: Auto-saving content packages took 0.065
+[2021.12.01-23.53.42:864][  9]Cmd: TRANSACTION UNDO
+[2021.12.01-23.53.42:864][  9]LogEditorTransaction: Undo Create Actors
+[2021.12.02-00.01.10:251][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.12.02-00.01.10:583][793]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_1_Auto895E1E1984E546D2BA49CE19DF4396461.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Autosaves/Game/Map/Map_1_Auto8.umap'
+[2021.12.02-00.01.10:587][793]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Map_1' took 0.353
+[2021.12.02-00.01.10:587][793]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.353
+[2021.12.02-00.04.47:087][441]LogHttp: Warning: 000002AAB68DC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE4663366-4B59-E4FC-779C-32B5E45F321D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8f544597489e874321e3ffa5df521f76%7C90cb10eb55894a8da0fe0b1afb9dc930%7Cf714fcdc-2d5d-4259-a0af-5967424e4a9d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.12.02-00.04.47:087][441]LogHttp: Warning: 000002AAB68DC800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.12.02-00.04.47:087][441]LogHttp: Warning: 000002AAB68DC800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2aa1a69feb0 [can pipeline])
+[2021.12.02-00.04.47:087][441]LogHttp: Warning: 000002AAB68DC800: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2021.12.02-00.04.47:087][441]LogHttp: Warning: 000002AAB68DC800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.211.33.254) port 443 (#4))
+[2021.12.02-00.04.47:087][441]LogHttp: Warning: 000002AAB68DC800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.12.02-00.04.47:087][441]LogHttp: Warning: 000002AAB68DC800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.12.02-00.04.47:088][441]LogHttp: Warning: 000002AAB68DC800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.12.02-00.04.47:088][441]LogHttp: Warning: 000002AAB68DC800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.12.02-00.04.47:088][441]LogHttp: Warning: 000002AAB68DC800: libcurl info message cache 7 (Closing connection 4)
+[2021.12.02-00.04.47:425][442]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE4663366-4B59-E4FC-779C-32B5E45F321D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8f544597489e874321e3ffa5df521f76%7C90cb10eb55894a8da0fe0b1afb9dc930%7Cf714fcdc-2d5d-4259-a0af-5967424e4a9d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.12.02-00.05.27:916][563]LogHttp: Warning: 000002AAB68DC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE4663366-4B59-E4FC-779C-32B5E45F321D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8f544597489e874321e3ffa5df521f76%7C90cb10eb55894a8da0fe0b1afb9dc930%7Cf714fcdc-2d5d-4259-a0af-5967424e4a9d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.12.02-00.05.27:916][563]LogHttp: Warning: 000002AAB68DC800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.12.02-00.05.27:916][563]LogHttp: Warning: 000002AAB68DC800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.12.02-00.05.27:916][563]LogHttp: Warning: 000002AAB68DC800: libcurl info message cache 1 (Closing connection 5)
+[2021.12.02-00.05.28:249][564]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE4663366-4B59-E4FC-779C-32B5E45F321D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8f544597489e874321e3ffa5df521f76%7C90cb10eb55894a8da0fe0b1afb9dc930%7Cf714fcdc-2d5d-4259-a0af-5967424e4a9d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.12.02-00.06.00:066][658]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.12.02-00.07.56:588][425]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Tweezers_lambert1_Normal.jpg)
+[2021.12.02-00.07.56:609][425]LogTexture: Display: Building textures: Tweezers_lambert1_Normal (BC5, 512X512)
+[2021.12.02-00.07.56:624][425]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Tweezers_lambert1_OcclusionRoughnessMetallic.jpg)
+[2021.12.02-00.07.56:627][425]LogTexture: Display: Building textures: Tweezers_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.12.02-00.07.56:648][425]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Tweezers_lambert1_BaseColor.jpg)
+[2021.12.02-00.07.56:651][425]LogTexture: Display: Building textures: Tweezers_lambert1_BaseColor (AutoDXT, 512X512)
+[2021.12.02-00.08.00:541][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Scalpel3_lambert1_Normal.jpg)
+[2021.12.02-00.08.00:546][469]LogTexture: Display: Building textures: Scalpel3_lambert1_Normal (BC5, 512X512)
+[2021.12.02-00.08.00:559][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Scalpel3_lambert1_OcclusionRoughnessMetallic.jpg)
+[2021.12.02-00.08.00:563][469]LogTexture: Display: Building textures: Scalpel3_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.12.02-00.08.00:607][469]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Scalpel3_lambert1_BaseColor.jpg)
+[2021.12.02-00.08.00:611][469]LogTexture: Display: Building textures: Scalpel3_lambert1_BaseColor (AutoDXT, 512X512)
+[2021.12.02-00.08.04:142][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Scalpel2_lambert1_Normal.jpg)
+[2021.12.02-00.08.04:148][512]LogTexture: Display: Building textures: Scalpel2_lambert1_Normal (BC5, 512X512)
+[2021.12.02-00.08.04:161][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Scalpel2_lambert1_OcclusionRoughnessMetallic.jpg)
+[2021.12.02-00.08.04:164][512]LogTexture: Display: Building textures: Scalpel2_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.12.02-00.08.04:202][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Scalpel2_lambert1_BaseColor.jpg)
+[2021.12.02-00.08.04:205][512]LogTexture: Display: Building textures: Scalpel2_lambert1_BaseColor (AutoDXT, 512X512)
+[2021.12.02-00.08.08:016][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Scalpel_lambert1_Normal.jpg)
+[2021.12.02-00.08.08:021][566]LogTexture: Display: Building textures: Scalpel_lambert1_Normal (BC5, 512X512)
+[2021.12.02-00.08.08:038][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Scalpel_lambert1_OcclusionRoughnessMetallic.jpg)
+[2021.12.02-00.08.08:042][566]LogTexture: Display: Building textures: Scalpel_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.12.02-00.08.08:082][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Scalpel_lambert1_BaseColor.jpg)
+[2021.12.02-00.08.08:085][566]LogTexture: Display: Building textures: Scalpel_lambert1_BaseColor (AutoDXT, 512X512)
+[2021.12.02-00.08.11:840][602]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Mallet_lambert1_Normal.jpg)
+[2021.12.02-00.08.11:846][602]LogTexture: Display: Building textures: Mallet_lambert1_Normal (BC5, 512X512)
+[2021.12.02-00.08.11:861][602]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Mallet_lambert1_OcclusionRoughnessMetallic.jpg)
+[2021.12.02-00.08.11:864][602]LogTexture: Display: Building textures: Mallet_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2021.12.02-00.08.11:918][602]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Surgeon_Tools\Mallet_lambert1_BaseColor.jpg)
+[2021.12.02-00.08.11:922][602]LogTexture: Display: Building textures: Mallet_lambert1_BaseColor (AutoDXT, 512X512)
+[2021.12.02-00.09.06:891][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.12.02-00.09.08:777][324]LogSlate: Window 'Save Content' being destroyed
+[2021.12.02-00.09.08:815][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mallet506801B640D878F2DC10A99F19C62DA4.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Mallet.uasset'
+[2021.12.02-00.09.08:839][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mallet_lambert1_BaseColor018C6CFF4D4A8AE02921F3AA52DDEAD5.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Mallet_lambert1_BaseColor.uasset'
+[2021.12.02-00.09.08:852][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mallet_lambert1_NormalA5A1D65E425B78F3BF98918CCB74A7FE.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Mallet_lambert1_Normal.uasset'
+[2021.12.02-00.09.08:878][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Mallet_lambert1_OcclusionRoughne7F3BD1C74753D01578C8D9A48FD44CD8.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Mallet_lambert1_OcclusionRoughnessMetallic.uasset'
+[2021.12.02-00.09.08:880][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map_1" FILE="../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.02-00.09.08:890][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.02-00.09.09:191][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Map_12AC571974B83273AF880AD8B32EFF0AF.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Map/Map_1.umap'
+[2021.12.02-00.09.09:238][324]LogFileHelpers: Saving map 'Map_1' took 0.359
+[2021.12.02-00.09.09:241][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Metal_Dish077C8FBE4DD184FED89AF2933228F73F.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Metal_Dish.uasset'
+[2021.12.02-00.09.09:244][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel2E95CB16740D7D831B74ADE97ACB308D4.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel2.uasset'
+[2021.12.02-00.09.09:263][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel2_lambert1_BaseColorF7E9D04A42915DEA7B7B38A69FC6BBE5.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel2_lambert1_BaseColor.uasset'
+[2021.12.02-00.09.09:285][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel2_lambert1_NormalAFC0245D4738BC92706A0ABDE903C7F8.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel2_lambert1_Normal.uasset'
+[2021.12.02-00.09.09:304][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel2_lambert1_OcclusionRough305753574881022474C0C1A4368374F3.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel2_lambert1_OcclusionRoughnessMetallic.uasset'
+[2021.12.02-00.09.09:307][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel3F14DAF3F4C5AF3AF2B5223AD4B293979.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel3.uasset'
+[2021.12.02-00.09.09:327][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel3_lambert1_BaseColorE578A2484BD8C35ABA5F5381E4DE9E85.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel3_lambert1_BaseColor.uasset'
+[2021.12.02-00.09.09:348][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel3_lambert1_Normal1D9209CA4BE982B73C5678B2059E25F9.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel3_lambert1_Normal.uasset'
+[2021.12.02-00.09.09:368][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel3_lambert1_OcclusionRoughBFA0CD9441781398680C0D93C68B0C7C.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel3_lambert1_OcclusionRoughnessMetallic.uasset'
+[2021.12.02-00.09.09:393][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel_lambert1_BaseColorF474491E4AD5ED6FF9B9108434E0A1D0.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel_lambert1_BaseColor.uasset'
+[2021.12.02-00.09.09:415][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel_lambert1_Normal0F5CF47F40341B9CFC5F1A9A7F104B0A.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel_lambert1_Normal.uasset'
+[2021.12.02-00.09.09:435][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Scalpel_lambert1_OcclusionRoughn9E9C09F84D74C937E4F5ED90E85F1D09.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Scalpel_lambert1_OcclusionRoughnessMetallic.uasset'
+[2021.12.02-00.09.09:452][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Tweezers_lambert1_BaseColorB7C5D9864AF6331B32D566B0DFD31705.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Tweezers_lambert1_BaseColor.uasset'
+[2021.12.02-00.09.09:463][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Tweezers_lambert1_Normal7BD1981944448E92E9AD9BA6DF8C1EFB.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Tweezers_lambert1_Normal.uasset'
+[2021.12.02-00.09.09:479][324]LogSavePackage: Moving '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Saved/Tweezers_lambert1_OcclusionRough3D0F6CB741C20BB9337A83BA2C8B6CE6.tmp' to '../../../../../../Users/oMegaZee/Documents/GitHub/Biowatch-Team-Barra/Biowatch/Content/Environment_Assets/Surgeon_Tools/Tweezers_lambert1_OcclusionRoughnessMetallic.uasset'
+[2021.12.02-00.09.09:495][324]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Mallet_lambert1_BaseColor.Mallet_lambert1_BaseColor
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Mallet_lambert1_OcclusionRoughnessMetallic.Mallet_lambert1_OcclusionRoughnessMetallic
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Mallet_lambert1_Normal.Mallet_lambert1_Normal
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Scalpel_lambert1_BaseColor.Scalpel_lambert1_BaseColor
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Scalpel_lambert1_OcclusionRoughnessMetallic.Scalpel_lambert1_OcclusionRoughnessMetallic
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Scalpel_lambert1_Normal.Scalpel_lambert1_Normal
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Scalpel2_lambert1_BaseColor.Scalpel2_lambert1_BaseColor
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Scalpel2_lambert1_OcclusionRoughnessMetallic.Scalpel2_lambert1_OcclusionRoughnessMetallic
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Surgeon_Tools/Mallet.Mallet
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Scalpel2_lambert1_Normal.Scalpel2_lambert1_Normal
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Scalpel3_lambert1_BaseColor.Scalpel3_lambert1_BaseColor
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Scalpel3_lambert1_OcclusionRoughnessMetallic.Scalpel3_lambert1_OcclusionRoughnessMetallic
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Scalpel3_lambert1_Normal.Scalpel3_lambert1_Normal
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Tweezers_lambert1_BaseColor.Tweezers_lambert1_BaseColor
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Surgeon_Tools/Metal_Dish.Metal_Dish
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Tweezers_lambert1_OcclusionRoughnessMetallic.Tweezers_lambert1_OcclusionRoughnessMetallic
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating Texture2D /Game/Environment_Assets/Surgeon_Tools/Tweezers_lambert1_Normal.Tweezers_lambert1_Normal
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Surgeon_Tools/Scalpel3.Scalpel3
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating World /Game/Map/Map_1.Map_1
+[2021.12.02-00.09.09:495][324]LogContentValidation: Display: Validating StaticMesh /Game/Environment_Assets/Surgeon_Tools/Scalpel2.Scalpel2
